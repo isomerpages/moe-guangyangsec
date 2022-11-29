@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Student Management.md
+      - CCA/Environmental Science.md
       - CCA/AV Club.md
       - CCA/CCA Schedule 2023.md
       - CCA/.keep
