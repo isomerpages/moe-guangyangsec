@@ -2,11 +2,11 @@ collections:
   about-gyss:
     output: true
     order:
-      - Our Staff/Form Teachers.md
-      - Our Staff/.keep
       - Principal's Message.md
       - Our Vision & Mission.md
       - Our History.md
       - Our School Crest and Anthem.md
       - School Management Committee.md
       - School Advisory Committee.md
+      - Our Staff/.keep
+      - Our Staff/Form Teachers.md
