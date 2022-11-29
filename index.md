@@ -16,8 +16,8 @@ sections:
         - title: Announcement
           description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Quick Links
+          description: ""
           url: https://gmail.com
   - infobar:
       title: Infobar title
