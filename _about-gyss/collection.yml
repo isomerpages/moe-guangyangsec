@@ -2,5 +2,6 @@ collections:
   about-gyss:
     output: true
     order:
+      - Our School Crest and Anthem.md
       - PRINCIPAL’S MESSAGE 2022.md
       - Our Vision & Mission.md
