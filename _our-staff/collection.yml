@@ -2,5 +2,5 @@ collections:
   our-staff:
     output: true
     order:
-      - Non Form Teachers.md
       - Form Teachers.md
+      - Non Form Teachers.md
