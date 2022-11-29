@@ -21,7 +21,4 @@ sections:
           url: ""
   - infobar:
       title: Strong in Principles, Steadfast in Duty
-      button: Button text
-      url: /faq/
 ---
-
