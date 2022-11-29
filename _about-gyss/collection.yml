@@ -2,5 +2,5 @@ collections:
   about-gyss:
     output: true
     order:
-      - Our Vision & Mission.md
       - PRINCIPAL’S MESSAGE 2022.md
+      - Our Vision & Mission.md
