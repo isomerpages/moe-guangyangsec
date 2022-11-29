@@ -3,7 +3,6 @@ title: Student Management
 permalink: /leader/student-management/
 description: ""
 ---
-
 ### Vision and Mission
 
 **Vision:** Every Student, A Self-Discipline Student.
