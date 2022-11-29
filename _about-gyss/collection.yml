@@ -2,6 +2,6 @@ collections:
   about-gyss:
     output: true
     order:
-      - Our School Crest and Anthem.md
       - Principal's Message.md
       - Our Vision & Mission.md
+      - Our School Crest and Anthem.md
