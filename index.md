@@ -18,7 +18,7 @@ sections:
           url: ""
         - title: Quick Links
           description: ""
-          url: https://gmail.com
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
