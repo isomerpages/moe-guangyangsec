@@ -3,6 +3,9 @@ title: PRINCIPAL’S MESSAGE 2022
 permalink: /PRINCIPALSMESSAGE/
 description: ""
 ---
+
+
+
 Welcome to a new year of learning and discovery!
 
 Guangyang Secondary School welcomes you to 2022 and another exciting year of learning and discovery. While learning through the pandemic has not been a walk in the park, GYsians, students and staff have more than ably and willingly risen up to the challenges of the past 2 years and achieved both academically and character-wise. True to the school vision of “Learners for Today, Leaders for Tomorrow”, our students have learnt and adapted to the ever changing world around them, be it home-based academic learning or taking part in their CCA from their living rooms, singing and taking part in physical activities remotely, this willingness and disposition to learn, unlearn and relearn has served the GY community very well. As we hope for  a return to pre-pandemic normality in 2022, our GY-sians also look back and appreciate the lessons that have moulded them positively in the most unique of circumstances..
