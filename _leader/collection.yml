@@ -2,6 +2,6 @@ collections:
   leader:
     output: true
     order:
-      - folder-page.md
+      - Student Management.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
