@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Student Management.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - CCA/.keep
+      - CCA/subfolder-page.md
