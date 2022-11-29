@@ -31,7 +31,9 @@ The programme culminated in a concert where classes showcased their class dance 
 
 The Secondary Two Outdoor Adventure Camp was held in the final week of Semester 1 as part of their post-exam activities. To strengthen their class cohesion, a series of programmes such as Values-In-Action, outdoor cooking and heritage trail are integrated in the camp. This camp also provided an insight into the MOE-Outward-Bound Singapore Challenge which all students will be embarking on as they move on to Secondary Three.
 
-****Secondary 3** \[School values: Integrity and Care**\]
+![](/images/Student%20Leader/SL1.jpg)
+
+**Secondary 3** \[School values: Integrity and Care\]
 
 MOE-Outward Bound Singapore Challenge 2022 is a form of Outdoor Education which aims to provide rich learning experiences outside the classroom and helps our students to develop holistically, building up their resilience and ruggedness. The provision of authentic learning experiences aims to help our students to develop 21st century competencies as well as competencies for sustainable, active and healthy living.
 
