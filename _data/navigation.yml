@@ -2,8 +2,6 @@ logo: /images/GYSSNEWLOGO.png
 links:
   - title: About GYSS
     collection: about-gyss
-  - title: Example Page
-    url: /example-page/
   - title: Our Experience
     collection: leader
   - title: Contact Us
