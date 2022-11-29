@@ -1,4 +1,5 @@
 collections:
   about-gyss:
     output: true
-    order: []
+    order:
+      - PRINCIPAL’S MESSAGE 2022.md
