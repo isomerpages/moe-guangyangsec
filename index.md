@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: https://google.com
+          url: ""
         - title: Quick Links
           description: ""
           url: https://gmail.com
