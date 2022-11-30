@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Student Management.md
-      - CCA/Basketball Boys.md
       - CCA/.keep
       - CCA/CCA Schedule 2023.md
       - CCA/AV Club.md
+      - CCA/Basketball Boys.md
       - CCA/Environmental Science.md
       - CCA/Infocomm Technology.md
