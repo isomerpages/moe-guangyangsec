@@ -25,3 +25,14 @@ National Inter-School Championship
 *   Annual Overseas Basketball Enrichment Trip
 *   Value in Action (VIA)
 
+### CCA Schedule
+
+Every Tuesday & Thursday (330pm to 530pm)  
+Every Friday (230pm to 430pm)
+
+### Teacher-in-charge:
+
+Ms Ruth Koh (Overall IC)  
+Mr Murtaza Shabbir Kurbanhusen  
+Ms Nailul Shakhira Bte Mohd Rusli  
+Mr See Yong Xin
