@@ -18,9 +18,9 @@ Students are divided into six teams with each team comprising of eight to ten me
 
 This year, the AV Club embarked on a Photography Workshop for the lower secondary members, conducted by the prize-winning photographers/ trainers from Objectifs Centre For Photography and Film. This workshop comprised of six sessions, with a final session embarking on a guided shoot through vibrant, multicultural Waterloo Street. Besides teaching the students the technical know-hows of handling cameras, they were also equipped with the creative concepts and principles of composition, framing and lighting. With acclaimed award-winning photographers like Bernice Wong and Deanna Wong as their mentors, the students analysed, reviewed, and evaluated works by well-known photographers and applied these ideas and techniques in their own work. This was an enriching experience for the students as they attempted to find stories in their surroundings and translated these into their photographs.
 
-![AV2](https://guangyangsec.moe.edu.sg/wp-content/uploads/2021/11/AV2.jpg)
 
-![AV3](https://guangyangsec.moe.edu.sg/wp-content/uploads/2021/11/AV3.jpg)
+
+
 
 ###### A reflection or quote from a student, teacher or stakeholder / partner
 
