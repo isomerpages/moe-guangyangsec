@@ -53,7 +53,7 @@ Supported the Sec 1 Cohort ICT Lesson on micro:bits
 
 ### CCA Schedule
 
-*   Every Thursday 330 pm to 6 pm
+* Every Thursday 330 pm to 6 pm
 
 ### Teachers-in-charge
 
