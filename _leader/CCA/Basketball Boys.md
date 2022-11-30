@@ -4,11 +4,13 @@ permalink: /leader/CCA/basketballboys/
 description: ""
 third_nav_title: CCA
 ---
-A CHANCE……to DREAM
+                                                  A CHANCE……to DREAM
 
-A CHANCE……to BELIEVE!
+                                                 A CHANCE……to BELIEVE!
 
-A CHANCE ……to Make It HAPPEN!
+                                           A CHANCE ……to Make It HAPPEN!
+
+![](/images/Student%20Leader/BB1-1024x683.jpg)
 
 Basketball is one of the **niche CCAs** in GYSS. Teachers and Coach work closely to support each other in the training and activities for the Team. We BELIEVE in our students and provide an opportunity for young talents to come together to fulfill their dreams as an excellent basketball player.
 
@@ -24,6 +26,8 @@ National Inter-School Championship
 *   Annual Residential Camp
 *   Annual Overseas Basketball Enrichment Trip
 *   Value in Action (VIA)
+
+![](/images/Student%20Leader/BB5.jpg)
 
 ### CCA Schedule
 
