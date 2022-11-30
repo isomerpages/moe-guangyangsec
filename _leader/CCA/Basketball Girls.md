@@ -28,6 +28,8 @@ _Teachers are very caring, supportive and encouraging. Trainings are mostly fun 
 
 _Basketball CCA has taught me about perseverance, not to give up easily. Teamwork is also important – we learn how to work together and strive for the best._ – **Pang Wei Qing 3N1’2020**
 
+![](/images/Student%20Leader/BBGirls%20Key-Achievements.jpg)
+
 **Training Schedule**
 
 Every Monday and Thursday 3.15pm – 6.15pm
