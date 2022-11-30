@@ -15,11 +15,10 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: ""
+          url: https://guangyangsec.moe.edu.sg/announcement/
         - title: Quick Links
           description: ""
           url: ""
   - infobar:
       title: Strong in Principles, Steadfast in Duty
 ---
-
