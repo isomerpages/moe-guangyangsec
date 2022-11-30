@@ -5,11 +5,6 @@ description: ""
 third_nav_title: CCA
 ---
 
-                                                     A CHANCE……to DREAM
-
-                                                 A CHANCE……to BELIEVE!
-
-                                           A CHANCE ……to Make It HAPPEN!
 
 ![](/images/Student%20Leader/BB1-1024x683.jpg)
 
