@@ -2,7 +2,7 @@
 layout: homepage
 title: Guangyang Secondary School
 description: A Ministry of Education School
-image: /images/isomer-logo.svg
+image: /images/GYSSNEWLOGO.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -22,3 +22,4 @@ sections:
   - infobar:
       title: Strong in Principles, Steadfast in Duty
 ---
+
