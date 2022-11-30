@@ -2,6 +2,7 @@ collections:
   leader:
     output: true
     order:
+      - Craft and Technology.md
       - Student Management.md
       - CCA/.keep
       - CCA/CCA Schedule 2023.md
