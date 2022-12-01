@@ -3,8 +3,6 @@ title: English & Literature
 permalink: /thinker/english/
 description: ""
 ---
-
-
 ### Vision and Mission
 
 *   Every GYSS student is a competent and confident communicator.
