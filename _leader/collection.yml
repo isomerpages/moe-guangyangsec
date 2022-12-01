@@ -4,7 +4,6 @@ collections:
     order:
       - Craft and Technology.md
       - Student Management.md
-      - CCA/Football.md
       - CCA/.keep
       - CCA/CCA Schedule 2023.md
       - CCA/AV Club.md
@@ -15,3 +14,4 @@ collections:
       - CCA/Badminton Boys.md
       - CCA/Badminton Girls.md
       - CCA/Cross Country.md
+      - CCA/Football.md
