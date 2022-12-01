@@ -2,5 +2,6 @@ collections:
   thinker:
     output: true
     order:
+      - English & Literature.md
       - Subject Based Banding.md
       - Craft and Technology.md
