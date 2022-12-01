@@ -2,4 +2,5 @@ collections:
   thinker:
     output: true
     order:
+      - Craft and Technology.md
       - Subject Based Banding.md
