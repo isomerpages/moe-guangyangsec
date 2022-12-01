@@ -1,4 +1,5 @@
 collections:
   thinker:
     output: true
-    order: []
+    order:
+      - Subject Based Banding.md
