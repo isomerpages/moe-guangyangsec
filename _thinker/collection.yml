@@ -2,7 +2,6 @@ collections:
   thinker:
     output: true
     order:
-      - Physical Education.md
       - Subject Based Banding.md
       - Commerce.md
       - Craft and Technology.md
@@ -10,3 +9,4 @@ collections:
       - Mathematics.md
       - Mother Tongue.md
       - Science.md
+      - Physical Education.md
