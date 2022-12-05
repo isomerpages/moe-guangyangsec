@@ -2,9 +2,9 @@ collections:
   thinker:
     output: true
     order:
-      - Mother Tongue.md
       - Subject Based Banding.md
       - Commerce.md
       - Craft and Technology.md
       - English & Literature.md
       - Mathematics.md
+      - Mother Tongue.md
