@@ -2,9 +2,9 @@ collections:
   thinker:
     output: true
     order:
-      - Computing.md
       - Subject Based Banding.md
       - Commerce.md
+      - Computing.md
       - Craft and Technology.md
       - English & Literature.md
       - Mathematics.md
