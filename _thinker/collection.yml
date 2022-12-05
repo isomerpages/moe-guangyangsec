@@ -2,7 +2,6 @@ collections:
   thinker:
     output: true
     order:
-      - Life Long Learning.md
       - Subject Based Banding.md
       - Applied Learning Programme.md
       - Commerce.md
@@ -13,3 +12,4 @@ collections:
       - Mother Tongue.md
       - Science.md
       - Physical Education.md
+      - Life Long Learning.md
