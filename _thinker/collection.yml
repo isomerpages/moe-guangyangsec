@@ -2,13 +2,13 @@ collections:
   thinker:
     output: true
     order:
-      - Humanities.md
       - Subject Based Banding.md
       - Applied Learning Programme.md
       - Commerce.md
       - Computing.md
       - Craft and Technology.md
       - English & Literature.md
+      - Humanities.md
       - Mathematics.md
       - Mother Tongue.md
       - Science.md
