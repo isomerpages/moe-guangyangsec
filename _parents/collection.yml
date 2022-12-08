@@ -2,8 +2,8 @@ collections:
   parents:
     output: true
     order:
-      - Consent for Photography and Videography.md
       - Financial Assistance.md
       - Parents Support Group.md
       - Parents Gateway.md
       - Leave of Absence.md
+      - Consent for Photography and Videography.md
