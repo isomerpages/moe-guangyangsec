@@ -3,6 +3,8 @@ title: Direct School Admission
 permalink: /admission/dsa/
 description: ""
 ---
+![](/images/Student%20Advocate/DSA-pic-01-1024x683.jpg)
+
 1.  **Background**
 
 The DSA-SEC Exercise was introduced by the Ministry of Education in 2004 to promote holistic education and provide students an opportunity to demonstrate a more diverse range of achievements and talents in seeking admission to a secondary school.
@@ -24,6 +26,8 @@ The table below summarises our basketball achievements for the past few years:
 Guangyang Secondary School has mapped out a comprehensive 4 Year Programme that is structured to provide students with a holistic learning experience.
 
 Under this programme, students are given opportunities to participate in a variety of activities that allow them to build up their character as well as strengthen their basketball skills. These activities include:
+
+![](/images/Student%20Advocate/DSA-pic.png)
 
 5.  **Selection Criteria**
 
