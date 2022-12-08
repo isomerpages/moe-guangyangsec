@@ -29,4 +29,4 @@ towards safer and more sustainable societies.
 
 To provide an authentic learning experience, the Social Studies and Values in Action
 (VIA) teams came together to provide opportunity for students to engage in meaningful VIA projects which address the needs of society. These needs were identified from 3 main groups of beneficiaries - the migrant workers, the intellectually disabled and the elderly. With guidance from the Social Studies teachers, the 3Es and 3NAs students
-interviewed the beneficiaries in order to gather data on their needs. They then proposed suitable Value-In-Action project and as a form class, execute the chosen proposal, thus making their learning visible. 
+interviewed the beneficiaries in order to gather data on their needs. They then proposed suitable Value-In-Action project and as a form class, execute the chosen proposal, thus making their learning visible.
