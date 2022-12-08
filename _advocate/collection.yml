@@ -1,4 +1,5 @@
 collections:
   advocate:
     output: true
-    order: []
+    order:
+      - Character Development Programme.md
