@@ -2,5 +2,6 @@ collections:
   admission:
     output: true
     order:
+      - Returning Singaporeans.md
       - International Students.md
       - Secondary One Appeal Form.md
