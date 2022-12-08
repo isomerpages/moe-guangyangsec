@@ -2,7 +2,7 @@ collections:
   parents:
     output: true
     order:
-      - Leave of Absence.md
       - Financial Assistance.md
       - Parents Support Group.md
       - Parents Gateway.md
+      - Leave of Absence.md
