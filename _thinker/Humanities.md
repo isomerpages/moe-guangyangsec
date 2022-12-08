@@ -25,8 +25,13 @@ The attachment programme with Earth Observatory of Singapore (EOS) for selected 
 volcanic eruptions, tsunamis, and climate change in and around Southeast Asia, 
 towards safer and more sustainable societies.
 
+![](/images/Student%20Thinker/Hum1.jpg)
+
 **Issue Investigation – Values in Action Project 2022**
 
 To provide an authentic learning experience, the Social Studies and Values in Action
 (VIA) teams came together to provide opportunity for students to engage in meaningful VIA projects which address the needs of society. These needs were identified from 3 main groups of beneficiaries - the migrant workers, the intellectually disabled and the elderly. With guidance from the Social Studies teachers, the 3Es and 3NAs students
 interviewed the beneficiaries in order to gather data on their needs. They then proposed suitable Value-In-Action project and as a form class, execute the chosen proposal, thus making their learning visible.
+
+![](/images/Student%20Thinker/Hum3.jpg)
+
