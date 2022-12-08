@@ -35,3 +35,8 @@ interviewed the beneficiaries in order to gather data on their needs. They then 
 
 ![](/images/Student%20Thinker/Hum3.jpg)
 
+**Middle School International Ethics Olympiad 2022**
+
+ After winning the silver medal in 2021’s Ethics Olympiad heats, our team of 5 students moved on to the finals on 24th February 2022. During this competition, our students had opportunities to engage with each other and students from other schools on interesting and relevant ethical case studies. Despite tough competition from schools from Singapore, Hong Kong and Australia, our team was able to engage in clear,  respectful and constructive discussion with other teams on their given case studies and received honorable mentions from the judges for their impressive dialogues.
+ 
+ 
