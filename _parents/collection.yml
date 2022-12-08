@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Financial Assistance.md
       - Parents Support Group.md
       - Parents Gateway.md
