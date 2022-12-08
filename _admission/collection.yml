@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Direct School Admission.md
-      - Returning Singaporeans.md
       - International Students.md
+      - Returning Singaporeans.md
       - Secondary One Appeal Form.md
