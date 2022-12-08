@@ -2,4 +2,5 @@ collections:
   advocate:
     output: true
     order:
+      - Cyberwellness.md
       - Character Development Programme.md
