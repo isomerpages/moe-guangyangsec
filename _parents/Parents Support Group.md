@@ -12,3 +12,9 @@ As a parent volunteer, you will get to interact with other parents and share par
 We welcome parents to join PSP, a new imitative which is to provide a platform for parents to peer support themselves through the child’s journey. You will do sharing of advice and parenting tips among parents, and help to disseminate resources from the school.
 
 Interested parents, please contact Ms Joyce Tang ([tang\_si\_xin\_joyce@schools.gov.sg](mailto:tang_si_xin_joyce@schools.gov.sg)) or Ms Leong Winnie ([leong\_winnie@schools.gov.sg](mailto:leong_winnie@schools.gov.sg))
+
+**PSG Registration Form**
+
+If you are interested to be part of us, kindly scan the QR code and fill in the required information.
+
+Parents who are interested to know more about PSG, you can contact Ms Leong Winnie ([leong\_Winnie@schools.gov.sg](mailto:leong_Winnie@schools.gov.sg)) or Ms Zhao Xiaomeng ([zhao\_xiaomeng@schools.gov.sg](mailto:zhao_xiaomeng@schools.gov.sg)).
