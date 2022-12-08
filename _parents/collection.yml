@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Bookshop And Uniform.md
       - Financial Assistance.md
       - Parents Support Group.md
       - Parents Gateway.md
