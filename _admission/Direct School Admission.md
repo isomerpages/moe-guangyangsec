@@ -38,3 +38,5 @@ Interested students will be assessed on the following:
 *     Basketball Skills Assessment: A simple skills assessment which evaluates on Ball handling skill, Teamwork and Game Awareness
 
 *     Interview: A simple Interaction session after the selection trial day
+
+For more information on MOE DSA-SEC Exercise, please kindly contact Mr Puah Chee Wee HOD PE/CCA at 62589781 or email us at [puah\_chee\_wee@schools.gov.sg](mailto:puah_chee_wee@schools.gov.sg)
