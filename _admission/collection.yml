@@ -2,4 +2,5 @@ collections:
   admission:
     output: true
     order:
+      - International Students.md
       - Secondary One Appeal Form.md
