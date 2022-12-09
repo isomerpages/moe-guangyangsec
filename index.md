@@ -16,7 +16,7 @@ sections:
         - title: Announcement
           description: ""
           url: https://guangyangsec.moe.edu.sg/announcement/
-        - title: Quick Links
+        - title: Staff Quick Links
           description: ""
           url: ""
   - infobar:
