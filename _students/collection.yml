@@ -2,9 +2,9 @@ collections:
   students:
     output: true
     order:
-      - Group Personal Accident Insurance.md
       - NDLP.md
       - Student Learning Space.md
       - 2023 Booklist.md
       - GYSS Library.md
       - MOE Scholarships.md
+      - Group Personal Accident Insurance.md
