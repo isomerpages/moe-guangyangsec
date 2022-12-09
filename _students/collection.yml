@@ -2,8 +2,8 @@ collections:
   students:
     output: true
     order:
-      - MOE Scholarships.md
       - NDLP.md
       - Student Learning Space.md
       - 2023 Booklist.md
       - GYSS Library.md
+      - MOE Scholarships.md
