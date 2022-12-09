@@ -10,9 +10,11 @@ links:
     collection: advocate
   - title: Parents
     collection: parents
-  - title: Admission
-    collection: admission
+  - title: Students
+    collection: students
   - title: Staff
     collection: staff
   - title: Contact Us
     url: /contact-us/
+  - title: Admission
+    collection: admission
