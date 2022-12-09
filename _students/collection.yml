@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - GYSS Library.md
+      - NDLP.md
       - Student Learning Space.md
       - 2023 Booklist.md
-      - NDLP.md
+      - GYSS Library.md
