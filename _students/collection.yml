@@ -2,4 +2,5 @@ collections:
   students:
     output: true
     order:
+      - 2023 Booklist.md
       - NDLP.md
