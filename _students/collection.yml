@@ -2,10 +2,10 @@ collections:
   students:
     output: true
     order:
-      - My SkillsFuture.md
       - NDLP.md
       - Student Learning Space.md
       - 2023 Booklist.md
       - GYSS Library.md
       - MOE Scholarships.md
       - Group Personal Accident Insurance.md
+      - My SkillsFuture.md
