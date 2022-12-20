@@ -4,7 +4,7 @@ title: Guangyang Secondary School
 description: A Ministry of Education School
 image: /images/GYSSNEWLOGO.png
 permalink: /
-notification: Hello! Nice to meet you.
+notification: Welcome to Guangyang Secondary School
 sections:
   - hero:
       title: Guangyang Secondary School
