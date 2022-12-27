@@ -1,15 +1,20 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/GYSSNEWLOGO.png
 links:
+  - title: About GYSS
+    collection: about-gyss
+  - title: Leader
+    collection: leader
+  - title: Thinker
+    collection: thinker
+  - title: Advocate
+    collection: advocate
+  - title: Parents
+    collection: parents
+  - title: Students
+    collection: students
+  - title: Staff
+    collection: staff
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Admission
+    collection: admission

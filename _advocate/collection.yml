@@ -1,0 +1,8 @@
+collections:
+  advocate:
+    output: true
+    order:
+      - Character Development Programme.md
+      - Cyberwellness.md
+      - National Education.md
+      - Sexuality Education Programme.md
