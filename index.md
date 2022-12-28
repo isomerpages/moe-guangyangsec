@@ -18,7 +18,7 @@ sections:
           url: ""
         - title: Staff Quick Links
           description: ""
-          url: ""
+          url: https://www.guangyangsec.moe.edu.sg/staff/links/
   - infobar:
       title: Strong in Principles, Steadfast in Duty
 ---
