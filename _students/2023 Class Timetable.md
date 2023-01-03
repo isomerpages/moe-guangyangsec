@@ -11,7 +11,7 @@ Please click the below links to download the timetable.
 
 [Class 1E2 Timetable](/files/School%20timetable/2023_Sem1_1E2_Class%20Timetable.pdf)
 
-[Class 1E3 Timetable](/files/School%20timetable/2023_Sem1_1E3_Class%20Timetable.pdf)
+
 
 [Class 1N1 Timetable](/files/School%20timetable/2023_Sem1_1N1_Class%20Timetable.pdf)
 
