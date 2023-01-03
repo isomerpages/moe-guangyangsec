@@ -2,9 +2,10 @@ collections:
   students:
     output: true
     order:
+      - 2023 Class Timetable.md
+      - 2023 Booklist.md
       - NDLP.md
       - Student Learning Space.md
-      - 2023 Booklist.md
       - GYSS Library.md
       - MOE Scholarships.md
       - Group Personal Accident Insurance.md
