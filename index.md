@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Announcement
           description: ""
-          url: ""
+          url: https://guangyangsec.moe.edu.sg/announcement/
         - title: Staff Quick Links
           description: ""
           url: https://www.guangyangsec.moe.edu.sg/staff/links/
