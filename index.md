@@ -21,4 +21,9 @@ sections:
           url: https://www.guangyangsec.moe.edu.sg/staff/links/
   - infobar:
       title: Strong in Principles, Steadfast in Duty
+  - infobar:
+      title: Announcements & Events
+      description: 2023 Class Timetable
+      button: CLick here
+      url: https://guangyangsec.moe.edu.sg/announcement/
 ---
