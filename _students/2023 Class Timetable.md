@@ -64,3 +64,13 @@ Please click the below links to download the timetable.
 [Class 4E3 Timetable](/files/School%20timetable/2023_Sem1_4E3_Class%20Timetable.pdf)
 
 [Class 4E4 Timetable](/files/School%20timetable/2023_Sem1_4E4_Class%20Timetable.pdf)
+
+[Class 4N1 Timetable](/files/School%20timetable/2023_Sem1_4N1_Class%20Timetable.pdf)
+
+[Class 4N2 Timetable](/files/School%20timetable/2023_Sem1_4N2_Class%20Timetable.pdf)
+
+[Class 4N3 Timetable](/files/School%20timetable/2023_Sem1_4N3_Class%20Timetable.pdf)
+
+[Class 4T1 Timetable](/files/School%20timetable/2023_Sem1_4T1_Class%20Timetable.pdf)
+
+[Class 5N1 Timetable](/files/School%20timetable/2023_Sem1_5N1_Class%20Timetable.pdf)
