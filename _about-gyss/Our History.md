@@ -3,6 +3,11 @@ title: Our History
 permalink: /about-gyss/history/
 description: ""
 ---
+#### Kong Yiong High School (1948)
+
+<img src="/images/Homepage/1948%20GYSS.jpg" style="width:400px;"/>
+
+
 #### Kong Yiong High School (1986)
 
 Guangyang Secondary School has its humble origins in Kong Yiong High School which was located at Yio Chu Kang Road. However, in 1986, Kong Yiong High School was closed due to a sharp drop in school enrolment.
