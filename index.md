@@ -20,10 +20,17 @@ sections:
           description: ""
           url: https://www.guangyangsec.moe.edu.sg/staff/links/
   - infobar:
-      title: Strong in Principles, Steadfast in Duty
-  - infobar:
       title: Announcements & Events
       description: 2023 Class Timetable
       button: CLick here
       url: https://guangyangsec.moe.edu.sg/announcement/
+  - infobar:
+      title: Strong in Principles, Steadfast in Duty
+  - infopic:
+      title: DSA
+      button: Click Here
+      url: https://www.guangyangsec.moe.edu.sg/admission/dsa/
+      image: /images/Student Advocate/Bboy03-cropped.jpg
+      alt: Image alt text
+      description: Direct School Admission
 ---
