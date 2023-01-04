@@ -7,7 +7,6 @@ description: ""
 
 Guangyang Secondary School has its humble origins in Kong Yiong High School which was located at Yio Chu Kang Road. However, in 1986, Kong Yiong High School was closed due to a sharp drop in school enrolment.
 
-![GYSS100 Plain](https://guangyangsec.moe.edu.sg/wp-content/uploads/2021/10/GYSS100-Plain-1024x625.jpg)
 
 #### Guangyang Secondary School (1987–2005)
 
