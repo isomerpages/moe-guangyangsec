@@ -2,7 +2,6 @@ collections:
   thinker:
     output: true
     order:
-      - Subject Based Banding.md
       - Applied Learning Programme.md
       - Commerce.md
       - Computing.md
