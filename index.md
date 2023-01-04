@@ -26,4 +26,10 @@ sections:
       description: 2023 Class Timetable
       button: CLick here
       url: https://guangyangsec.moe.edu.sg/announcement/
+  - infopic:
+      title: Direct School Admission
+      button: Click Here
+      url: https://www.guangyangsec.moe.edu.sg/admission/dsa/
+      image: /images/Student Advocate/DSA-pic-01-1024x683.jpg
+      alt: Image alt text
 ---
