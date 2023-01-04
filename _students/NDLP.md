@@ -17,6 +17,8 @@ Under MOE National Digital Literacy Programme, Guangyang Secondary School will b
 
 Device cost and price includes 3-year insurance & warranty as well as a free stylus.
 
+<img src="/images/Student%20Advocate/Acer%20T733.jpg" style="width:300px;"/>
+
 ##### Lost or damaged of accessories for Lenovo Chromebooks only
 
 Please purchase any damaged or lost of accessories in the link below:
