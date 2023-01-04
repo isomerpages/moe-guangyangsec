@@ -3,6 +3,8 @@ title: Our School Crest and Anthem
 permalink: /about-gyss/crestandanthem/
 description: ""
 ---
+<img src="/images/GYSSNEWLOGO.png" style="width:200px;"/>
+
 #### School Crest
 
 The Guangyang crest symbolises our pupils illuminating the world with their radiance, like the morning sun rising over the vast ocean.
