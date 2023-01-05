@@ -6,7 +6,7 @@ agency_name: Guangyang Secondary School
 locations:
   - address:
       - 8 Bishan Street 12
-      - Singapore 57807
+      - Singapore 579807
       - ""
     operating_hours:
       - days: Mon - Fri
