@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - 2023 Semestral Plan/Principles of Accounts Semestral Plan.md
       - 2023 Semestral Plan/.keep
       - 2023 Class Timetable.md
       - 2023 Booklist.md
