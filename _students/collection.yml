@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - Semestral Plans 2023.md
+      - 2023 Semestral Plans.md
       - 2023 Class Timetable.md
       - 2023 Booklist.md
       - NDLP.md
