@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - 2023 Semestral Plan/English Language.md
       - 2023 Semestral Plan/Chinese Language.md
       - 2023 Semestral Plan/Malay Language.md
       - 2023 Semestral Plan/Principles of Accounts.md
