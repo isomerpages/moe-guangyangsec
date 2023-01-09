@@ -1,9 +1,10 @@
 ---
-title: Principles of Accounts Semestral Plan
+title: Principles of Accounts
 permalink: /students/2023-Semestral-Plan/poa/
 description: ""
 third_nav_title: 2023 Semestral Plan
 ---
+
 [3E Semestral Plan](/files/Semestral%20Plan/3E%20POA%20Subject%20Information%20for%20parents%202023.pdf)
 
 [3N Semestral Plan](/files/Semestral%20Plan/3N%20POA%20Subject%20Information%20for%20parents%202023.pdf)
