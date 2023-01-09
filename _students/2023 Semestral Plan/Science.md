@@ -27,8 +27,9 @@ third_nav_title: 2023 Semestral Plan
 [Sec 3E Sc (Chem)](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%203E%20Sc%20(Chem).pdf)
 
 [Sec 3E Sc (Phy)](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%203E%20Sc%20(Phy).pdf)
-
-[Sec 3NA Sc (Chem)](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%203N(A)%20Sc%20Chem).pdf)
+[Sec 3NA Sc (Chem)](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%203N(A)%20Sc%20Chem)
 
 [Sec 3NA Sc (Phy)](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%203N(A)%20Sc%20(Phy).pdf)
+
+
 
