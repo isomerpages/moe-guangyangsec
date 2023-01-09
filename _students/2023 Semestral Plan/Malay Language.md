@@ -22,3 +22,8 @@ third_nav_title: 2023 Semestral Plan
 
 [Sec 3NT](/files/Semestral%20Plan/3NT%20ML_Semester_Plan%202023.pdf)
 
+[Sec 4E](/files/Semestral%20Plan/4EXP%20ML_Semester_Plan%202023.pdf)
+
+[Sec 4NA](/files/Semestral%20Plan/4NA%20ML_Semester_Plan%202023.pdf)
+
+[Sec 4NT](/files/Semestral%20Plan/4NT%20ML_Semester_Plan%202023.pdf)
