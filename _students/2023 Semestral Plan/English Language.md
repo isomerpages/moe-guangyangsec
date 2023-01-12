@@ -5,3 +5,5 @@ description: ""
 third_nav_title: 2023 Semestral Plan
 ---
 [EL Curriculum and Assessment Plan](/files/Semestral%20Plan/EL%20Curriculum%20and%20Assessment%20Plan%202023.pdf)
+
+[Literature In-English Curriculum and Assessment Plan](/files/Semestral%20Plan/Literature%20In-English%20Curriculum%20and%20Assessment%20Plan%202023.pdf)
