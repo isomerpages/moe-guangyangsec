@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2023 Class Timetable.md
-      - 2023 Semestral Plan/Social Studies.md
       - 2023 Semestral Plan/.keep
       - 2023 Semestral Plan/English & Literature Language.md
       - 2023 Semestral Plan/Chinese Language.md
@@ -14,6 +13,7 @@ collections:
       - 2023 Semestral Plan/Design and Technology.md
       - 2023 Semestral Plan/Principles of Accounts.md
       - 2023 Semestral Plan/Science.md
+      - 2023 Semestral Plan/Social Studies.md
       - 2023 Booklist.md
       - NDLP.md
       - Student Learning Space.md
