@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Sec 1 Level Talk 2023.md
       - 2023 Class Timetable.md
       - 2023 Semestral Plan/.keep
       - 2023 Semestral Plan/English & Literature Language.md
@@ -27,3 +28,4 @@ collections:
       - MOE Scholarships.md
       - Group Personal Accident Insurance.md
       - My SkillsFuture.md
+      - Mental Health and Well being Mindline.md
