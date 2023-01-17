@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Mental Health and Well being Mindline.md
       - 2023 Class Timetable.md
       - 2023 Semestral Plan/.keep
       - 2023 Semestral Plan/English & Literature Language.md
@@ -28,3 +27,4 @@ collections:
       - MOE Scholarships.md
       - Group Personal Accident Insurance.md
       - My SkillsFuture.md
+      - Mental Health and Well being Mindline.md
