@@ -14,6 +14,8 @@ third_nav_title: 2023 Semestral Plan
 
 [Sec 2E CL](/files/Semestral%20Plan/Chinese/2E%20CL%20Semester%20Plan%202023.pdf)
 
+[Sec 2N CL](/files/Semestral%20Plan/Chinese/2N%20CL%20Semester%20Plan%202023.pdf)
+
 [Sec 2E HCL](/files/Semestral%20Plan/Chinese/2E%20HCL%20Semester%20Plan%202023.pdf)
 
 [Sec 2T BCL](/files/Semestral%20Plan/Chinese/2T%20BCL%20Semester%20Plan%202023.pdf)
