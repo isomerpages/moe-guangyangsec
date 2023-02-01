@@ -4,7 +4,7 @@ permalink: /students/2023-Semestral-Plan/chinese/
 description: ""
 third_nav_title: 2023 Semestral Plan
 ---
-[Sec 1E CL](/files/Semestral%20Plan/1E%20CL%20Semester%20Plan%202023.pdf)
+[Sec 1E CL](/files/Semestral%20Plan/Chinese/1E%20CL%20Semester%20Plan%202023.pdf)
 
 [Sec 1E HCL](/files/Semestral%20Plan/1E%20HCL%20Semester%20Plan%202023.pdf)
 
@@ -37,4 +37,3 @@ third_nav_title: 2023 Semestral Plan
 [Sec 4E 4N CLB](/files/Semestral%20Plan/4E4N%20CLB%20Semester%20Plan%202023.pdf)
 
 [4E  5N CL](/files/Semestral%20Plan/4E5N%20CL%20Semester%20Plan%202023.pdf)
-
