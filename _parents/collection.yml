@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Post Secondary Admissions.md
       - O Levels Result Letter.md
       - Bookshop And Uniform.md
       - Financial Assistance.md
