@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - Sec 1 Level Talk 2023.md
+      - Level Talk 2023.md
       - 2023 Class Timetable.md
       - 2023 Semestral Plan/.keep
       - 2023 Semestral Plan/English & Literature Language.md
