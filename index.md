@@ -20,12 +20,17 @@ sections:
           description: ""
           url: https://www.guangyangsec.moe.edu.sg/staff/links/
   - infobar:
+      title: Strong in Principles, Steadfast in Duty
+  - infobar:
       title: Announcements & Events
       description: 2023 Class Timetable
       button: CLick here
       url: https://guangyangsec.moe.edu.sg/announcement/
-  - infobar:
-      title: Strong in Principles, Steadfast in Duty
+  - infopic:
+      title: 105th Commendation Day
+      description: 5 May 2023
+      alt: Image alt text
+      image: /images/Commendation Day 105.jpg
   - infopic:
       title: DSA
       button: Click Here
@@ -33,8 +38,4 @@ sections:
       image: /images/Student Advocate/Bboy03-cropped.jpg
       alt: Image alt text
       description: Direct School Admission
-  - infopic:
-      title: 105th Commendation Day
-      description: Infopic description
-      alt: Image alt text
 ---
