@@ -33,4 +33,8 @@ sections:
       image: /images/Student Advocate/Bboy03-cropped.jpg
       alt: Image alt text
       description: Direct School Admission
+  - infopic:
+      title: 105th Commendation Day
+      description: Infopic description
+      alt: Image alt text
 ---
