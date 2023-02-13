@@ -9,6 +9,10 @@ Please click the link to download the slides.
 
 [Sec 1 Level Talk ](/files/Sec%201%20Level%20Talk%20Slides%2013%20Jan_compressed.pdf)
 
+[Sec 2 Level Talk](/files/Sec%202%20Level%20Talk.pdf)
+
+[Sec 2 Computing Outreach](/files/Sec%202%20Computing%20Outreach.pdf)
+
 [Sec 3 Parent's ECG Talk](/files/Sec%203%20Parent's%20ECG%20Briefing.pdf)
 
 [Sec 3 Level Talk](/files/2023_Sec%203%20Level%20Talk.pdf)
