@@ -17,7 +17,7 @@ Please click the link to download the slides.
 
 [Sec 2 Computing Outreach](/files/Sec%202%20Computing%20Outreach.pdf)
 
-[Sec 2 ECG Talk](/files/Sec%202%20ECG%20Talk.pdf)
+
 
 ### Secondary 3
 
