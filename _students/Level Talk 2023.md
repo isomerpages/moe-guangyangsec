@@ -26,7 +26,6 @@ Please click the link to download the slides.
 
 [Sec 3 Level Talk](/files/2023_Sec%203%20Level%20Talk.pdf)
 
-### Secondary 4 & 5
 
 [MOE-OBS 5D4N slides](/files/5D4N%202023%20MOE-OBS%20Parent%20Briefing%20Slides.pdf)
 
