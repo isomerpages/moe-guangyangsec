@@ -23,9 +23,9 @@ sections:
       title: Strong in Principles, Steadfast in Duty
   - infobar:
       title: Announcements & Events
-      description: 2023 Class Timetable
+      description: 105th Anniversary Homecoming
       button: CLick here
-      url: https://guangyangsec.moe.edu.sg/announcement/
+      url: https://www.guangyangsec.moe.edu.sg/about-gyss/schoolevents/
   - infopic:
       title: 105th Commendation Day
       description: 5 May 2023
