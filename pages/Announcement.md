@@ -3,8 +3,6 @@ title: Announcement
 permalink: /announcement/
 description: ""
 ---
-Dear Parents/Guardians,
+GYSS 105th Anniversary Homecoming
 
-Please click this link for our class timetable 2023. 
-
-[https://www.guangyangsec.moe.edu.sg/students/timetable/](https://www.guangyangsec.moe.edu.sg/students/timetable/)
+Click here : https://www.guangyangsec.moe.edu.sg/about-gyss/schoolevents/
