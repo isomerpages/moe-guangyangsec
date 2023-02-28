@@ -30,3 +30,8 @@ Please click the link to download the slides.
 [MOE-OBS 5D4N slides](/files/5D4N%202023%20MOE-OBS%20Parent%20Briefing%20Slides.pdf)
 
 If you are experiencing issues, do refer to this FAQ : [FAQ for Parents/Guardians](/files/Frequently-Asked-Questions-For-Parents.pdf)
+
+### Secondary 4 & 5
+
+[Sec 4 and 5 Level Talk](/files/Sec4_5_Level_Talk.pdf)
+
