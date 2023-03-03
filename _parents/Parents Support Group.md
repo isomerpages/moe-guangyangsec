@@ -21,7 +21,7 @@ Interested parents, please contact Ms Joyce Tang ([tang\_si\_xin\_joyce@schools.
 
 If you are interested to be part of us, kindly scan the QR code and fill in the required information.
 
-<img src="/images/PSG%20QR.jpeg" style="width:400px;"/>
+<img src="/images/PSG%20QR.jpeg" style="width:300px;"/>
 
 Parents who are interested to know more about PSG, you can contact Ms Leong Winnie ([leong\_Winnie@schools.gov.sg](mailto:leong_Winnie@schools.gov.sg)) or Ms Zhao Xiaomeng ([zhao\_xiaomeng@schools.gov.sg](mailto:zhao_xiaomeng@schools.gov.sg)).
 
