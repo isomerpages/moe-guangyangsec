@@ -2,6 +2,7 @@ collections:
   about-gyss:
     output: true
     order:
+      - Our Alumni.md
       - School Events.md
       - Principal's Message.md
       - Our Vision & Mission.md
