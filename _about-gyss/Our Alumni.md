@@ -20,4 +20,13 @@ Click [here](https://gyalumni.com/) to see the external website created by our
 
 ![](/images/Homepage/Alumni/Alum01.jpg) 
 
-Our Alumni members visiting the school whom some are residing in Malaysia and USA
+Our Alumni members visiting the school whom some are residing in Malaysia and USA.
+
+![](/images/Homepage/Alumni/Alum02.jpg)       
+
+Glad to have Mr Alex Chia and his wife visiting us and enjoying the history gallery.
+
+![Mid Autumn Festival](/images/Homepage/Alumni/Alum03.jpg)
+
+Mid Autumn Festival
+
