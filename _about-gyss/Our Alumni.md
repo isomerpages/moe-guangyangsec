@@ -30,3 +30,7 @@ Glad to have Mr Alex Chia and his wife visiting us and enjoying the history gall
 
 Mid Autumn Festival
 
+![](/images/Homepage/Alumni/Alum04.jpg)         
+
+Our Alumni enjoying “back to class”
+
