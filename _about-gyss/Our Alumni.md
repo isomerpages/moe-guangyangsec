@@ -12,4 +12,3 @@ In 2017, the Guangyang Secondary Alumni members reunite, reconnect, and rekindle
 If you are interested to know more, you may [mail](mailto:gyss@moe.edu.sg) the school for more information.
 
 To register as alumni member, please scan the QR code and fill in the details. Do watch out for our website or Facebook for upcoming events and happenings.
-
