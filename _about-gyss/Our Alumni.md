@@ -34,3 +34,6 @@ Mid Autumn Festival
 
 Our Alumni enjoying “back to class”
 
+![](/images/Homepage/Alumni/Alum05.jpg)
+
+The Youth Alumni waiting to say "hello, cher!" to the teachers. 
