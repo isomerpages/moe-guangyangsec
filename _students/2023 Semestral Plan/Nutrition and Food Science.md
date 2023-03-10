@@ -6,7 +6,7 @@ third_nav_title: 2023 Semestral Plan
 ---
 #### Food and Consumer Education
 
-[Sec 2 FCE ](/files/Semestral%20Plan/Nutrition%20and%20Food%20Science/2023_FCE_Sec%202ENANT%20Semestral%20Plan%201.pdf)
+
 
 #### Nutrition and Food Science
 
