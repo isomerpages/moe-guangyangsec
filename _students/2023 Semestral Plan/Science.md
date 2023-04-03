@@ -26,6 +26,8 @@ third_nav_title: 2023 Semestral Plan
 
 [3E Pure Physics](/files/Semestral%20Plan/Science/2023%20Sem1%20Plan%20for%203E%20Pure%20Physics.pdf)
 
+[3E Sc (Bio)](/files/Semestral%20Plan/Science/3e%20sci%20(bio)%20semester%20plan%201%202023.pdf)
+
 [3E Sc (Chem)](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%203E%20Sc%20(Chem).pdf)
 
 [3E Sc (Phy)](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%203E%20Sc%20(Phy).pdf)
@@ -65,5 +67,3 @@ third_nav_title: 2023 Semestral Plan
 [5NA Sc (Phy)](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%205N(A)%20Sc%20(Phy).pdf)
 
 [5NA Sc (Bio)](/files/Semestral%20Plan/Science/2023%20Sem%201%20plan%20for%205N(A)%20Sc%20(Bio).pdf)
-
-
