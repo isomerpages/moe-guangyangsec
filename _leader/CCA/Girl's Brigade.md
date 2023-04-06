@@ -8,6 +8,8 @@ The Girls’ Brigade Singapore (GBS) is an international uniformed youth organiz
 
 Guangyang Secondary School’s Girls’ Brigade Company is known as the 6th Company and is one of the earliest companies to have been established in Singapore. Embarking on the new Girls’ Brigade syllabus in 2022, the girls will work for badges in compulsory areas such as Brigade Knowledge, First Aid, Drill, and Girls’ Brigade International, and core badges that include Made for More, Made for Good Works, Made for Future, and Made for Adventure.
 
+![](/images/Student%20Leader/Uniform%20Group/gb%20(5).jpg)
+
 **Mission**
 
 Developing each girl and officer to her fullest potential by equipping, empowering and enabling
@@ -18,7 +20,7 @@ Every Officer a Servant Leader
 
 **Key Activities**
 
-
+![](/images/Student%20Leader/Uniform%20Group/gb%20table.jpg)
 
 **CCA Achievements**
 
@@ -29,6 +31,8 @@ Bronze Company Award (2021)
 Silver Company Award (2022)
 
 National Loh Guat Tin Challenge 2021 & 2022 – Silver & Bronze
+
+![](/images/Student%20Leader/Uniform%20Group/gb%20(1).jpeg)
 
 **Four-fold Programme – Badgework Activities**
 
