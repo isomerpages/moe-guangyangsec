@@ -11,6 +11,8 @@ The band program, led by our band conductor Mr Thomas Chen and assisted by Mr Le
 
 The Band Alumni is steadily growing in numbers and many of them are continuing their pursuit in band music. With their continued support and presence in our programmes, they contribute to the Band by motivating and teaching the current band members.
 
+<img style="width:400px;" src="/images/Student%20Leader/Uniform%20Group/band%2001.jpg">
+
 #### Some notable events and programmes for 2022:
 1.	School-based performance – Commendation Day
 2.	Performance for Racial Harmony Day at Bishan Community Centre
@@ -20,4 +22,13 @@ The Band Alumni is steadily growing in numbers and many of them are continuing t
 #### Some notable events and programmes for 2021:
 1.	Singapore Youth Festival Arts Presentation 2021, where Band A and B achieved Certificate of Accomplishment 
 2.	Virtual performance tribute to the transport workers in SMRT
+
+![](/images/Student%20Leader/Uniform%20Group/band%2002.jpg)
+
+![](/images/Student%20Leader/Uniform%20Group/band%2003.jpg)
+
+![](/images/Student%20Leader/Uniform%20Group/band%2004.jpg)
+
+![](/images/Student%20Leader/Uniform%20Group/band%2005.jpg)
+
 
