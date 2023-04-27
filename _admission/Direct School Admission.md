@@ -59,3 +59,6 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
  
 ####  Reflections from our DSA students
+
+![](/images/Student%20Leader/dsa003.png)
+![](/images/Student%20Leader/dsa002.png)
