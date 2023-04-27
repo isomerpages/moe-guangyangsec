@@ -3,7 +3,7 @@ title: Direct School Admission
 permalink: /admission/dsa/
 description: ""
 ---
-![](/images/Student%20Advocate/DSA-pic-01-1024x683.jpg)
+
 
 1.  **Background**
 
@@ -33,10 +33,10 @@ Under this programme, students are given opportunities to participate in a varie
 
 Interested students will be assessed on the following:
 
-*     Physical Proficiency Test: A simple physical test which evaluates Speed, Agility and Jumping ability
+*   &nbsp;&nbsp;Physical Proficiency Test: A simple physical test which evaluates Speed, Agility and Jumping ability
 
-*     Basketball Skills Assessment: A simple skills assessment which evaluates on Ball handling skill, Teamwork and Game Awareness
+*   &nbsp;&nbsp;Basketball Skills Assessment: A simple skills assessment which evaluates on Ball handling skill, Teamwork and Game Awareness
 
-*     Interview: A simple Interaction session after the selection trial day
+*   &nbsp;&nbsp;Interview: A simple Interaction session after the selection trial day
 
-For more information on MOE DSA-SEC Exercise, please kindly contact Mr Puah Chee Wee HOD PE/CCA at 62589781 or email us at [puah\_chee\_wee@schools.gov.sg](mailto:puah_chee_wee@schools.gov.sg)
+For more information on MOE DSA-SEC Exercise, please kindly contact Mr Puah Chee Wee HOD PE/CCA at 62589781 or email us at&nbsp;[puah\_chee\_wee@schools.gov.sg](mailto:puah_chee_wee@schools.gov.sg)
