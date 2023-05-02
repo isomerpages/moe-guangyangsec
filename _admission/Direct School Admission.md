@@ -43,7 +43,7 @@ Note: We will not be conducting any academic ability tests eg. GAT/ HAST in the 
 For more information on MOE DSA-SEC Exercise, please kindly contact Mr Puah Chee Wee HOD PE/CCA at 62589781 or email us at&nbsp;[puah\_chee\_wee@schools.gov.sg](mailto:puah_chee_wee@schools.gov.sg)
 
 #### Application Procedure
-![](/images/Student%20Advocate/dsatable.png)
+
 
 [DSA Open House 2023](https://go.gov.sg/gyssdsa2023)
 
