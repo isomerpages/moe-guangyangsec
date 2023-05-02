@@ -45,7 +45,7 @@ For more information on MOE DSA-SEC Exercise, please kindly contact Mr Puah Chee
 #### Application Procedure
 | Important Dates | Key Events | 
 | -------- | -------- | 
-| 4 May to 31 May     |  DSA Application period. You can go to the MOE DSA-Sec Website to access the DSA-Sec Portal    |
+| 4 May to 31 May     |  DSA Application period. You can go to the MOE DSA-Sec Website to access the DSA-Sec Portal|
 27 May (Saturday)(8.45am – 10.45am) | DSA Open House 2023, Interested applicants, kindly access this [link](https://go.gov.sg/gyssdsa2023)
 26 June – 11 September  | Shortlisted Applicants will be invited to attend a Selection Trial cum Interview Session at our school.
 Latest by 14 September |Release of the DSA Outcome by school
