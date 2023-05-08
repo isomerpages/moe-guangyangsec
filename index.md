@@ -28,9 +28,11 @@ sections:
       url: https://www.guangyangsec.moe.edu.sg/about-gyss/schoolevents/
   - infopic:
       title: 105th Commendation Day
-      description: 5 May 2023
+      description: Please click on the link to view the full ceremony.
       alt: Image alt text
       image: /images/Commendation Day 105.jpg
+      url: https://www.guangyangsec.moe.edu.sg/about-gyss/schoolevents/
+      button: Ceremony video
   - infopic:
       title: DSA
       button: Click Here
