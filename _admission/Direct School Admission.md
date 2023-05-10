@@ -48,10 +48,10 @@ For more information on MOE DSA-SEC Exercise, please kindly contact Mr Puah Chee
 
 | Important Dates | Key Event | |
 | -------- | -------- | -------- |
-| 4 May – 31 May 2023     | DSA Application period. You can go to the MOE DSA-Sec Website to access the DSA-Sec Portal      | |
+| 4 May, 11am – 31 May, 3pm 2023     | DSA Application period. You can go to the MOE DSA-Sec Website to access the DSA-Sec Portal      | |
 |27 May 2023 (Saturday)(8.45am – 10.45am)|**DSA Open House 2023**, Interested applicants, kindly access the link DSA Open House 2023 below.|
 |26 June – 11 September 2023|Shortlisted Applicants will be invited to attend a Selection Trial cum Interview Session at our school.|
-|Latest by 14 September 2023|Release of the DSA Outcome by school|
+|Latest by 11 November 2023|Release of the DSA Outcome by school|
 |23 October – 27 October 2023|School Preference Submission by students|
 |Late November 2023|Notification of DSA-SEC Admission result (on the same day the release of the PSLE results)|
 
@@ -59,7 +59,11 @@ For more information on MOE DSA-SEC Exercise, please kindly contact Mr Puah Chee
 
 **Note:** 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
-2.  Application can only be submitted via DSA-Sec Portal. Login using Singpass. 
+
+Application can only be submitted via DSA-Sec Portal. 
+Singpass login can only be used by parents whose children are studying in MOE maintstream primary schools.
+
+For other applicants not studying in MOE mainstream primary schools, parents will need to apply for a Registration Number via the MOE website before they can access the DSA-SEC Portal.
 
  
 ####  Reflections from our DSA students
