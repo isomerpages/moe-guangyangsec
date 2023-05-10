@@ -42,4 +42,16 @@ The National First Aid Competition is an annual competition which seeks to raise
 ##### Youth Ambassadors’ Blood Programme (YABP)
 Established in March 2010, the Youth Ambassador’s Blood Programme (YABP) empowers cadets to champion the life-saving cause of blood donation by providing them with opportunities to advocate blood donation to their friends, family, and community, and the skills to plan, organise and implement blood donation drives and roadshows.
 
+![](/images/Student%20Leader/Uniform%20Group/redcross07.png)
+
+##### Red Cross Headquarters events:
+1. World Red Cross Day
+2. First Aid Championships (Junior) & (Senior)
+3. Red Cross Flag Day (Grateful Hearts)
+4. Unit Leader’s Programme (ULP)
+5. FLARE Conference (Sec 4)
+6. Trailblazer Competition
+7. Disaster Risk Reduction Championship 
+8. Ambassadors of Blood Championship
+
 
