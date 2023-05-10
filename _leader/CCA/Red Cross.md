@@ -62,7 +62,25 @@ Established in March 2010, the Youth Ambassador’s Blood Programme (YABP) empow
 | Excellent Unit Award – Gold     |      |      |
 |Ambassador Blood Donation Competition – Commendation|
 |Disaster Risk Reduction Championship – Gold with Honours – 2nd Runner Up|
-|
+|First Aid Competition (Junior team) – Silver Award|
+|First Aid Competition (Senior team) – Silver Award|
+
+| 2021 | |  |
+| -------- | -------- | -------- |
+| Excellent Unit Award – Gold     |      |      |
+|Ambassador Blood Donation Competition – Gold with Honours &amp; Silver Award |
+|Disaster Risk Reduction Championship – Gold Award|
+
+| 2020 | |  |
+| -------- | -------- | -------- |
+|Excellent Unit Award – Gold     |      |      |
+|Ambassador Blood Donation Competition – Silver Award |
+|Disaster Risk Reduction Championship – Silver Award |
+|First Aid Competition (Junior team) – Bronze &amp; Silver Award
+
+<img style="width:400px;" src="/images/Student%20Leader/Uniform%20Group/redcross05.jpeg">
+<img style="width:400px;" src="/images/Student%20Leader/Uniform%20Group/redcross03.jpg">
+<img style="width:400px;" src="/images/Student%20Leader/Uniform%20Group/redcross06.jpeg">
 
 
 
