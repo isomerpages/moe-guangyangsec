@@ -51,7 +51,7 @@ For more information on MOE DSA-SEC Exercise, please kindly contact Mr Puah Chee
 | 4 May, 11am – 31 May, 3pm 2023     | DSA Application period. You can go to the MOE DSA-Sec Website to access the DSA-Sec Portal      | |
 |27 May 2023 (Saturday)(8.45am – 10.45am)|**DSA Open House 2023**, Interested applicants, kindly access the link DSA Open House 2023 below.|
 |26 June – 11 September 2023|Shortlisted Applicants will be invited to attend a Selection Trial cum Interview Session at our school.|
-|Latest by 11 November 2023|Release of the DSA Outcome by school|
+|Latest by 11 September 2023|Release of the DSA Outcome by school|
 |23 October – 27 October 2023|School Preference Submission by students|
 |Late November 2023|Notification of DSA-SEC Admission result (on the same day the release of the PSLE results)|
 
