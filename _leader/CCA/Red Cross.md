@@ -18,7 +18,7 @@ Red Cross strives to instil the Red Cross spirit and strengthen core values such
 
 By participating in providing Singapore Red Cross humanitarian services, Red Cross cadets are groomed to become good citizens with strong senses of civic responsibility. They are trained to be adaptable, resilient and confident team players. 
 
--	CCA Schedule
+#### CCA Schedule
 
 Every Thursday, 3-6 pm  
 * Students are required to attend activities and competitions organised by Red Cross Headquarters on certain weekends
@@ -43,4 +43,3 @@ The National First Aid Competition is an annual competition which seeks to raise
 Established in March 2010, the Youth Ambassador’s Blood Programme (YABP) empowers cadets to champion the life-saving cause of blood donation by providing them with opportunities to advocate blood donation to their friends, family, and community, and the skills to plan, organise and implement blood donation drives and roadshows.
 
 ![](/images/Student%20Leader/Uniform%20Group/redcross07.png)
-
