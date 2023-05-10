@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Student Management.md
-      - CCA/Red Cross.md
       - CCA/.keep
       - CCA/CCA Schedule 2023.md
       - CCA/AV Club.md
       - CCA/Band.md
       - CCA/Girl's Brigade.md
+      - CCA/Red Cross.md
       - CCA/NPCC.md
       - CCA/Environmental Science.md
       - CCA/Infocomm Technology.md
