@@ -43,3 +43,26 @@ The National First Aid Competition is an annual competition which seeks to raise
 Established in March 2010, the Youth Ambassador’s Blood Programme (YABP) empowers cadets to champion the life-saving cause of blood donation by providing them with opportunities to advocate blood donation to their friends, family, and community, and the skills to plan, organise and implement blood donation drives and roadshows.
 
 ![](/images/Student%20Leader/Uniform%20Group/redcross07.png)
+![](/images/Student%20Leader/Uniform%20Group/redcross08.png)
+
+##### Our Achievements
+
+
+
+| 2023 | |  |
+| -------- | -------- | -------- |
+|First Aid Competition (Junior team) – Bronze Award     |   |   |
+|Disaster Risk Reduction Championship – Bronze Award|
+|Ambassador of Blood Championship – Bronze Award|
+
+
+
+| 2022 | |  |
+| -------- | -------- | -------- |
+| Excellent Unit Award – Gold     |      |      |
+|Ambassador Blood Donation Competition – Commendation|
+|Disaster Risk Reduction Championship – Gold with Honours – 2nd Runner Up|
+|
+
+
+
