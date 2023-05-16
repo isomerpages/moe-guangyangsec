@@ -34,6 +34,13 @@ sections:
       url: https://www.guangyangsec.moe.edu.sg/about-gyss/schoolevents/
       button: Ceremony video
   - infopic:
+      title: Get official answers from our Q&A Platform
+      subtitle: HAVE A QUESTION?
+      description: Infopic description
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV Button Text
+      url: https://go.ask.gov.sg/gyss
+      alt: Image alt text
+  - infopic:
       title: DSA
       button: Click Here
       url: https://www.guangyangsec.moe.edu.sg/admission/dsa/
