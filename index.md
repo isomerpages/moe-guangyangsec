@@ -40,6 +40,7 @@ sections:
       button: VIEW OR ASK QUESTIONS ON ASK.GOV Button Text
       url: https://go.ask.gov.sg/gyss
       alt: Image alt text
+      image: /images/gyss-askgov.png
   - infopic:
       title: DSA
       button: Click Here
