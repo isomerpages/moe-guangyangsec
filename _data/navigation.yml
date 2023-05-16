@@ -14,7 +14,7 @@ links:
     collection: students
   - title: Staff
     collection: staff
-  - title: Contact Us
-    url: /contact-us/
   - title: Admission
     collection: admission
+  - title: Have a Question?
+    url: https://go.ask.gov.sg/gyss
