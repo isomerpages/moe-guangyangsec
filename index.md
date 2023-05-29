@@ -40,12 +40,4 @@ sections:
       image: /images/Student Advocate/Bboy03-cropped.jpg
       alt: Image alt text
       description: Direct School Admission
-  - infopic:
-      title: Get official answers from our Q&A Platform
-      subtitle: HAVE A QUESTION?
-      description: Infopic description
-      button: VIEW OR ASK QUESTIONS ON ASK.GOV Button Text
-      url: https://go.ask.gov.sg/gyss
-      alt: Image alt text
-      image: /images/gyss-askgov.png
 ---
