@@ -23,8 +23,7 @@ sections:
       title: Strong in Principles, Steadfast in Duty
   - infobar:
       title: Announcements & Events
-      description: 105th Anniversary Homecoming
-      button: CLick here
+      button: Click here
       url: https://www.guangyangsec.moe.edu.sg/about-gyss/schoolevents/
   - infopic:
       title: 105th Commendation Day
