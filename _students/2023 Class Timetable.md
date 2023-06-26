@@ -40,10 +40,21 @@ Please click the below links to download the timetable.
 [2023 Sem 2 2T1](/files/School%20timetable/Term%20Two/2023_gyss_sem2_2t1%20timetable.pdf)
 
 
-
 ### Sec 3 Timetable
 
+[2023 Sem 2 3E1](/files/School%20timetable/Term%20Two/2023_gyss_sem2_3e1%20timetable.pdf)
 
+[2023 Sem 2 3E2](/files/School%20timetable/Term%20Two/2023_gyss_sem2_3e2%20timetable.pdf)
+
+[2023 Sem 2 3E3](/files/School%20timetable/Term%20Two/2023_gyss_sem2_3e3%20timetable.pdf)
+
+[2023 Sem 2 3E4](/files/School%20timetable/Term%20Two/2023_gyss_sem2_3e4%20timetable.pdf)
+
+[2023 Sem 2 3N1](/files/School%20timetable/Term%20Two/2023_gyss_sem2_3n1%20timetable.pdf)
+
+[2023 Sem 2 3N2](/files/School%20timetable/Term%20Two/2023_gyss_sem2_3n2%20timetable.pdf)
+
+[2023 Sem 2 3T1](/files/School%20timetable/Term%20Two/2023_gyss_sem2_3t1%20timetable.pdf)
 
 
 ### Sec 4 & 5 Timetable
