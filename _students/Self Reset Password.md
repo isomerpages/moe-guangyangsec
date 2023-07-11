@@ -23,6 +23,6 @@ https://idp.mims.moe.gov.sg/nidp/app/login
 
 https://portal.mims.moe.gov.sg/sspr/public/forgottenpassword?forceAuth=TRUE
 
-
+![](/images/spw%20(5a).JPG)
 
 #### Only approach the ICT department when your account is locked.
