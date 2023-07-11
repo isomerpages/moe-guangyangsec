@@ -7,7 +7,7 @@ description: ""
 
 ##### Step 1 : Logging into your MIMS account
 
-https://idp.mims.moe.gov.sg/nidp/app/login
+[https://idp.mims.moe.gov.sg/nidp/app/login](https://idp.mims.moe.gov.sg/nidp/app/login)
 
 ![MIMS](/images/spw%20(1).JPG)
 
