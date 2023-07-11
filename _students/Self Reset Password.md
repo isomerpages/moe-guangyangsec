@@ -22,3 +22,8 @@ https://idp.mims.moe.gov.sg/nidp/app/login
 https://portal.mims.moe.gov.sg/sspr/public/forgottenpassword?forceAuth=TRUE
 
 ![](/images/spw%20(5).JPG)
+
+##### In future, you can click on the forgot password link to reset your own password. This password will be used for your student email, SLS and school WiFi.
+
+#### Only approach the ICT department when your account is locked.
+
