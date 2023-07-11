@@ -7,7 +7,7 @@ description: ""
 
 ##### Step 1 : Logging into your MIMS account
 
-https://idp.mims.moe.gov.sg/nidp/app/login
+[MIMS login page](https://idp.mims.moe.gov.sg/nidp/app/login)
 
 ![MIMS](/images/spw%20(1).JPG)
 
@@ -21,7 +21,7 @@ https://idp.mims.moe.gov.sg/nidp/app/login
 
 ##### Step 4 : Once all the steps are completed, click on the below link to reset your password
 
-https://portal.mims.moe.gov.sg/sspr/public/forgottenpassword?forceAuth=TRUE
+[Self Reset Password](https://portal.mims.moe.gov.sg/sspr/public/forgottenpassword?forceAuth=TRUE)
 
 ![](/images/spw%20(5a).JPG)
 
