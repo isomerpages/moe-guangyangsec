@@ -37,25 +37,18 @@ third_nav_title: 2023 Semestral Plan
 
 #### Sec 4
 
-[4E Pure Bio](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%204E%20Pure%20Bio.pdf)
+[4E Sci Bio Sem Plan 2](/files/Semestral%20Plan/Science/4e%20sci%20(bio)%20sem%20plan%202%202023.pdf)
 
-[4E Pure Chem](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%204E%20Pure%20Chem%20.pdf)
+[4E Sci Chemistry Sem Plan 2](/files/Semestral%20Plan/Science/4e%20sci(chem)%20sem%20plan%202%20%202023.pdf)
 
-[4E Pure Physics](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%204E%20Pure%20Physics.pdf)
+[4E Sci Physics Sem Plan 2](/files/Semestral%20Plan/Science/4e%20sci(phy)%20sem%20plan%202%202023.pdf)
 
-[4E Sc (Chem)](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%204E%20Sc%20(Chem).pdf)
+[4NA Sci Bio Sem Plan 2](/files/Semestral%20Plan/Science/4n%20sci(bio)%20sem%20plan%202%202023.pdf)
 
-[4E Sc (Phy)](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%204E%20Sc%20(Phy).pdf)
+[4NA Sci Chemistry Sem Plan 2](/files/Semestral%20Plan/Science/4n%20sci(chem)%202023%20sem%202%202023.pdf)
 
-[4NA Sc (Bio)](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%204N(A)%20%20Sc%20(Bio).pdf)
+[4NA Sci Physics Sem Plan 2](/files/Semestral%20Plan/Science/4na_sc(phy)%20sem%20plan%202%202023.pdf)
 
-[4NA Sc (Chem)](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%204N(A)%20Sc%20(Chem).pdf)
-
-[4NA Sc (Phy)](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%204N(A)%20Sc%20(Phy).pdf)
-
-[4NA Sc (Bio)](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%204N(A)%20%20Sc%20(Bio).pdf)
-
-[4NT ](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%204N(T)%20%20Science.pdf)
 
 #### Sec 5
 
