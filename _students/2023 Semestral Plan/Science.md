@@ -6,17 +6,17 @@ third_nav_title: 2023 Semestral Plan
 ---
 #### Sec 1 & 2
 
-[1E](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%201E%20Science.pdf)
+[1E Sem Plan 2](/files/Semestral%20Plan/Science/1e%20science%20sem%20plan%202%202023.pdf)
 
-[1NA](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%201N(A)%20Science.pdf)
+[1NA Sem Plan 2](/files/Semestral%20Plan/Science/1na%20science%20sem%20plan%202%202023.pdf)
 
-[1NT](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%201N(T)%20Science.pdf)
+[1NT Sem Plan 2](/files/Semestral%20Plan/Science/1nt%20science%20sem%20plan%202%202023.pdf)
 
-[2E](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%202E%20Science.pdf)
+[2E Sem Plan 2](/files/Semestral%20Plan/Science/2e%20science%20sem%20plan%202%202023.pdf)
 
-[2NA](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%202N(A)%20Science.pdf)
+[2NA Sem Plan 2](/files/Semestral%20Plan/Science/2na%20science%20sem%20plan%202%202023.pdf)
 
-[2NT](/files/Semestral%20Plan/Science/2023%20Sem%201%20Plan%20for%202N(T)%20Science.pdf)
+[2NT Sem Plan 2](/files/Semestral%20Plan/Science/2nt%20science%20sem%20plan%202%202023.pdf)
 
 #### Sec 3
 
