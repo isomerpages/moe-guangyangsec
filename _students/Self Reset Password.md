@@ -9,11 +9,9 @@ description: ""
 
 https://idp.mims.moe.gov.sg/nidp/app/login
 
-
-
 ##### Step 2 : Setting up your challenge questions
 
-##### Step 3 : Take a photo or screenshot of your challenge question's answers
+##### Step 3 : Take a photo or screenshot of your challenge questions' answers
 
 ##### Step 4 : Once all the steps are completed, click on the below link to reset your password
 
