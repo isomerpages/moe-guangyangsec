@@ -17,12 +17,12 @@ https://idp.mims.moe.gov.sg/nidp/app/login
 ![](/images/spw%20(4).JPG)
 ##### Step 3 : Take a photo or screenshot of your challenge questions' answers
 
+**In future, you can click on the forgot password link to reset your own password. This password will be used for your student email, SLS and school WiFi.**
+
 ##### Step 4 : Once all the steps are completed, click on the below link to reset your password
 
 https://portal.mims.moe.gov.sg/sspr/public/forgottenpassword?forceAuth=TRUE
 
 
-
-##### In future, you can click on the forgot password link to reset your own password. This password will be used for your student email, SLS and school WiFi.
 
 #### Only approach the ICT department when your account is locked.
