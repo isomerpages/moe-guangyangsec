@@ -4,4 +4,14 @@ permalink: /leader/cca/npcc/
 description: ""
 third_nav_title: CCA
 ---
-<iframe allowfullscreen="true" height="600" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRhiE-bnR2r2AdJpTaXhOJ9VRy4TyzZhmj4QnGnVzBhH7AMCCYW5O6GfVmAmL_ZENrmgd3m7Ukb5QLF/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+![](/images/Student%20Leader/Uniform%20Group/npcc%20(1).JPG)
+![](/images/Student%20Leader/Uniform%20Group/npcc%20(2).JPG)
+![](/images/Student%20Leader/Uniform%20Group/npcc%20(3).JPG)
+![](/images/Student%20Leader/Uniform%20Group/npcc%20(4).JPG)
+![](/images/Student%20Leader/Uniform%20Group/npcc%20(5).JPG)
+![](/images/Student%20Leader/Uniform%20Group/npcc%20(6).JPG)
+![](/images/Student%20Leader/Uniform%20Group/npcc%20(7).JPG)
+![](/images/Student%20Leader/Uniform%20Group/npcc%20(8).JPG)
+![](/images/Student%20Leader/Uniform%20Group/npcc%20(9).JPG)
+![](/images/Student%20Leader/Uniform%20Group/npcc%20(10).JPG)
+![](/images/Student%20Leader/Uniform%20Group/npcc%20(11).JPG)
