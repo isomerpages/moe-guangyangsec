@@ -26,12 +26,12 @@ sections:
       button: Click here
       url: https://www.guangyangsec.moe.edu.sg/about-gyss/schoolevents/
   - infopic:
-      title: 105th Commendation Day
-      description: Please click on the link to view the full ceremony.
+      title: Student Self Reset Password
+      description: Please click on the link to view the guide
       alt: Image alt text
-      image: /images/Commendation Day 105.jpg
-      url: https://www.guangyangsec.moe.edu.sg/about-gyss/schoolevents/
-      button: Ceremony video
+      image: /images/ssrp (1).JPG
+      url: https://www.guangyangsec.moe.edu.sg/students/resetpw/
+      button: Self reset guide
   - infopic:
       title: DSA
       button: Click Here
