@@ -15,3 +15,17 @@ third_nav_title: 2023 Semestral Plan
 [2NA Sem Plan 2](/files/Semestral%20Plan/Maths/2n_semester%20plan_2023_sem%202.pdf)
 
 [2T Sem Plan 2](/files/Semestral%20Plan/Maths/2t_semestral_plan_2023_sem%202.pdf)
+
+[3NA Additional Math Sem Plan 2](/files/Semestral%20Plan/Maths/3n_add%20math_semester_plan_2023_sem%202.pdf)
+
+[3NA Sem Plan 2](/files/Semestral%20Plan/Maths/3n_semesteral_plan_2023_sem%202.pdf)
+
+[3T Sem Plan 2](/files/Semestral%20Plan/Maths/3t%20semester%20plan_2023_sem%202.pdf)
+
+[4E Additional Math Sem Plan 2](/files/Semestral%20Plan/Maths/4e_add%20math_semester_plan_2023_sem%202.pdf)
+
+[4E Sem Plan 2](/files/Semestral%20Plan/Maths/4e_semester_plan_2023_sem%202.pdf)
+
+[4NA Additional Math Sem Plan 2](/files/Semestral%20Plan/Maths/4na_add%20math_semester_plan_2023_sem%202.pdf)
+
+[4NA Sem Plan 2](/files/Semestral%20Plan/Maths/4n_semestral_plan_2023_sem%202.pdf)
