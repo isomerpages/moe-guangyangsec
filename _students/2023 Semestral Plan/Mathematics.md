@@ -4,3 +4,14 @@ permalink: /students/2023-Semestral-Plan/math/
 description: ""
 third_nav_title: 2023 Semestral Plan
 ---
+[1E Sem Plan 2](/files/Semestral%20Plan/Maths/1e%20semester%20plan%202023_sem%202.pdf)
+
+[1NA Sem Plan 2](/files/Semestral%20Plan/Maths/1n_semesteral_plan%202023%20sem%202.pdf)
+
+[1T Sem Plan 2](/files/Semestral%20Plan/Maths/1t_semester_plan_2023_sem%202.pdf)
+
+[2E Sem Plan 2](/files/Semestral%20Plan/Maths/2e_semestral_plan_2023_sem%202.pdf)
+
+[2NA Sem Plan 2](/files/Semestral%20Plan/Maths/2n_semester%20plan_2023_sem%202.pdf)
+
+[2T Sem Plan 2](/files/Semestral%20Plan/Maths/2t_semestral_plan_2023_sem%202.pdf)
