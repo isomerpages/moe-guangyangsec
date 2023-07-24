@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - O Level Prelim Timetables.md
-      - Self Reset Password.md
       - N Level Prelim Timetables.md
+      - Self Reset Password.md
       - Level Talk 2023.md
       - 2023 Class Timetable.md
       - 2023 Semestral Plan/.keep
