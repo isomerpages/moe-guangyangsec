@@ -18,7 +18,7 @@ third_nav_title: 2023 Semestral Plan
 
 [3E Additional Math Sem Plan 2](/files/Semestral%20Plan/Maths/3e%20add%20math_semestral_plan_sem%202.pdf)
 
-[3E Sem Plan 2](/files/Semestral%20Plan/Maths/3e_math%20semestral%20plan%202023%20sem%202.pdf)
+
 
 [3NA Additional Math Sem Plan 2](/files/Semestral%20Plan/Maths/3n_add%20math_semester_plan_2023_sem%202.pdf)
 
