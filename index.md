@@ -25,8 +25,6 @@ sections:
       title: Announcements & Events
       button: Click here
       url: https://www.guangyangsec.moe.edu.sg/about-gyss/schoolevents/
-  - resources:
-      title: School Events
   - infopic:
       title: Student Self Reset Password
       description: Please click on the link to view the guide
@@ -41,10 +39,4 @@ sections:
       image: /images/Student Advocate/Bboy03-cropped.jpg
       alt: Image alt text
       description: Direct School Admission
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
