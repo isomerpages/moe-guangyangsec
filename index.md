@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Guangyang Secondary School
       subtitle: Leader Thinker Advocate
-      background: /images/Homepage/vision-1024x439.jpg
+      background: /images/Homepage/banner-2-1024x439.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
