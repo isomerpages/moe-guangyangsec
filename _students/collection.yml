@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - O Level Prelim Timetables.md
-      - N Level Prelim Timetables.md
+      - End Of Year Exam Timetable.md
       - Self Reset Password.md
       - Level Talk 2023.md
       - 2023 Class Timetable.md
