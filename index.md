@@ -22,10 +22,6 @@ sections:
   - infobar:
       title: Strong in Principles, Steadfast in Duty
   - infobar:
-      title: Announcements & Events
-      button: Click here
-      url: https://www.guangyangsec.moe.edu.sg/about-gyss/schoolevents/
-  - infobar:
       title: End of Year Timetable
       description: 26 Sep to 5 Oct
       button: Click Here
