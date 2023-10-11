@@ -9,12 +9,6 @@ GYSS Parents’ Support Group (GYSS PSG) strives to promote and strengthen colla
 
 As a parent volunteer, you will get to interact with other parents and share parenting knowledge and skills. Various events for PSG includes fund raising events, Gift from the Heart session for graduating classes, baking workshops and life skills courses. If you are interested to participate and contribute in any way, we warmly welcome you.
 
-**Parents Support Parents (PSP)**
-
-We welcome parents to join PSP, a new imitative which is to provide a platform for parents to peer support themselves through the child’s journey. You will do sharing of advice and parenting tips among parents, and help to disseminate resources from the school.
-
-Interested parents, please contact Ms Joyce Tang ([tang\_si\_xin\_joyce@schools.gov.sg](mailto:tang_si_xin_joyce@schools.gov.sg)) or Ms Leong Winnie ([leong\_winnie@schools.gov.sg](mailto:leong_winnie@schools.gov.sg))
-
 ![](/images/Parents/psg%20002.JPG)
 
 **PSG Registration Form**
