@@ -17,20 +17,12 @@ Please refer to the parent’s letter&nbsp;in&nbsp;**Parent’s Gateway**&nbsp;f
 
 ##### **Guangyang Secondary School Choice of PLD:**
 
-Under MOE National Digital Literacy Programme, Guangyang Secondary School will be purchasing Chromebook Convertible.
+Guangyang Secondary School has selected Chromebook as its PLD. Compact yet feature-rich with an 11.6" touchscreen and upgraded CPU, RAM, and storage. Backed by a 3-year warranty and insurance, it's an excellent value, ensuring years of productive learning.
 
-Device cost and price includes 3-year insurance &amp; warranty as well as a free stylus.
+![](/images/pld%202024.jpg)
 
-<img src="/images/Student%20Advocate/Acer%20T733.jpg" style="width:300px;">
 
 ##### Lost or damaged of accessories for Lenovo Chromebooks only
 
-Please purchase any damaged or lost of accessories in the link below:
 
-[Lenovo Chromebook Accessories](https://www.asiapac.com.sg/pld-lenovo/account/login)
 
-##### Lost or damaged of accessories for Acer Chromebooks only
-
-Please purchase any damaged or lost of accessories in the link below:
-
-[Acer Chromebook Accessories](https://secured.acer.com.sg/pld)
