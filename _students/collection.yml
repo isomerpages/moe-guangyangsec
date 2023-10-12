@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - NDLP.md
+      - Personalised Learning Device Programme (PLD).md
       - Self Reset Password.md
       - O Level Prelim Timetables.md
       - End Of Year Exam Timetable.md
