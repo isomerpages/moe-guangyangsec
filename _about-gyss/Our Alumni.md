@@ -7,7 +7,7 @@ description: ""
 
 Objectives of the Guangyang Alumni seeks to foster a sense of community among our graduates, past and present, while supporting a sense of connectedness back to the school. Through various events, we hope to establish or renew friendships, while creating potential collaborations that our students can benefit from the alumni’s skills and experience.
 
-In 2017, the Guangyang Secondary Alumni members reunite, reconnect, and rekindle their friendship during the 105th year Anniversary. In 2023, the members gather once again during the Mid-Autumn Festival, and it was a memorable experience for all.
+In 2022, the alumni members gather during the Mid-Autumn Festival season, and it was a memorable experience for all. In 2023, they once again reunite, reconnect, and rekindle their friendship during the 105th year Homecoming Lunch in school.
       
 If you are interested to know more, you may&nbsp;[mail](mailto:gyss@moe.edu.sg)&nbsp;the school for more information.
 
