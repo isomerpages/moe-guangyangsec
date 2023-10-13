@@ -22,4 +22,5 @@ Guangyang Secondary School has selected Chromebook as its PLD. Compact yet featu
 ##### **PLD Insurance and Warranty Information:**
 
 
+
 Please refer to the parent’s letter&nbsp;in&nbsp;**Parent’s Gateway**&nbsp;for the details on the National Digital Literacy Programme (NDLP) and the purchase of the PLD for your child/ward. If you are not onboard Parent’s Gateway, your child/ward would have received the hard copy of the letter from his/her form teacher. Please take some time to read through it and respond accordingly.
