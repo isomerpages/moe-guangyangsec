@@ -19,10 +19,10 @@ description: ""
 
 ![](/images/Student%20Advocate/ne%20(8).JPG)
 
-![](/images/Student%20Advocate/ne%20(9).JPG)
+![](/images/Student%20Advocate/ne%20(11).JPG)
 
 ![](/images/Student%20Advocate/ne%20(10).JPG)
 
-![](/images/Student%20Advocate/ne%20(11).JPG)
+![](/images/Student%20Advocate/ne%20(9).JPG)
 
 ![](/images/Student%20Advocate/ne%20(12).JPG)
