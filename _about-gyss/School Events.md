@@ -29,7 +29,7 @@ Fancy playing card games with peers from other schools? Our NCC Cadets did just 
 
 #### 🫰 CAUGHT DOING GOOD👏 
 
-🫰 CAUGHT DOING GOOD👏 some of our graduating students helped deliver some snacks to our busy Oral Examiners during the English Oral examinations. In return, they received personalised Thank You cards!
+Some of our graduating students helped deliver some snacks to our busy Oral Examiners during the English Oral examinations. In return, they received personalised Thank You cards!
 
 ![](/images/Events/caught%20doing%20good%201.jpg)
 
