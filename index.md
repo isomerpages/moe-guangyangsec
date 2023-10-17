@@ -22,11 +22,11 @@ sections:
   - infobar:
       title: Strong in Principles, Steadfast in Duty
   - infopic:
-      title: GYSS Open House!
+      title: GYSS Open House
       id: infopic
-      description: |
-        25 November 2023           
+      description: 25 November 2023
       image: /images/gyss open house.jpg
+      alt: Image alt text
   - infobar:
       title: End of Year Timetable
       description: 26 Sep to 5 Oct
