@@ -3,12 +3,27 @@ title: School Events
 permalink: /about-gyss/schoolevents/
 description: ""
 ---
+#### Deepavali Celebration in GYSS!
+
+![](/images/aziqshah%20(168).JPG)
+
+#### Craft and Technology Week!
+
+![](/images/craft%20&%20technology%207.jpeg)
+
+![](/images/craft%20&%20technology%204.jpeg)
+
+![](/images/craft%20&%20technology%2011.jpeg)
+
+![](/images/craft%20&%20technology%202.jpeg)
+
+![](/images/craft%20&%20technology%203.jpeg)
+
 #### SEN and MENTAL HEALTH Awareness Week!
 
+![](/images/metal%20health%201.jpeg)
 
-
-
-
+![](/images/metal%20health%202.jpeg)
 
 #### Tony-Nominated Broadway Musical Production - & Juliet at Marina Bay Sands
 
