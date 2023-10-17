@@ -21,6 +21,12 @@ sections:
           url: https://www.guangyangsec.moe.edu.sg/staff/links/
   - infobar:
       title: Strong in Principles, Steadfast in Duty
+  - infopic:
+      title: GYSS Open House!
+      id: infopic
+      description: |
+        25 November 2023           
+      image: /images/gyss open house.jpg
   - infobar:
       title: End of Year Timetable
       description: 26 Sep to 5 Oct
