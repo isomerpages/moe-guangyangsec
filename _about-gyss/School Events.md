@@ -3,6 +3,13 @@ title: School Events
 permalink: /about-gyss/schoolevents/
 description: ""
 ---
+#### SEN and MENTAL HEALTH Awareness Week!
+
+
+
+
+
+
 #### Tony-Nominated Broadway Musical Production - & Juliet at Marina Bay Sands
 
 Students from our International Dance and Choir CCAs were treated to a Tony-Nominated Broadway Musical Production - & Juliet at Marina Bay Sands, Sands Theatre on 15 Oct 2023. 
