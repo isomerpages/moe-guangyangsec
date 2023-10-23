@@ -6,7 +6,7 @@ description: ""
 | Name | Website Link | |
 | -------- | -------- | -------- |
 | [MOE Intranet](https://intranet.moe.gov.sg)     | https://intranet.moe.gov.sg     |      |
-|[ICON 2.0](https://icon.moe.edu.sg)|https://icon.moe.edu.sg|
+|[ICON 2.0](https://idp.mims.moe.gov.sg/)|https://idp.mims.moe.gov.sg/|
 |[School Cockpit](https://schoolcockpit.moe.gov.sg/)|https://schoolcockpit.moe.gov.sg/|
 |[Opal 2.0](https://www.opal2.moe.edu.sg)| https://www.opal2.moe.edu.sg|
 |[HRP](https://www.hrp.gov.sg)|https://www.hrp.gov.sg|
@@ -20,6 +20,3 @@ description: ""
 |[iExams](https://iexams.seab.gov.sg/login)|https://iexams.seab.gov.sg/login|
 |[Form Builder](https://forms.moe.edu.sg/)|https://forms.moe.edu.sg/|
 |[MIMS](https://portal.mims.moe.gov.sg)|https://portal.mims.moe.gov.sg|
-
-
-
