@@ -3,6 +3,17 @@ title: School Events
 permalink: /about-gyss/schoolevents/
 description: ""
 ---
+#### Live theater performance
+
+As part of GYSS' Lifelong Learning Programme, our Sec 1s had the opportunity to watch a live theater performance titled Fair Play! It turned out to be a rich learning experience as our students were enthusiastic and got to ask the cast some questions on stage
+
+![](/images/Events/fair%20play%20events.jpg)
+
+![](/images/Events/fair%20play%20events%202.jpg)
+
+![](/images/Events/fair%20play%20events%203.jpg)
+
+
 #### Deepavali Celebration in GYSS!
 
 ![](/images/aziqshah%20(168).JPG)
