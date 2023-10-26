@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - Vacancy Food Stall Canteen/Example Title.md
       - Vacancy Food Stall Canteen/.keep
       - Direct School Admission.md
       - International Students.md
