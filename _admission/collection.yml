@@ -2,7 +2,6 @@ collections:
   admission:
     output: true
     order:
-      - Vacancy Food Stall Canteen/Apply Food Stall Canteen.md
       - Vacancy Food Stall Canteen/.keep
       - Direct School Admission.md
       - International Students.md
