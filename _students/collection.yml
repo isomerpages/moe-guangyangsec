@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - 2024 Booklist.md
       - Personalised Learning Device Programme (PLD).md
       - Self Reset Password.md
       - O Level Prelim Timetables.md
@@ -25,7 +26,6 @@ collections:
       - 2023 Semestral Plan/Music.md
       - 2023 Semestral Plan/Social Studies.md
       - 2023 Semestral Plan/Elements of Business Skills.md
-      - 2024 Booklist.md
       - Student Learning Space.md
       - GYSS Library.md
       - MOE Scholarships.md
