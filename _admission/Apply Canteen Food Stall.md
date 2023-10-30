@@ -7,7 +7,7 @@ description: ""
 
 We are inviting interested applicants to operate a Muslim Food Stall (Rice, Mee Rebus, Mee Soto, etc) in our School Canteen, with effect from 2 January 2024.
 
-**Closing Date: Wednesday, 8 December 2023**
+**Closing Date: Friday, 8 December 2023**
 
 **School Canteen Operating Hours:** 
 
