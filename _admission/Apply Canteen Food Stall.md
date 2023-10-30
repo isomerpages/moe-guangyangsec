@@ -7,7 +7,7 @@ description: ""
 
 We are inviting interested applicants to operate a Muslim Food Stall (Rice, Mee Rebus, Mee Soto, etc) in our School Canteen, with effect from 2 January 2024.
 
-**Closing Date: Wednesday, 30 November 2023**
+**Closing Date: Friday, 8 December 2023**
 
 **School Canteen Operating Hours:** 
 
@@ -41,7 +41,7 @@ The stallholder shall ensure that separate electricity, gas and water meters are
 The application form may be downloaded from MOE website at: [  
 https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf](https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf) or collected from the General Office from Monday to Friday, from 8 am to 4.30 pm.    
 
-Completed application forms must be submitted together with the following documents before the closing date of Thursday, 30 November 2023:  
+Completed application forms must be submitted together with the following documents before the closing date of Friday, 8 December 2023:  
   
 1. Photocopy of the applicant’s NRIC (front and back).  
 2. Proposed daily food menu and price list.
