@@ -46,4 +46,9 @@ sections:
       image: /images/Student Advocate/Bboy03-cropped.jpg
       alt: Image alt text
       description: Direct School Admission
+  - resources:
+      title: GYSS Announcements
+      subtitle: LATEST NEWS AND HIGHLIGHTS
+      id: resources
+      button: VIEW MORE
 ---
