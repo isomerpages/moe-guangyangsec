@@ -24,8 +24,6 @@ sections:
       subtitle: LATEST NEWS AND HIGHLIGHTS
       id: resources
       button: VIEW MORE
-  - infobar:
-      title: Strong in Principles, Steadfast in Duty
   - infopic:
       title: GYSS Open House
       id: infopic
@@ -36,11 +34,6 @@ sections:
       subtitle: 25 november 2023
       button: MORE INFO
       url: https://www.instagram.com/p/Cyzd_eWxuTT/
-  - infobar:
-      title: End of Year Timetable
-      description: 26 Sep to 5 Oct
-      button: Click Here
-      url: https://www.guangyangsec.moe.edu.sg/students/eoytimetable/
   - infopic:
       title: Student Self Reset Password
       description: Please click on the link to view the guide
