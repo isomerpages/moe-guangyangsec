@@ -19,14 +19,23 @@ sections:
         - title: Staff Quick Links
           description: ""
           url: https://www.guangyangsec.moe.edu.sg/staff/links/
+  - resources:
+      title: GYSS Announcements
+      subtitle: LATEST NEWS AND HIGHLIGHTS
+      id: resources
+      button: VIEW MORE
   - infobar:
       title: Strong in Principles, Steadfast in Duty
   - infopic:
       title: GYSS Open House
       id: infopic
-      description: 25 November 2023
+      description: Come join us for GYSS Open House! Go to our IG and FB page for more
+        details!
       image: /images/gyss open house.jpg
       alt: Image alt text
+      subtitle: 25 november 2023
+      button: MORE INFO
+      url: https://www.instagram.com/p/Cyzd_eWxuTT/
   - infobar:
       title: End of Year Timetable
       description: 26 Sep to 5 Oct
@@ -46,9 +55,4 @@ sections:
       image: /images/Student Advocate/Bboy03-cropped.jpg
       alt: Image alt text
       description: Direct School Admission
-  - resources:
-      title: GYSS Announcements
-      subtitle: LATEST NEWS AND HIGHLIGHTS
-      id: resources
-      button: VIEW MORE
 ---
