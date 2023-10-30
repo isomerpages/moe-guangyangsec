@@ -11,7 +11,7 @@ description: ""
 
 #### Secondary 2
 
-[[Sec 2 Booklist](/files/Booklist/2024%20sec%202%20booklist.pdf)
+[Sec 2 Booklist](/files/Booklist/2024%20sec%202%20booklist.pdf)
 
 [Sec 2 Stationery ](/files/Booklist/2024%20sec%202%20stationery%20list.pdf)
 
