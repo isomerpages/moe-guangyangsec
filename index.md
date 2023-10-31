@@ -14,9 +14,9 @@ sections:
         - title: Contact Us
           description: ""
           url: https://www.guangyangsec.moe.edu.sg/contact-us/
-        - title: Staff Quick Links
+        - title: School events
           description: ""
-          url: https://www.guangyangsec.moe.edu.sg/staff/links/
+          url: https://www.guangyangsec.moe.edu.sg/about-gyss/schoolevents/
   - resources:
       title: GYSS Announcements
       subtitle: LATEST NEWS AND HIGHLIGHTS
