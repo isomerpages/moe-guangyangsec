@@ -2,7 +2,7 @@
 title: Learning for Life Programme
 permalink: /thinker/lifelonglearning/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 ### Learning for Life Programme
 
