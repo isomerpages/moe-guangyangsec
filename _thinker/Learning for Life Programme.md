@@ -1,7 +1,8 @@
 ---
-title: Life Long Learning
+title: Learning for Life Programme
 permalink: /thinker/lifelonglearning/
 description: ""
+variant: markdown
 ---
 ### Learning for Life Programme
 
