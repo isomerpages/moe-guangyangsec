@@ -10,15 +10,13 @@ sections:
       title: Guangyang Secondary School
       subtitle: Leader Thinker Advocate
       background: /images/gyssgif.gif
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: Announcement
+        - title: Contact Us
           description: ""
-          url: https://guangyangsec.moe.edu.sg/announcement/
-        - title: Staff Quick Links
+          url: https://www.guangyangsec.moe.edu.sg/contact-us/
+        - title: School events
           description: ""
-          url: https://www.guangyangsec.moe.edu.sg/staff/links/
+          url: https://www.guangyangsec.moe.edu.sg/about-gyss/schoolevents/
   - resources:
       title: GYSS Announcements
       subtitle: LATEST NEWS AND HIGHLIGHTS
