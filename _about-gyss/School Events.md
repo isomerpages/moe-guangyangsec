@@ -2,70 +2,40 @@
 title: School Events
 permalink: /about-gyss/schoolevents/
 description: ""
+variant: markdown
 ---
-#### Live theater performance
+### Month of November 2023!!
 
-As part of GYSS' Lifelong Learning Programme, our Sec 1s had the opportunity to watch a live theater performance titled Fair Play! It turned out to be a rich learning experience as our students were enthusiastic and got to ask the cast some questions on stage
+**Our VP and 2 of our teachers travelled round the globe to Chennai to work on a collaboration for our schools in 2024! Swipe to see some of their group snaps 📸**
 
-![](/images/Events/fair%20play%20events.jpg)
+![](/images/Events/chennai%204.jpeg)
+![](/images/Events/chennai%203.jpeg)
 
-![](/images/Events/fair%20play%20events%202.jpg)
+**She was one of 9 finalists for the Arif Budiman Malay Language Teacher Award (AGAB) 2023 in a sea of 261 nominees!**
 
-![](/images/Events/fair%20play%20events%203.jpg)
+![](/images/Events/agab%20award%202.jpeg)
+![](/images/Events/agab%20award%201.jpeg)
 
+**Our Sec 3 students are diving into the real world with our Career Catalyst🚀 Programme’s Industrial Attachment!**
 
-#### Deepavali Celebration in GYSS!
+![](/images/Events/career%20catalyst%202.jpg)
+![](/images/Events/career%20catalyst%203.jpg)
+![](/images/Events/career%20catalyst%201.jpg)
 
-![](/images/aziqshah%20(168).JPG)
+**Welcome to Phase 3 of our Sailing and Sustainability Programme!**
 
-#### Craft and Technology Week!
+![](/images/Events/sailing%202.jpeg)
+![](/images/Events/sailing%201.jpeg)
+![](/images/Events/sailing%203.jpeg)
 
-![](/images/craft%20&%20technology%207.jpeg)
+**20 of our Sec 3 students recently embarked on a 5D4N journey to Hanoi!**
 
-![](/images/craft%20&%20technology%204.jpeg)
+![](/images/Events/hanoi%20exchange%20program%203.jpeg)
+![](/images/Events/hanoi%20exchange%20program%201.jpeg)
+![](/images/Events/hanoi%20exchange%20program%202.jpeg)
 
-![](/images/craft%20&%20technology%2011.jpeg)
+**Our Red Cross Cadets had the opportunity to do VIA with one of our longstanding partners, Bishan Home for the Intellectually Disabled!**
 
-![](/images/craft%20&%20technology%202.jpeg)
-
-![](/images/craft%20&%20technology%203.jpeg)
-
-#### SEN and MENTAL HEALTH Awareness Week!
-
-![](/images/metal%20health%201.jpeg)
-
-![](/images/metal%20health%202.jpeg)
-
-#### Tony-Nominated Broadway Musical Production - & Juliet at Marina Bay Sands
-
-Students from our International Dance and Choir CCAs were treated to a Tony-Nominated Broadway Musical Production - & Juliet at Marina Bay Sands, Sands Theatre on 15 Oct 2023. 
-
-![](/images/Events/pop%20musical%202.jpg)
-
-![](/images/Events/pop%20musical%203.jpg)
-
-They also attended a post performance conversation with the main cast who answered questions from the audience. It was truly an exciting learning experience for these Performing Arts groups!
-
-![](/images/Events/pop%20musical%201.jpg)
-
-#### Guardians of the City II card game competition and Ultimate Frisbee competition!
-
-Fancy playing card games with peers from other schools? Our NCC Cadets did just that with Raffles and Beatty cadets! They joined us for a cluster training, and had activities that were split into 3 stations consisting of SAR21 physical relay, Guardians of the City II card game competition and Ultimate Frisbee competition! Throw a guess at who turned out tops? 🫡
-
-![](/images/Events/gyss%20ncc%201.jpg)
-
-![](/images/Events/gyss%20ncc%202.jpg)
-
-![](/images/Events/gyss%20ncc%203.jpg)
-
-![](/images/Events/gyss%20ncc%204.jpg)
-
-#### 🫰 CAUGHT DOING GOOD👏 
-
-Some of our graduating students helped deliver some snacks to our busy Oral Examiners during the English Oral examinations. In return, they received personalised Thank You cards!
-
-![](/images/Events/caught%20doing%20good%201.jpg)
-
-Be the next to get Caught Doing Good and receive a small reward for your efforts!
-
-![](/images/Events/caught%20doing%20good%202.jpg)
+![](/images/Events/bishan%20home%20for%20the%20intellectually%20disabled%201.jpg)
+![](/images/Events/bishan%20home%20for%20the%20intellectually%20disabled%202.jpg)
+![](/images/Events/bishan%20home%20for%20the%20intellectually%20disabled%203.jpg)
