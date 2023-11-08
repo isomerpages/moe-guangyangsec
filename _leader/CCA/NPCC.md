@@ -19,8 +19,5 @@ variant: markdown
 ![](/images/CCA/npcc%208.jpg)
 
 ![](/images/CCA/npcc%209.jpg)
-
-![](/images/CCA/achievements_page-0001.jpg)
-
+![](/images/CCA/achievements_update.jpg)
 ![](/images/CCA/npcc%2011.jpg)
-
