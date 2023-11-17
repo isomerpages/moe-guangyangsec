@@ -6,6 +6,12 @@ variant: markdown
 ---
 ### Month of November 2023!!
 
+**Staff Bonding with teachers and EAS team!**
+![](/images/Events/Staff_bonding_1.jpeg)
+![](/images/Events/Staff_bonding_2.jpeg)
+![](/images/Events/Staff_bonding_3.jpeg)
+![](/images/Events/Staff_bonding_4.jpeg)
+
 **Our VP and 2 of our teachers travelled round the globe to Chennai to work on a collaboration for our schools in 2024! Swipe to see some of their group snaps 📸**
 
 ![](/images/Events/chennai%204.jpeg)
