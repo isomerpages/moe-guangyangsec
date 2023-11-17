@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Management.md
-      - CCA/International Dance.md
       - CCA/.keep
       - CCA/CCA Schedule 2023.md
       - CCA/AV Club.md
@@ -17,6 +16,7 @@ collections:
       - CCA/Environmental Science.md
       - CCA/Football.md
       - CCA/Girl's Brigade.md
+      - CCA/International Dance.md
       - CCA/Infocomm Technology.md
       - CCA/NPCC.md
       - CCA/Red Cross.md
