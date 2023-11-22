@@ -2,7 +2,6 @@ collections:
   about-gyss:
     output: true
     order:
-      - Early closure for our school operations on 23 Nov 2023.md
       - School Events.md
       - Principal's Message.md
       - Our Vision & Mission.md
