@@ -30,3 +30,5 @@ In addition to the above, our school also collaborates with a lot of schools in 
 
 Every year, our department will select the best piece of coursework from the Sec 2 and Sec 3 to take part in the annual Media Computing Competition organized by CPDD in the Animation and Game Making categories respectively.
 
+![](/images/Student%20Thinker/Computing_2023_conv_1.jpeg)
+![](/images/Student%20Thinker/Computing_2023_conv_2.jpeg)
