@@ -2,7 +2,6 @@ collections:
   about-gyss:
     output: true
     order:
-      - Our Staff (Update).md
       - School Events.md
       - Principal's Message.md
       - Our Vision & Mission.md
