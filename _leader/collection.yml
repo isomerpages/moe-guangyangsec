@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Student Management.md
-      - CCA/Choir.md
+      - CCA/Choir (2024).md
       - CCA/.keep
       - CCA/AV Club.md
       - CCA/Band.md
