@@ -1,5 +1,5 @@
 ---
-title: Choir
+title: Choir (2024)
 permalink: /leader/cca/permalink/
 variant: markdown
 description: ""
