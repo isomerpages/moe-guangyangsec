@@ -23,16 +23,6 @@ sections:
       id: resources
       button: VIEW MORE
   - infopic:
-      title: GYSS Open House
-      id: infopic
-      description: Come join us for GYSS Open House! Go to our IG and FB page for more
-        details!
-      image: /images/gyss open house.jpg
-      alt: Image alt text
-      subtitle: 25 november 2023
-      button: MORE INFO
-      url: https://www.instagram.com/p/Cyzd_eWxuTT/
-  - infopic:
       title: Student Self Reset Password
       description: Please click on the link to view the guide
       alt: Image alt text

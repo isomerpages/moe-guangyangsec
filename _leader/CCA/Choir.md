@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /leader/cca/permalink/
+permalink: /leader/cca/choir/
 variant: markdown
 description: ""
 third_nav_title: CCA
