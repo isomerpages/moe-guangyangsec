@@ -7,9 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Guangyang Secondary School
-      subtitle: Leader Thinker Advocate
-      background: /images/gyssgif.gif
+      background: /images/Guangyang_Secondary_School.jpeg
       key_highlights:
         - title: Contact Us
           description: ""
@@ -17,6 +15,10 @@ sections:
         - title: School events
           description: ""
           url: https://www.guangyangsec.moe.edu.sg/about-gyss/schoolevents/
+      variant: center
+      size: md
+      alignment: left
+      backgroundColor: gray
   - resources:
       title: GYSS Announcements
       subtitle: LATEST NEWS AND HIGHLIGHTS
