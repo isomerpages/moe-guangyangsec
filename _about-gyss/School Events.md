@@ -8,7 +8,7 @@ variant: markdown
 
 **Successful GYSS Open house**
 ![](/images/Events/GYSS_Open_house.jpg)
-**Thank you parents/guardian for coming to your school!**
+**Thank you parents/guardian for coming to our school!**
 
 
 **Sec 3 ML students had their immersion trip to Brunei from 14 Nov to 17 Nov**
