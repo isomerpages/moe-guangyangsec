@@ -6,6 +6,20 @@ variant: markdown
 ---
 ### Month of November 2023!!
 
+**Successful GYSS Open house**
+![](/images/Events/GYSS_Open_house.jpg)
+**Thank you parents/guardian for coming to your school!**
+
+
+**Sec 3 ML students had their immersion trip to Brunei from 14 Nov to 17 Nov**
+![](/images/Events/immersion_trip_to_Brunei_1.jpeg)
+![](/images/Events/immersion_trip_to_Brunei_2.jpeg)
+![](/images/Events/immersion_trip_to_Brunei_3.jpeg)
+
+**GYSS Learning Fest for teachers**
+![](/images/Events/GYSS_Learning_Fest_1.jpeg)
+![](/images/Events/GYSS_Learning_Fest_3.jpeg)
+
 **Staff Bonding with teachers and EAS team!**
 ![](/images/Events/Staff_bonding_1.jpeg)
 ![](/images/Events/Staff_bonding_2.jpeg)
