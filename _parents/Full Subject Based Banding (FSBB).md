@@ -1,6 +1,6 @@
 ---
 title: Full Subject Based Banding (FSBB)
-permalink: /parents/permalink/
+permalink: /parents/fullsubjectbasedbanding/
 variant: markdown
 description: ""
 ---
@@ -61,7 +61,3 @@ Eligible students can offer **English Language, Mother Tongue Languages, Mathema
 Students will generally start with subjects at a subject level based on their overall PSLE Score, or at a more demanding level based on their performance in individual PSLE subjects. In some instances, students may have flexibility to offer some subjects at a less demanding level from Secondary One.
 
 For more information on how GYSS will be implementing FSBB, you can contact us at [gyss@moe.edu.sg](gyss@moe.edu.sg)
-
-
-
-
