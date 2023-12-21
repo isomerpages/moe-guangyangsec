@@ -25,6 +25,14 @@ sections:
       id: resources
       button: VIEW MORE
   - infopic:
+      title: Meet Ms Tan Ke Xin
+      subtitle: New Principal of GYSS
+      id: infopic
+      button: Read More
+      url: https://www.guangyangsec.moe.edu.sg/PRINCIPALSMESSAGE/
+      image: /images/Screenshot_2023_12_21_120257.png
+      alt: Image alt text
+  - infopic:
       title: Student Self Reset Password
       description: Please click on the link to view the guide
       alt: Image alt text
@@ -38,12 +46,4 @@ sections:
       image: /images/Student Advocate/Bboy03-cropped.jpg
       alt: Image alt text
       description: Direct School Admission
-  - infopic:
-      title: Meet Ms Tan Ke Xin
-      subtitle: New Principal of GYSS
-      id: infopic
-      button: Read More
-      url: https://www.guangyangsec.moe.edu.sg/PRINCIPALSMESSAGE/
-      image: /images/Screenshot_2023_12_21_120257.png
-      alt: Image alt text
 ---
