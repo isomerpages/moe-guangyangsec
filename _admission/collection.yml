@@ -2,7 +2,6 @@ collections:
   admission:
     output: true
     order:
-      - Apply Canteen Food Stall.md
       - Secondary One Appeal Form 2024.md
       - Direct School Admission.md
       - International Students.md
