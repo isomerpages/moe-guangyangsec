@@ -40,6 +40,13 @@ sections:
       url: https://www.guangyangsec.moe.edu.sg/students/resetpw/
       button: Self reset guide
   - infopic:
+      title: Request for unlocking of SLS/PLD/ICON account
+      id: infopic
+      button: Click here to unlock
+      url: https://go.gov.sg/5vkpji
+      image: /images/Request_for_unlocking_of_account.png
+      alt: Image alt text
+  - infopic:
       title: DSA
       button: Click Here
       url: https://www.guangyangsec.moe.edu.sg/admission/dsa/
