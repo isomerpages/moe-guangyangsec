@@ -17,7 +17,8 @@ locations:
 contacts:
   - content:
       - phone: +65 6258 9781
-      - email: ""
+      - email: gyss@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
+feedback: ""
 ---
