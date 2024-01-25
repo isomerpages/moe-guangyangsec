@@ -1,0 +1,9 @@
+collections:
+  advocate:
+    output: true
+    order:
+      - Education and Career Guidance.md
+      - Character Development Programme.md
+      - Cyberwellness.md
+      - National Education.md
+      - Sexuality Education Programme.md

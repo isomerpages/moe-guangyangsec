@@ -1,0 +1,18 @@
+logo: /images/GYSSNEWLOGO.png
+links:
+  - title: About GYSS
+    collection: about-gyss
+  - title: Leader
+    collection: leader
+  - title: Thinker
+    collection: thinker
+  - title: Advocate
+    collection: advocate
+  - title: Parents
+    collection: parents
+  - title: Students
+    collection: students
+  - title: Staff
+    collection: staff
+  - title: Admission
+    collection: admission

@@ -1,0 +1,15 @@
+collections:
+  about-gyss:
+    output: true
+    order:
+      - School Events.md
+      - Principal's Message.md
+      - Our Vision & Mission.md
+      - Our History.md
+      - Our School Crest and Anthem.md
+      - School Management Committee.md
+      - School Advisory Committee.md
+      - Our Alumni.md
+      - Our Staff/.keep
+      - Our Staff/Form Teachers.md
+      - Our Staff/EAS Staff.md
