@@ -29,6 +29,7 @@ sections:
       id: infopic
       image: /images/GYSS_CNY_GREETING_CARD_2024_conv_1.jpeg
       description: bring you joy and prosperity!
+      alt: CNY
   - infopic:
       title: Meet Ms Tan Ke Xin
       subtitle: New Principal of GYSS
