@@ -25,9 +25,10 @@ sections:
       id: resources
       button: VIEW MORE
   - infopic:
-      title: May the Chinese New Year bring you joy and prosperity.
+      title: May the Chinese New Year
       id: infopic
       image: /images/GYSS_CNY_GREETING_CARD_2024_conv_1.jpeg
+      description: bring you joy and prosperity!
   - infopic:
       title: Meet Ms Tan Ke Xin
       subtitle: New Principal of GYSS
