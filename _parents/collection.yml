@@ -2,12 +2,12 @@ collections:
   parents:
     output: true
     order:
-      - Full Subject Based Banding (FSBB).md
-      - Post Secondary Admissions.md
       - Bookshop And Uniform.md
+      - Consent for Photography and Videography.md
       - Financial Assistance.md
-      - Parents Support Group.md
+      - Full Subject Based Banding (FSBB).md
+      - Leave of Absence.md
       - Parents Gateway.md
       - Parents Useful Links.md
-      - Leave of Absence.md
-      - Consent for Photography and Videography.md
+      - Parents Support Group.md
+      - Post Secondary Admissions.md

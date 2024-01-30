@@ -2,15 +2,118 @@
 title: Bookshop And Uniform
 permalink: /parents/uniform/
 description: ""
+variant: tiptap
 ---
-### Book Shop Vendor
-
-**Orange Education Service Trading**
-
-<table class="has-fixed-layout" style="border-collapse: collapse; border: 1px solid rgb(51, 51, 51); width: 738.9px; table-layout: fixed;"><tbody><tr style="background-color: rgb(240, 240, 240); color: rgb(6, 42, 78);"><td style="border: 1px solid transparent; padding: 5px 8px; word-break: break-word;"><strong>Address:</strong></td><td style="border: 1px solid transparent; padding: 5px 8px; word-break: break-word;">10 Jalan Limau Manis<br>Singapore 468342</td></tr><tr style="background-color: rgb(255, 255, 255); color: rgb(6, 42, 78);"><td style="border: 1px solid transparent; padding: 5px 8px; word-break: break-word;"><strong>Bookshop’s Location:</strong></td><td style="border: 1px solid transparent; padding: 5px 8px; word-break: break-word;">School Canteen<br>8 Bishan St 12, Singapore 579807</td></tr><tr style="background-color: rgb(240, 240, 240); color: rgb(6, 42, 78);"><td style="border: 1px solid transparent; padding: 5px 8px; word-break: break-word;"><strong>Email:</strong></td><td style="border: 1px solid transparent; padding: 5px 8px; word-break: break-word;"><a href="mailto:orangeedu12@gmail.com" target="_blank" rel="noreferrer noopener" style="color: rgb(6, 42, 78); text-decoration: none;">orangeedu12@gmail.com</a></td></tr><tr style="background-color: rgb(255, 255, 255); color: rgb(6, 42, 78);"><td style="border: 1px solid transparent; padding: 5px 8px; word-break: break-word;"><strong>Fax:</strong></td><td style="border: 1px solid transparent; padding: 5px 8px; word-break: break-word;">6448 4213</td></tr><tr style="background-color: rgb(240, 240, 240); color: rgb(6, 42, 78);"><td style="border: 1px solid transparent; padding: 5px 8px; word-break: break-word;"><strong>Opening Hours:</strong></td><td style="border: 1px solid transparent; padding: 5px 8px; word-break: break-word;">Monday to Friday 8 am to 3 pm</td></tr><tr style="background-color: rgb(255, 255, 255); color: rgb(6, 42, 78);"><td style="border: 1px solid transparent; padding: 5px 8px; word-break: break-word;"><strong>Person to contact:</strong></td><td style="border: 1px solid transparent; padding: 5px 8px; word-break: break-word;">Janet - 9299 7740</td></tr></tbody></table>
-
-### School Uniform Vendor
-
-**Jeep Sing Fashion**
-
-<table style="border-collapse: collapse; border: 1px solid rgb(51, 51, 51); width: 738.9px;"><tbody><tr style="background-color: rgb(240, 240, 240); color: rgb(6, 42, 78);"><td style="border: 1px solid transparent; padding: 5px 8px;"><strong>Address:</strong></td><td style="border: 1px solid transparent; padding: 5px 8px;">Blk 4012 Ang Mo Kio Avenue 10<br>#01-08/09<br>Techplace 1 Singapore 569628</td></tr><tr style="background-color: rgb(255, 255, 255); color: rgb(6, 42, 78);"><td style="border: 1px solid transparent; padding: 5px 8px;"><strong>Website to purchase uniform:</strong></td><td style="border: 1px solid transparent; padding: 5px 8px;"><a href="https://jeepsinguniform.com/collections/guangyang-secondary-school" target="_blank" rel="noreferrer noopener" style="color: rgb(6, 42, 78); text-decoration: none;"><strong>Link</strong></a></td></tr><tr style="background-color: rgb(240, 240, 240); color: rgb(6, 42, 78);"><td style="border: 1px solid transparent; padding: 5px 8px;"><strong>Tel:</strong></td><td style="border: 1px solid transparent; padding: 5px 8px;">64563198<br>Monday to Friday 10 am to 6 pm</td></tr><tr style="background-color: rgb(255, 255, 255); color: rgb(6, 42, 78);"><td style="border: 1px solid transparent; padding: 5px 8px;"><strong>Opening Hours:</strong></td><td style="border: 1px solid transparent; padding: 5px 8px;">Sat 10 am to 2 pm<br>Closed on Sunday and Public Holiday</td></tr></tbody></table>
+<h3>Book Shop Vendor</h3>
+<p><strong>Orange Education Service Trading</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Address:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10 Jalan Limau Manis
+<br>Singapore 468342</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Bookshop’s Location:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Canteen
+<br>8 Bishan St 12, Singapore 579807</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Email:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:orangeedu12@gmail.com" rel="noreferrer noopener" target="_blank">orangeedu12@gmail.com</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Fax:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6448 4213</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Opening Hours:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday to Friday 8 am to 3 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Person to contact:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Janet - 9299 7740</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>School Uniform Vendor</h3>
+<p><strong>Jeep Sing Fashion</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Address:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Blk 4012 Ang Mo Kio Avenue 10
+<br>#01-08/09
+<br>Techplace 1 Singapore 569628</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Website to purchase uniform:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://jeepsinguniform.com/collections/guangyang-secondary-school" rel="noreferrer noopener" target="_blank">Link</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tel:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64563198
+<br>Monday to Friday 10 am to 6 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Opening Hours:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sat 10 am to 2 pm
+<br>Closed on Sunday and Public Holiday</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
