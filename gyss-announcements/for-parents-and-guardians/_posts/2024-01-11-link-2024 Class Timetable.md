@@ -1,6 +1,6 @@
 ---
 title: 2024 Class Timetable
-date: 2024-01-02
+date: 2024-01-11
 layout: link
 description: ""
 image: ""
