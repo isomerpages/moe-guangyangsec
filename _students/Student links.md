@@ -7,11 +7,21 @@ description: ""
 <table>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Website link:</strong>
+</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>MIMS Portal and Student email log in:</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/</a>
+<p><a href="https://idp.mims.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg</a>
 </p>
 </th>
 </tr>
@@ -20,7 +30,7 @@ description: ""
 <p>SLS log in :</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>Student Learning Space</u></a>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
 </p>
 </td>
 </tr>
