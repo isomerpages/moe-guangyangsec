@@ -2,8 +2,9 @@
 title: GYSS Library
 permalink: /students/library/
 description: ""
+variant: markdown
 ---
-Click here to access : [Library System](https://schoolibrary.moe.edu.sg/guangyangsec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+Click here to access : [Library System (OPAC)](https://schoolibrary.moe.edu.sg/guangyangsec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
 Download the guides below:
 
