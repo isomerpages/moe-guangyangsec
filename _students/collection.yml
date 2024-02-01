@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Unlock SLS PLD ICON account.md
       - 2024 Booklist.md
       - 2024 Semestral Plan.md
       - 2024 Class Timetable.md
@@ -14,3 +13,4 @@ collections:
       - Personalised Learning Device Programme (PLD).md
       - Self Reset Password.md
       - Student Learning Space.md
+      - Unlock SLS PLD ICON account.md
