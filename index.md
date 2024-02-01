@@ -52,7 +52,6 @@ sections:
       url: https://go.gov.sg/5vkpji
       image: /images/Request_for_unlocking_of_account.png
       alt: Image alt text
-      subtitle: Please fill up the form.
   - infopic:
       title: DSA
       button: Click Here
