@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Request for unlocking of SLS PLD ICON account.md
       - 2024 Booklist.md
       - 2024 Semestral Plan.md
       - 2024 Class Timetable.md
