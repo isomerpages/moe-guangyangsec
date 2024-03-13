@@ -5,8 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h2>Month of Mar 2024!</h2>
-<p></p>
-<p></p>
 <p>Back to the classroom for some serious brainpower! 💡🔍 March holidays
 mean it's time for our Science Study Programme.</p>
 <div class="instagram-wrapper">
