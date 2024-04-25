@@ -26,4 +26,8 @@ Primary 6 students:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_1.jpg">
 </div>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Achievements</u></strong>
+</p>
+<p>The table below summarises our CCA achievements for the</p>
 <p></p>
+<p>last two years:</p>
