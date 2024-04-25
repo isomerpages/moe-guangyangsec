@@ -28,6 +28,59 @@ Primary 6 students:</p>
 </div>
 <p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Achievements</u></strong>
 </p>
-<p>The table below summarises our CCA achievements for the</p>
+<p>The table below summarises our CCA achievements for the last two years:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2.jpg">
+</div>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Reflections from our past DSA students</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_conv_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_conv_2.jpg">
+</div>
+<p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Contacts</u></strong>
+</p>
+<p>&nbsp;For more information on MOE DSA-SEC Exercise, please kindly contact
+Mr Puah Chee Wee HOD PE/CCA at 62589781 or email us at <a rel="noopener noreferrer nofollow" target="_blank">puah_chee_wee@schools.gov.sg</a> or
+<a rel="noopener noreferrer nofollow" target="_blank">gyss@moe.edu.sg</a>&nbsp;</p>
 <p></p>
-<p>last two years:</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
