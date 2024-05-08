@@ -21,8 +21,8 @@ Leaving Examination (PSLE) results are released.</p>
 Leaders for Tomorrow." We firmly believe that our Co-Curricular Activities
 (CCAs) serve as a vital platform for our students to "Challenge Convention
 and Champion their Passion."</p>
-<p>For DSA 2024, Guangyang Secondary School will offer these talents for
-Primary 6 students:</p>
+<p>&nbsp;For DSA 2024, Guangyang Secondary School will offer these talents
+for Primary 6 students:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_1.jpg">
 </div>
@@ -32,14 +32,26 @@ Primary 6 students:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2.jpg">
 </div>
-<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Reflections from our past DSA students</u></strong>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Selection Criteria</u></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_conv_1.jpg">
 </div>
+<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Application Procedure</u></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_conv_2.jpg">
 </div>
+<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Reflections from our past DSA students</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_conv_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_conv_4.jpg">
+</div>
+<p></p>
+<p></p>
 <p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Contacts</u></strong>
 </p>
 <p>&nbsp;For more information on MOE DSA-SEC Exercise, please kindly contact
