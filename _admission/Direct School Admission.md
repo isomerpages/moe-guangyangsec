@@ -32,6 +32,25 @@ for Primary 6 students:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2.jpg">
 </div>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Selection Criteria</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_conv_1.jpg">
+</div>
+<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Application Procedure</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_conv_2.jpg">
+</div>
+<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Reflections from our past DSA students</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_conv_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_conv_4.jpg">
+</div>
+<p></p>
 <p></p>
 <p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>Contacts</u></strong>
 </p>
