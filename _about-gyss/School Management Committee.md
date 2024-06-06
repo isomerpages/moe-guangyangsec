@@ -4,4 +4,303 @@ permalink: /about-gyss/smc/
 description: ""
 variant: tiptap
 ---
-<h2>School Leaders</h2><table><tbody><tr><td rowspan="1" colspan="1"><p>Principal</p></td><td rowspan="1" colspan="1"><p>Miss Tan Ke Xin</p></td></tr><tr><td rowspan="1" colspan="1"><p>Vice Principal</p></td><td rowspan="1" colspan="1"><p>Mr Han Wee Fong</p></td></tr><tr><td rowspan="1" colspan="1"><p>Vice Principal (Admin)</p></td><td rowspan="1" colspan="1"><p>Mr Anbalagan Thangarajah</p></td></tr></tbody></table><h2>Head Of Department</h2><table><tbody><tr><td rowspan="1" colspan="1"><p>School Staff Developer</p></td><td rowspan="1" colspan="1"><p>Ms Chan Siew Hong Elaine</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD Student Management</p></td><td rowspan="1" colspan="1"><p>Mr Chan Chew Keong</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD Year Head (Sec 2)</p></td><td rowspan="1" colspan="1"><p>Mr S B Sivaganesh</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD Year Head (Sec 1) (Covering)</p></td><td rowspan="1" colspan="1"><p>Mrs Fam-Loh Mei Ting Eugenia</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD EL</p></td><td rowspan="1" colspan="1"><p>Mdm Teo Cher Eng</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD Humanities</p></td><td rowspan="1" colspan="1"><p>Mdm Rozainah</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD MTL</p></td><td rowspan="1" colspan="1"><p>Mr Teo Meng Hoo</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD PE &amp; CCA</p></td><td rowspan="1" colspan="1"><p>Mr Puah Chee Wee</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD Science</p></td><td rowspan="1" colspan="1"><p>Mr Yong Kwong Fui</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD ICT</p></td><td rowspan="1" colspan="1"><p>Ms Tan Lay Koon Joey</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD Mathematics</p></td><td rowspan="1" colspan="1"><p>Mr Ho Beng Khim Vincent</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD Craft &amp; Technology</p></td><td rowspan="1" colspan="1"><p>Mr Terence Ng Kok Chuan</p></td></tr><tr><td rowspan="1" colspan="1"><p>HOD CCE</p></td><td rowspan="1" colspan="1"><p>Mr Jeffrey Lim</p></td></tr></tbody></table><h2>Subject Heads/ Level Heads</h2><table><tbody><tr><td rowspan="1" colspan="1"><p>SH Discipline</p></td><td rowspan="1" colspan="1"><p>Mr Azlan Bin Azri</p></td></tr><tr><td rowspan="1" colspan="1"><p>SH Nutrition and Food Science</p></td><td rowspan="1" colspan="1"><p>Miss Ang Hui Leng</p></td></tr><tr><td rowspan="1" colspan="1"><p>SH ML/TL</p></td><td rowspan="1" colspan="1"><p>Mdm Haniza Bte Abdul Manan</p></td></tr><tr><td rowspan="1" colspan="1"><p>SH Assistant Year Head (Sec 3)</p></td><td rowspan="1" colspan="1"><p>Mr Pung Chin Ee Ronald</p></td></tr><tr><td rowspan="1" colspan="1"><p>SH Assistant Year Head (Sec 4)</p></td><td rowspan="1" colspan="1"><p>Mr Chin Wei Chiat Alvis</p></td></tr><tr><td rowspan="1" colspan="1"><p>SH Science</p></td><td rowspan="1" colspan="1"><p>Mrs Sharrel Chia</p></td></tr><tr><td rowspan="1" colspan="1"><p>SH CCE</p></td><td rowspan="1" colspan="1"><p>Mr Jeremy He</p></td></tr><tr><td rowspan="1" colspan="1"><p>SH Mathematics (Cov)</p></td><td rowspan="1" colspan="1"><p>Miss Sam Yiying Michelle</p></td></tr><tr><td rowspan="1" colspan="1"><p>SH Leadership &amp; Aesthetics</p></td><td rowspan="1" colspan="1"><p>Mr Trevor Teo Yoke Link</p></td></tr><tr><td rowspan="1" colspan="1"><p>SH Humanities</p></td><td rowspan="1" colspan="1"><p>Miss Wong Jiaomei</p></td></tr></tbody></table><h2>Administration Heads</h2><table><tbody><tr><td rowspan="1" colspan="1"><p>Administrative Manager</p></td><td rowspan="1" colspan="1"><p>Ms Mah Ming Choo Judith</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Manager</p></td><td rowspan="1" colspan="1"><p>Mr Ong Choon Kong</p></td></tr><tr><td rowspan="1" colspan="1"><p>Operations Manager</p></td><td rowspan="1" colspan="1"><p>Mr Khairul Salleh Bin Abu Bakar</p></td></tr><tr><td rowspan="1" colspan="1"><p>ICT Manager</p></td><td rowspan="1" colspan="1"><p>Mr Hanafi Bin Razali</p></td></tr></tbody></table><p></p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>School Leaders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Ke Xin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Han Wee Fong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Principal (Admin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Anbalagan Thangarajah</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Head Of Department</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Siew Hong Elaine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Chew Keong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr S B Sivaganesh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Fam-Loh Mei Ting Eugenia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Cher Eng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rozainah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Meng Hoo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD PE &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Puah Chee Wee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yong Kwong Fui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Lay Koon Joey</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ho Beng Khim Vincent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Craft &amp; Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Terence Ng Kok Chuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jeffrey Lim</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Subject Heads/ Level Heads</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Discipline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Azlan Bin Azri</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Nutrition and Food Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ang Hui Leng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Malay Language/ Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Haniza Bte Abdul Manan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Pung Chin Ee Ronald</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chin Wei Chiat Alvis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sharrel Chia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jeremy He</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Sam Yiying Michelle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Leadership &amp; Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Trevor Teo Yoke Link</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Wong Jiao Mei</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Administration Heads</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Raymond Moo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Choon Kong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Khairul Salleh Bin Abu Bakar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hanafi Bin Razali</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<p></p>
