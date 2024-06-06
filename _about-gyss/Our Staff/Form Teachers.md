@@ -5,20 +5,18 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<h3>Lower Secondary</h3>
 <h5>Sec 1 Year head : Mrs Eugenia Fam-Loh</h5>
-<table>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Sec 1 Form Teachers</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Form Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Name of Teacher</strong>
-</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1-1</p>
@@ -115,29 +113,23 @@ variant: tiptap
 <p>Mr Murtaza</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
 <h5>Sec 2 Year head : Mr Sivaganesh</h5>
-<table>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Sec 2 Form Teachers</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Form Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Name of Teacher</strong>
-</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2E1</p>
@@ -236,20 +228,21 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Upper Secondary</h3>
+</div>
+</details>
+</div>
 <h5>Sec 3 Year head : Mr Ronald Pung</h5>
-<table>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Sec 3 Form Teachers</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Form Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Name of Teacher</strong>
-</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>3E1</p>
@@ -364,19 +357,21 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
 <h5>Sec 4 Year head : Mr Alvis Chin</h5>
-<table>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Sec 4 Form Teachers</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Form Class</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Name of Teacher</strong>
-</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>4E1</p>
@@ -467,4 +462,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <p></p>
