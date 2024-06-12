@@ -9,7 +9,7 @@ description: ""
 our school.</p>
 <p>The stall will operate from 06:30 am to 3:30 pm from Monday to Friday
 during school term.</p>
-<p>Application form may be downloaded from MOE website at <a rel="noopener noreferrer nofollow" target="_blank">https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf</a> or
+<p>Application form may be downloaded from MOE website at <a href="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf" rel="noopener noreferrer nofollow" target="_blank">https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf </a>or
 collect from School General Office from Monday to Friday from 09:00am to
 6:00pm.</p>
 <p>Closing date for the application is 28 June 2024.</p>
