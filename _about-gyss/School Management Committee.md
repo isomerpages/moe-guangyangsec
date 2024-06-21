@@ -268,7 +268,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Manager</p>
+<p>Admin Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Raymond Moo</p>
