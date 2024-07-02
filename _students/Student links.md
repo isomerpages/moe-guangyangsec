@@ -4,7 +4,11 @@ permalink: /students/studentlinks/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -41,6 +45,36 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/5vkpji" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/5vkpji</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>My SkillsFuture for students</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/preu/about/myskillsfuture-for-students.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/preu/about/myskillsfuture-for-students.html</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MOE Scholarships</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships#special-scholarships-awards" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/awards-scholarships#special-scholarships-awards</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mental Health and Well being Mindline</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.mindline.sg/youth/home" rel="noopener noreferrer nofollow" target="_blank">https://www.mindline.sg/youth/home</a>
 </p>
 </td>
 </tr>
