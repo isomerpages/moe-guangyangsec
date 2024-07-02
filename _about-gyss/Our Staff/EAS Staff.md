@@ -147,7 +147,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hanafi Bin Razali</p>
+<p>Mr Hanafi</p>
 </td>
 </tr>
 <tr>
