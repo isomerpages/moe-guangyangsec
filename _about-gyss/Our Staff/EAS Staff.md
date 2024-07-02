@@ -37,7 +37,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Haryati Bte Abdul Manap</p>
+<p>Mdm Haryati</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Mei Chan, Helen</p>
+<p>Mdm Helen Wong</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Julie Wan Bak Li</p>
+<p>Ms Julie Wan</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ variant: tiptap
 <p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Lak Loy, Jean</p>
+<p>Ms Jean Teo</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ variant: tiptap
 <p>Operation Printing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Song King Wah, Jasmine</p>
+<p>Mdm Serene Low</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@ variant: tiptap
 <p>Operation Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Khairul Salleh Bin Abu Bakar</p>
+<p>Mr Khairul Salleh</p>
 <p></p>
 </td>
 </tr>
@@ -102,7 +102,7 @@ variant: tiptap
 <p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Mui Yong, Alice</p>
+<p>Mdm Alice Ong</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +119,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hanafi Bin Razali</p>
+<p>Mr Hanafi</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sanjef Kumravalu</p>
+<p>Mr Sanjef</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +143,7 @@ variant: tiptap
 <p>STEM (Workshop Inst)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Rahman Bin Talib</p>
+<p>Mr Abdul Rahman</p>
 </td>
 </tr>
 <tr>
@@ -159,7 +159,7 @@ variant: tiptap
 <p>STEM (Lab Tech)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Aishah Bte Mohamed Salleh</p>
+<p>Ms Siti Aishah</p>
 </td>
 </tr>
 <tr>
@@ -188,10 +188,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TA-NFS</p>
+<p>Teacher Aide-NFS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Mok Siu Kian, Alicia</p>
+<p>Miss Alicia Mok</p>
 </td>
 </tr>
 </tbody>
