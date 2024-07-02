@@ -2,7 +2,6 @@ collections:
   leader:
     output: true
     order:
-      - Student Management.md
       - CCA/.keep
       - CCA/CCA Schedule 2024.md
       - CCA/AV Club.md
@@ -22,3 +21,4 @@ collections:
       - CCA/NPCC.md
       - CCA/Red Cross.md
       - CCA/Rock Climbing.md
+      - Student Management.md
