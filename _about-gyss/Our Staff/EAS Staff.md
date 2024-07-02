@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>EAS Staff</strong>
+<summary><strong>Administration Staff</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -37,7 +37,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Haryati Bte Abdul Manap</p>
+<p>Mdm Haryati</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Mei Chan, Helen</p>
+<p>Mdm Helen Wong</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Julie Wan Bak Li</p>
+<p>Ms Julie Wan</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ variant: tiptap
 <p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Lak Loy, Jean</p>
+<p>Ms Jean Teo</p>
 </td>
 </tr>
 <tr>
@@ -69,15 +69,29 @@ variant: tiptap
 <p>Operation Printing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Song King Wah, Jasmine</p>
+<p>Mrs Jasmine Song</p>
 </td>
 </tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Operations Staff</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Operation Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Khairul Salleh Bin Abu Bakar</p>
+<p>Mr Khairul Salleh</p>
 <p></p>
 </td>
 </tr>
@@ -102,7 +116,7 @@ variant: tiptap
 <p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Mui Yong, Alice</p>
+<p>Mdm Alice Ong</p>
 </td>
 </tr>
 <tr>
@@ -113,6 +127,20 @@ variant: tiptap
 <p>Mdm Pon Malarvili Ponnampalm</p>
 </td>
 </tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>ICT Staff</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
@@ -138,12 +166,26 @@ variant: tiptap
 <p>Mr Sanjef Kumravalu</p>
 </td>
 </tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>STEM Instructor Staff</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>STEM (Workshop Inst)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Rahman Bin Talib</p>
+<p>Mr Abdul Rahman</p>
 </td>
 </tr>
 <tr>
@@ -159,7 +201,7 @@ variant: tiptap
 <p>STEM (Lab Tech)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Aishah Bte Mohamed Salleh</p>
+<p>Ms Siti Aishah</p>
 </td>
 </tr>
 <tr>
@@ -170,6 +212,20 @@ variant: tiptap
 <p>Mrs Chan_Ng Ai Khim</p>
 </td>
 </tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Other Staff</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Library Assistant</p>
@@ -188,10 +244,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TA-NFS</p>
+<p>Teacher Aide</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Mok Siu Kian, Alicia</p>
+<p>Miss Alicia Mok</p>
 </td>
 </tr>
 </tbody>
