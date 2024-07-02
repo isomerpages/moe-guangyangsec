@@ -2,8 +2,8 @@ collections:
   admission:
     output: true
     order:
+      - Admissions for international students.md
+      - Admissions for Returning Singaporeans.md
       - Direct School Admission.md
-      - International Students.md
-      - Returning Singaporeans.md
       - Secondary One Appeal Form 2024.md
       - Vacancy Canteen Stall.md
