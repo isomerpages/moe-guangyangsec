@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - Leave of Absence.md
       - Admissions for international students.md
       - Admissions for Returning Singaporeans.md
       - Direct School Admission.md
