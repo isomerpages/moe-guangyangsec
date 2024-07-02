@@ -60,6 +60,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>MOE Scholarships</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships#special-scholarships-awards" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/awards-scholarships#special-scholarships-awards</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Mental Health and Well being Mindline</strong>
 </p>
 </td>
