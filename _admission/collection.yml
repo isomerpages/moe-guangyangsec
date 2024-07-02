@@ -2,9 +2,9 @@ collections:
   admission:
     output: true
     order:
-      - Leave of Absence (LOA) scheme.md
       - Admissions for international students.md
       - Admissions for Returning Singaporeans.md
       - Direct School Admission.md
+      - Leave of Absence (LOA) scheme.md
       - Secondary One Appeal Form 2024.md
       - Vacancy Canteen Stall.md
