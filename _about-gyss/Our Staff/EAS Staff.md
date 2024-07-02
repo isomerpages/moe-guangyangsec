@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>EAS Staff</strong>
+<summary><strong>Administration Staff</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -69,9 +69,23 @@ variant: tiptap
 <p>Operation Printing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Serene Low</p>
+<p>Mrs Jasmine Song</p>
 </td>
 </tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Operations Staff</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Operation Manager</p>
@@ -113,13 +127,27 @@ variant: tiptap
 <p>Mdm Pon Malarvili Ponnampalm</p>
 </td>
 </tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>ICT Staff</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hanafi</p>
+<p>Mr Hanafi Bin Razali</p>
 </td>
 </tr>
 <tr>
@@ -135,9 +163,23 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sanjef</p>
+<p>Mr Sanjef Kumravalu</p>
 </td>
 </tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>STEM Instructor Staff</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>STEM (Workshop Inst)</p>
@@ -170,6 +212,20 @@ variant: tiptap
 <p>Mrs Chan_Ng Ai Khim</p>
 </td>
 </tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Other Staff</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Library Assistant</p>
