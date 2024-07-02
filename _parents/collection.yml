@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Personalised Learning Device Programme (PLD).md
       - Group Personal Accident Insurance.md
       - Bookshop And Uniform.md
       - Financial Assistance.md
