@@ -2,5 +2,48 @@
 title: Parents Useful Links
 permalink: /parents/parentslinks/
 description: ""
+variant: tiptap
 ---
-<table class="has-fixed-layout" style="border-collapse: collapse; border: 1px solid rgb(51, 51, 51); width: 738.9px; table-layout: fixed; color: rgb(6, 42, 78); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody><tr style="background-color: rgb(255, 249, 224); color: rgb(6, 42, 78);"><td class="has-text-align-center" data-align="center" style="text-align: center; border: 1px solid rgb(51, 51, 51); padding: 5px 8px; word-break: break-word;"><a href="https://www.moe.gov.sg/" target="_blank" rel="noreferrer noopener" style="color: rgb(6, 42, 78); text-decoration: none;">MOE</a></td><td class="has-text-align-center" data-align="center" style="text-align: center; border: 1px solid rgb(51, 51, 51); padding: 5px 8px; word-break: break-word;">https://www.moe.gov.sg/</td></tr><tr style="background-color: rgb(255, 255, 255); color: rgb(6, 42, 78);"><td class="has-text-align-center" data-align="center" style="text-align: center; border: 1px solid rgb(51, 51, 51); padding: 5px 8px; word-break: break-word;"><a href="https://www.schoolbag.edu.sg/" target="_blank" rel="noreferrer noopener" style="color: rgb(6, 42, 78); text-decoration: none;">Schoolbag</a></td><td class="has-text-align-center" data-align="center" style="text-align: center; border: 1px solid rgb(51, 51, 51); padding: 5px 8px; word-break: break-word;">https://www.schoolbag.edu.sg/</td></tr><tr style="background-color: rgb(255, 249, 224); color: rgb(6, 42, 78);"><td class="has-text-align-center" data-align="center" style="text-align: center; border: 1px solid rgb(51, 51, 51); padding: 5px 8px; word-break: break-word;"><a href="https://dadsforlife.sg/" target="_blank" rel="noreferrer noopener" style="color: rgb(6, 42, 78); text-decoration: none;">Dads for Life</a></td><td class="has-text-align-center" data-align="center" style="text-align: center; border: 1px solid rgb(51, 51, 51); padding: 5px 8px; word-break: break-word;">https://dadsforlife.sg/</td></tr><tr style="background-color: rgb(255, 255, 255); color: rgb(6, 42, 78);"><td class="has-text-align-center" data-align="center" style="text-align: center; border: 1px solid rgb(51, 51, 51); padding: 5px 8px; word-break: break-word;"><a href="https://www.haze.gov.sg/" target="_blank" rel="noreferrer noopener" style="color: rgb(6, 42, 78); text-decoration: none;">NEA Haze</a></td><td class="has-text-align-center" data-align="center" style="text-align: center; border: 1px solid rgb(51, 51, 51); padding: 5px 8px; word-break: break-word;">https://www.haze.gov.sg/</td></tr></tbody></table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Useful links for Parents</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">School Bag</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://dadsforlife.sg/" rel="noopener noreferrer nofollow" target="_blank">Dads for Life</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions" rel="noopener noreferrer nofollow" target="_blank">Post Secondary Admissions</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway - MOE</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
