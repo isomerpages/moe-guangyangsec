@@ -58,6 +58,16 @@ description: ""
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mental Health and Well being Mindline</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.mindline.sg/youth/home" rel="noopener noreferrer nofollow" target="_blank">https://www.mindline.sg/youth/home</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
