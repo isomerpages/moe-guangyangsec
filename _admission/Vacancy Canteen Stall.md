@@ -7,14 +7,14 @@ description: ""
 <h3><strong>VACANCY FOR MUSLIM FOOD STALL</strong></h3>
 <p>We are inviting interested applicants to operate a Muslim Food Stall (Rice,
 Mee Rebus, Mee Soto, etc) in our School Canteen.</p>
-<p><strong>Closing Date:</strong> Sunday, 14 July 2024</p>
+<p><strong>Closing Date:</strong> Wed, 31 July 2024</p>
 <p><strong>School Canteen Operating Hours:</strong>
 </p>
 <p>The canteen operating hours are 6.30 am to 3.30 pm, from Monday to Fridays,
 during the school terms.&nbsp;</p>
-<p>&nbsp;The stallholder is also required to operate during&nbsp;non-routine
-hours, Saturdays and School Holidays when necessary and at the request
-of the school.</p>
+<p>The stallholder is also required to operate during&nbsp;non-routine hours,
+Saturdays and School Holidays when necessary and at the request of the
+school.</p>
 <p><strong>Requirements:</strong>
 </p>
 <p>a. Must be a Singapore Citizen or Singapore Permanent Resident (the stallholder
@@ -53,7 +53,7 @@ at: <a href="https://schadmsvc.moe.gov.sg/files/appexistingsch.pdf" rel="noopene
 collected from the General Office from Monday to Friday, from 8 am to 4.30
 pm.</p>
 <p>2.&nbsp; Completed application forms must be submitted together with the
-following documents, before the closing date of <strong><u>Sunday, 14 July 2024:</u></strong>
+following documents, before the closing date of <strong><u>Wed, 31 July 2024:</u></strong>
 </p>
 <p>a) Photocopy of the applicant’s NRIC (front and back).</p>
 <p>b) Proposed daily food menu and price list.</p>
