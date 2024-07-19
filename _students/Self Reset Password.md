@@ -2,11 +2,11 @@
 title: Self Reset Password
 permalink: /students/resetpw/
 description: ""
+variant: markdown
 ---
-![](/images/ssrp%20(1).JPG)
-![](/images/ssrp%20(2).JPG)
-![](/images/ssrp%20(3).JPG)
-![](/images/ssrp%20(4).JPG)
-![](/images/ssrp%20(5).JPG)
-![](/images/ssrp%20(6).JPG)
-![](/images/ssrp%20(7).JPG)
+![](/images/MIMS_Self_reset_conv_1.jpg)
+![](/images/MIMS_Self_reset_conv_2.jpg)
+![](/images/MIMS_Self_reset_conv_3.jpg)
+![](/images/MIMS_Self_reset_conv_4.jpg)
+![](/images/MIMS_Self_reset_conv_5.jpg)
+![](/images/MIMS_Self_reset_conv_6.jpg)
