@@ -48,6 +48,7 @@ variant: tiptap
 <summary><strong>Head Of Department</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -64,10 +65,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management</p>
+<p>HOD Student Management (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chan Chew Keong</p>
+<p>Mrs Lim Wan Nah</p>
 </td>
 </tr>
 <tr>
@@ -96,10 +97,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Humanities</p>
+<p>HOD Humanities (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rozainah</p>
+<p>Ms Wong Jiao Mei</p>
 </td>
 </tr>
 <tr>
@@ -230,7 +231,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Mathematics</p>
+<p>SH Mathematics (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Sam Yiying Michelle</p>
@@ -238,18 +239,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Leadership &amp; Aesthetics</p>
+<p>SH Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Trevor Teo Yoke Link</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Wong Jiao Mei</p>
 </td>
 </tr>
 </tbody>
