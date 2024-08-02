@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Guangyang_Secondary_School.jpeg
+      background: /images/guangyang_secondary_school.jpeg
       key_highlights:
         - title: Contact Us
           description: ""
@@ -15,7 +15,7 @@ sections:
         - title: School events
           description: ""
           url: https://www.guangyangsec.moe.edu.sg/about-gyss/schoolevents/
-      variant: center
+      variant: image
       size: md
       alignment: left
       backgroundColor: gray
