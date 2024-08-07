@@ -17,13 +17,13 @@ from the skills and experiences of our alumni.</p>
 creating memorable experiences for all attendees. In 2023, they reunited
 for the 105th year Homecoming Lunch at the school, reconnecting and rekindling
 old friendships.</p>
-<p>&nbsp;<strong>Get Involved</strong>
+<p><strong>Get Involved</strong>
 </p>
 <p>If you are interested in learning more about our activities, please contact
 the school for additional information.</p>
-<p>&nbsp;To register as an alumni member, please scan the QR code and fill
-in your details. Stay updated by visiting our website or following us on
-Facebook and Instagram for upcoming events and happenings.</p>
+<p>To register as an alumni member, please scan the QR code and fill in your
+details. Stay updated by visiting our website or following us on Facebook
+and Instagram for upcoming events and happenings.</p>
 <div class="isomer-image-wrapper">
 <img style="width:300px;" height="auto" width="100%" src="/images/Homepage/Alumni/Alumni%20QR.jpg">
 </div>
