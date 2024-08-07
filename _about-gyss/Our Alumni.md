@@ -2,20 +2,40 @@
 title: Our Alumni
 permalink: /about-gyss/gyssalumni/
 description: ""
+variant: tiptap
 ---
-### Guangyang Alumni&nbsp;
-
-Objectives of the Guangyang Alumni seeks to foster a sense of community among our graduates, past and present, while supporting a sense of connectedness back to the school. Through various events, we hope to establish or renew friendships, while creating potential collaborations that our students can benefit from the alumni’s skills and experience.
-
-In 2022, the alumni members gather during the Mid-Autumn Festival season, and it was a memorable experience for all. In 2023, they once again reunite, reconnect, and rekindle their friendship during the 105th year Homecoming Lunch in school.
-      
-If you are interested to know more, you may&nbsp;[mail](mailto:gyss@moe.edu.sg)&nbsp;the school for more information.
-
-To register as alumni member, please scan the QR code and fill in the details. Do watch out for our website or Facebook for upcoming events and happenings.
-
-<img src="/images/Homepage/Alumni/Alumni%20QR.jpg" style="width:300px;">
-
-        
-![](/images/Parents/alumni%201.jpg)
-![](/images/Parents/alumni%202.JPG)
-![](/images/Parents/alumni%203.JPG)
+<p><strong>Objectives of the Guangyang Alumni</strong>
+</p>
+<p>The Guangyang Alumni aims to foster a strong sense of community among
+our graduates, both past and present, while maintaining a connection to
+the school. Through various events, we strive to establish and renew friendships,
+and create opportunities for collaboration where our students can benefit
+from the skills and experiences of our alumni.</p>
+<p><strong>Recent Events</strong>
+</p>
+<p>In 2022, alumni members gathered during the Mid-Autumn Festival season,
+creating memorable experiences for all attendees. In 2023, they reunited
+for the 105th year Homecoming Lunch at the school, reconnecting and rekindling
+old friendships.</p>
+<p>&nbsp;<strong>Get Involved</strong>
+</p>
+<p>If you are interested in learning more about our activities, please contact
+the school for additional information.</p>
+<p>&nbsp;To register as an alumni member, please scan the QR code and fill
+in your details. Stay updated by visiting our website or following us on
+Facebook and Instagram for upcoming events and happenings.</p>
+<div class="isomer-image-wrapper">
+<img style="width:300px;" height="auto" width="100%" src="/images/Homepage/Alumni/Alumni%20QR.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/alumni%201.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/alumni%202.JPG">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/alumni%203.JPG">
+</div>
+<p></p>
