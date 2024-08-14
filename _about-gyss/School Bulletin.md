@@ -10,5 +10,5 @@ and matters.</p>
 <p></p>
 <p><strong>2023:</strong>
 </p>
-<p></p>
-<p></p>
+<p><a href="/files/GYSS_Bulletin_2023__compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Bulletin 2023</a>
+</p>
