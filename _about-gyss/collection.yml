@@ -2,7 +2,6 @@ collections:
   about-gyss:
     output: true
     order:
-      - School Bulletin.md
       - Our Staff/.keep
       - Our Staff/Form Teachers.md
       - Our Staff/EAS Staff.md
@@ -12,5 +11,6 @@ collections:
       - Our School Crest and Anthem.md
       - Principal's Message.md
       - School Events.md
+      - School Bulletin.md
       - School Advisory Committee.md
       - School Management Committee.md
