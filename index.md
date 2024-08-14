@@ -15,6 +15,9 @@ sections:
         - title: School events
           description: ""
           url: https://www.guangyangsec.moe.edu.sg/about-gyss/schoolevents/
+        - title: School Bulletin
+          description: ""
+          url: ""
       variant: image
       size: md
       alignment: left
