@@ -50,10 +50,12 @@ hardcopy from the School’s General Office.</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Canteen Stall Application Form</p>
+<p><a href="/files/Application_for_Canteen_Stall_FormBF7__GYSS_.pdf" rel="noopener nofollow" target="_blank">Canteen Stall Application form</a>
+</p>
 </li>
 <li>
-<p>List of proposed menu and pricing</p>
+<p><a href="/files/Proposed_Menu_Canteen_Stall_Cooked_Food.pdf" rel="noopener nofollow" target="_blank">List of proposed menu and pricing</a>
+</p>
 </li>
 </ul>
 <ol start="2" data-tight="true" class="tight">
@@ -76,20 +78,15 @@ proposed menu:</p>
 email OR to the School’s General Office.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p>Address: Guangyang Secondary School, 8 Bishan Street 12, Singapore 579807</p>
 <p>Contact No: 62589781</p>
 <p>Email: <a rel="noopener noreferrer nofollow" target="_blank">Raymond_moo@schools.gov.sg</a>
 </p>
 <p>Contact Person: Mr Ong Choon Kong (OM) / Mr Raymond Moo (AM)</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>How to get there?</strong>
 </p>
 <p>Nearest MRT: Bishan MRT (NS17/CC15)</p>
 <p>Bus number: 410G (from Bishan Bus Interchange)</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Interested applicants must meet the following criteria:</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -132,8 +129,6 @@ appointed by WDA (Workforce Development Agency).</p>
 from the Singapore Food Agency (SFA).</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Interview and Food Tasting</strong>
 </p>
 <p>Shortlisted applicants will be notified for an interview and will be required
