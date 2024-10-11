@@ -2,9 +2,9 @@ collections:
   admission:
     output: true
     order:
-      - School Canteen Advertisement 2024.md
       - Admissions for international students.md
       - Admissions for Returning Singaporeans.md
+      - School Canteen Advertisement 2024.md
       - Direct School Admission.md
       - Leave of Absence (LOA) scheme.md
       - Secondary One Appeal Form 2024.md
