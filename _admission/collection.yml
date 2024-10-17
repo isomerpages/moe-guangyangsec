@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - GYSS OPEN HOUSE.md
       - Admissions for international students.md
       - Admissions for Returning Singaporeans.md
       - School Canteen Advertisement 2024.md
