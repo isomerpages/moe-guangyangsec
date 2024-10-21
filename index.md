@@ -28,7 +28,7 @@ sections:
       id: resources
       button: VIEW MORE
   - infopic:
-      title: Meet Ms Tan Ke Xin
+      title: Meet Ms Tan Ke-Xin
       subtitle: New Principal of GYSS
       id: infopic
       button: Read More
