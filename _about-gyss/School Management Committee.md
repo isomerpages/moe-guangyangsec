@@ -21,7 +21,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Tan Ke Xin</p>
+<p>Miss Tan Ke-Xin</p>
 </td>
 </tr>
 <tr>
@@ -30,6 +30,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Han Wee Fong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Jennifer Wu</p>
 </td>
 </tr>
 <tr>
