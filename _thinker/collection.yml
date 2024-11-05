@@ -2,8 +2,8 @@ collections:
   thinker:
     output: true
     order:
-      - ML/Mother Tongue.md
-      - ML/.keep
+      - Mother Tongue/Mother Tongue.md
+      - Mother Tongue/.keep
       - Applied Learning Programme.md
       - Commerce.md
       - Computing.md
