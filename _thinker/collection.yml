@@ -2,6 +2,7 @@ collections:
   thinker:
     output: true
     order:
+      - Mother Tongue/Tamil Language.md
       - Mother Tongue/Chinese Language.md
       - Mother Tongue/Malay Language.md
       - Mother Tongue/.keep
