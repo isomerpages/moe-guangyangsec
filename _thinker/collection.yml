@@ -2,7 +2,6 @@ collections:
   thinker:
     output: true
     order:
-      - Mother Tongue/.keep
       - Applied Learning Programme.md
       - Commerce.md
       - Computing.md
