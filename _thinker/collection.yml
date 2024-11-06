@@ -2,6 +2,7 @@ collections:
   thinker:
     output: true
     order:
+      - Mother Tongue.md
       - Applied Learning Programme.md
       - Commerce.md
       - Computing.md
@@ -10,6 +11,5 @@ collections:
       - Humanities.md
       - Learning for Life Programme.md
       - Mathematics.md
-      - Mother Tongue.md
       - Physical Education.md
       - Science.md
