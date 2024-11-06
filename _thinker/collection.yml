@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Mother Tongue/.keep
-      - Mother Tongue/Tamil Language.md
       - Applied Learning Programme.md
       - Commerce.md
       - Computing.md
