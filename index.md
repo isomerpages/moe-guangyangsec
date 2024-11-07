@@ -29,7 +29,7 @@ sections:
       button: VIEW MORE
   - infopic:
       title: Meet Ms Tan Ke-Xin
-      subtitle: New Principal of GYSS
+      subtitle: Principal of GYSS
       id: infopic
       button: Read More
       url: https://www.guangyangsec.moe.edu.sg/PRINCIPALSMESSAGE/
