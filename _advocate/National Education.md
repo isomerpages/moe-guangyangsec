@@ -2,27 +2,58 @@
 title: National Education
 permalink: /advocate/ne/
 description: ""
+variant: tiptap
 ---
-![](/images/Student%20Advocate/ne%20(1).JPG)
-
-![](/images/Student%20Advocate/ne%20(2).JPG)
-
-![](/images/Student%20Advocate/ne%20(3).JPG)
-
-![](/images/Student%20Advocate/ne%20(4).JPG)
-
-![](/images/Student%20Advocate/ne%20(5).JPG)
-
-![](/images/Student%20Advocate/ne%20(6).JPG)
-
-![](/images/Student%20Advocate/ne%20(7).JPG)
-
-![](/images/Student%20Advocate/ne%20(8).JPG)
-
-![](/images/Student%20Advocate/ne%20(11).JPG)
-
-![](/images/Student%20Advocate/ne%20(10).JPG)
-
-![](/images/Student%20Advocate/ne%20(9).JPG)
-
-![](/images/Student%20Advocate/ne%20(12).JPG)
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Advocate/2025/NE_in_GY_Publication__conv_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Advocate/2025/NE_in_GY_Publication__conv_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Advocate/2025/NE_in_GY_Publication__conv_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Advocate/2025/NE_in_GY_Publication__conv_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Advocate/2025/NE_in_GY_Publication__conv_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Advocate/2025/NE_in_GY_Publication__conv_6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Advocate/2025/NE_in_GY_Publication__conv_7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Advocate/2025/NE_in_GY_Publication__conv_8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Advocate/2025/NE_in_GY_Publication__conv_9.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Advocate/2025/NE_in_GY_Publication__conv_10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Advocate/2025/NE_in_GY_Publication__conv_11.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
