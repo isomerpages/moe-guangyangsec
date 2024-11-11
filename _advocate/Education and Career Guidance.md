@@ -14,6 +14,9 @@ Millennia Institute.</p>
 <p><a href="http://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank"><u>Course Finder</u></a> :
 Explore courses offered by the polytechnics and Institute of Technical
 Education, based on aggregate type and area of interest.</p>
+<p><a href="/files/ECG_Career_Catalyst_Programme.pdf" rel="noopener nofollow" target="_blank">Career Catalyst</a> :
+programme serves as a crucial compass, empowering students to become lifelong
+learners capable of navigating the complexities of the 21st century.</p>
 <h4>ECG support page</h4>
 <p><a href="https://sites.google.com/view/gyss-ecg-bytes-httpsgo-gov-sgg/eae" rel="noopener noreferrer nofollow" target="_blank"><u>Education and Career Guidance</u></a>
 </p>
