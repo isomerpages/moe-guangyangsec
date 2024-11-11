@@ -45,15 +45,3 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Advocate/2025/NE_in_GY_Publication__conv_11.jpg">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
