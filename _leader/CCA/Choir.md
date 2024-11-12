@@ -31,14 +31,3 @@ third_nav_title: CCA
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025/Choir_writeup_2024_conv_8.jpg">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
