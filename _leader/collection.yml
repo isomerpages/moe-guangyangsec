@@ -2,6 +2,7 @@ collections:
   leader:
     output: true
     order:
+      - CCA/Dance.md
       - CCA/.keep
       - CCA/CCA Schedule 2024.md
       - CCA/AV Club.md
