@@ -1,14 +1,44 @@
 ---
 title: Choir
 permalink: /leader/cca/choir/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: CCA
 ---
-![](/images/CCA/Choir_01.jpg)
-![](/images/CCA/Choir_02.jpg)
-![](/images/CCA/Choir_03.jpg)
-![](/images/CCA/Choir_04.jpg)
-![](/images/CCA/Choir_05.jpg)
-![](/images/CCA/Choir_06.jpg)
-![](/images/CCA/Choir_07.jpg)
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025/Choir_writeup_2024_conv_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025/Choir_writeup_2024_conv_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025/Choir_writeup_2024_conv_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025/Choir_writeup_2024_conv_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025/Choir_writeup_2024_conv_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025/Choir_writeup_2024_conv_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025/Choir_writeup_2024_conv_7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025/Choir_writeup_2024_conv_8.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
