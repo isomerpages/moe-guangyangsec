@@ -2,7 +2,6 @@ collections:
   leader:
     output: true
     order:
-      - CCA/Dance.md
       - CCA/.keep
       - CCA/CCA Schedule 2024.md
       - CCA/AV Club.md
@@ -13,6 +12,7 @@ collections:
       - CCA/Badminton Girls.md
       - CCA/Choir.md
       - CCA/Cross Country.md
+      - CCA/Dance.md
       - CCA/Drama Club.md
       - CCA/Environmental Science.md
       - CCA/Football.md
