@@ -2,23 +2,93 @@
 title: Mathematics
 permalink: /thinker/mathematics/
 description: ""
+variant: tiptap
 ---
-![](/images/Student%20Thinker/math_page-0002.jpg)
-![](/images/Student%20Thinker/math_page-0003.jpg)
-![](/images/Student%20Thinker/math_page-0004.jpg)
-![](/images/Student%20Thinker/math_page-0005.jpg)
-![](/images/Student%20Thinker/math_page-0006.jpg)
-![](/images/Student%20Thinker/math_page-0007.jpg)
-![](/images/Student%20Thinker/math_page-0008.jpg)
-![](/images/Student%20Thinker/math_page-0009.jpg)
-![](/images/Student%20Thinker/math_page-0010.jpg)
-![](/images/Student%20Thinker/math_page-0011.jpg)
-![](/images/Student%20Thinker/math_page-0012.jpg)
-![](/images/Student%20Thinker/math_page-0013.jpg)
-![](/images/Student%20Thinker/math_page-0014.jpg)
-![](/images/Student%20Thinker/math_page-0015.jpg)
-![](/images/Student%20Thinker/math_page-0016.jpg)
-![](/images/Student%20Thinker/math_page-0017.jpg)
-![](/images/Student%20Thinker/math_page-0018.jpg)
-![](/images/Student%20Thinker/math_page-0019.jpg)
-![](/images/Student%20Thinker/math_page-0020.jpg)
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_8.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_9.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_11.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_12.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_13.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_14.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_15.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_16.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_17.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_18.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_19.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Thinker/2025/Mathematics_Department_2024_conv_20.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
