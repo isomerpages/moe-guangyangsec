@@ -46,27 +46,3 @@ third_nav_title: NCC (Land)
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Picture43.jpg">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
