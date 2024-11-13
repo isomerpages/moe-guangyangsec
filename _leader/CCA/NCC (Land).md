@@ -13,7 +13,7 @@ third_nav_title: CCA
 </p>
 <p><em>“To Serve with Pride and Dedication” – the NCC motto</em>
 </p>
-<p><a href="www.guangyangsec.moe.edu.sg/nccoverview/" rel="noopener nofollow" target="_blank">Overview</a>
+<p><a href="https://www.guangyangsec.moe.edu.sg/nccoverview/" rel="noopener nofollow" target="_blank">Overview</a>
 </p>
 <p></p>
 <p></p>
