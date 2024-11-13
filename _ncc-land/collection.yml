@@ -2,7 +2,7 @@ collections:
   ncc-land:
     output: true
     order:
-      - NCC (Land)/Recent Highlights (Standard First AID with CPR AED Course).md
+      - NCC (Land)/Highlights (First AID with CPR AED).md
       - NCC (Land)/.keep
       - NCC (Land)/Overview.md
       - NCC (Land)/About Us.md
