@@ -2,7 +2,6 @@ collections:
   ncc-land:
     output: true
     order:
-      - NCC (Land)/Highlights (Annual Proficiency Camp 2024).md
       - NCC (Land)/.keep
       - NCC (Land)/Overview.md
       - NCC (Land)/About Us.md
@@ -10,3 +9,4 @@ collections:
       - NCC (Land)/Programmes & Activities.md
       - NCC (Land)/Highlights (Sec 4 POP).md
       - NCC (Land)/Highlights (First AID with CPR AED).md
+      - NCC (Land)/Highlights (Annual Proficiency Camp 2024).md
