@@ -2,8 +2,8 @@ collections:
   ncc-land:
     output: true
     order:
-      - NCC (Land)/Programmes & Activities.md
       - NCC (Land)/.keep
       - NCC (Land)/Overview.md
       - NCC (Land)/About Us.md
       - NCC (Land)/Achievements.md
+      - NCC (Land)/Programmes & Activities.md
