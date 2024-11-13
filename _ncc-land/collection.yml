@@ -2,5 +2,6 @@ collections:
   ncc-land:
     output: true
     order:
+      - NCC (Land)/About Us.md
       - NCC (Land)/Overview.md
       - NCC (Land)/.keep
