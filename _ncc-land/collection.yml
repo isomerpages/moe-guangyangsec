@@ -1,5 +1,5 @@
 collections:
-  ncc:
+  ncc-land:
     output: true
     order:
       - Overview.md
