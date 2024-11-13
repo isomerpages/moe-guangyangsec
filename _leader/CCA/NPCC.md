@@ -3,21 +3,35 @@ title: NPCC
 permalink: /leader/cca/npcc/
 description: ""
 third_nav_title: CCA
-variant: markdown
+variant: tiptap
 ---
-![](/images/CCA/npcc%201.jpg)
-
-![](/images/CCA/npcc%202.jpg)
-
-![](/images/CCA/npcc%203.jpg)
-
-![](/images/CCA/npcc%204.jpg)
-
-![](/images/CCA/npcc%205.jpg)
-![](/images/CCA/npcc%206.jpg)
-![](/images/CCA/npcc%207.jpg)
-![](/images/CCA/npcc%208.jpg)
-
-![](/images/CCA/npcc%209.jpg)
-![](/images/CCA/achievements_update.jpg)
-![](/images/CCA/npcc%2011.jpg)
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025/NPCC_2024_School_Website_Update_conv_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025/NPCC_2024_School_Website_Update_conv_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025/NPCC_2024_School_Website_Update_conv_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025/NPCC_2024_School_Website_Update_conv_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025/NPCC_2024_School_Website_Update_conv_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025/NPCC_2024_School_Website_Update_conv_6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025/NPCC_2024_School_Website_Update_conv_7.jpg">
+</div>
+<p></p>
+<p></p>
