@@ -63,7 +63,7 @@ third_nav_title: CCA
 </p>
 </li>
 <li>
-<p><a href="https://www.guangyangsec.moe.edu.sg/highlights-star-kayaking/" rel="noopener nofollow" target="_blank">Highlights - Star Kayaking </a>
+<p><a href="https://www.guangyangsec.moe.edu.sg/highlights-star-kayaking/" rel="noopener nofollow" target="_blank">Highlights - Star Kayaking</a>
 </p>
 </li>
 <li>
@@ -71,24 +71,4 @@ third_nav_title: CCA
 </p>
 </li>
 </ul>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
