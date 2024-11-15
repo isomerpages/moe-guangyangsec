@@ -7,7 +7,7 @@ third_nav_title: NCC (Land)
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/NCC_2.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/CCA/NCC_2.png">
 </div>
 <p>The origins of NCC has her roots traced back to 1901.&nbsp; It is one
 of the oldest youth organizations in Singapore with the first NCC unit
