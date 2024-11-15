@@ -2,7 +2,6 @@ collections:
   leader:
     output: true
     order:
-      - CCA/NCC (Land).md
       - CCA/.keep
       - CCA/CCA Schedule 2024.md
       - CCA/AV Club.md
@@ -20,6 +19,7 @@ collections:
       - CCA/International Dance.md
       - CCA/Infocomm Technology.md
       - CCA/NPCC.md
+      - CCA/NCC (Land).md
       - CCA/Red Cross.md
       - CCA/Rock Climbing.md
       - Key Cohort Activities.md
