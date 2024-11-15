@@ -2,7 +2,7 @@ collections:
   ncc-land:
     output: true
     order:
-      - NCC (Land)/Highlights (Current FSDPDS team).md
+      - NCC (Land)/Highlights (Current FSD PDS team).md
       - NCC (Land)/.keep
       - NCC (Land)/Overview.md
       - NCC (Land)/About Us.md
