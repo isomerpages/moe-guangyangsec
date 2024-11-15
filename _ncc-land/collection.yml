@@ -2,7 +2,6 @@ collections:
   ncc-land:
     output: true
     order:
-      - NCC (Land)/NCC Useful Links.md
       - NCC (Land)/.keep
       - NCC (Land)/Overview.md
       - NCC (Land)/About Us.md
@@ -17,3 +16,4 @@ collections:
       - NCC (Land)/Highlights (Current FSD PDS team).md
       - NCC (Land)/Highlights Changi Naval Base Visit.md
       - NCC (Land)/Highlights Star Kayaking.md
+      - NCC (Land)/NCC Useful Links.md
