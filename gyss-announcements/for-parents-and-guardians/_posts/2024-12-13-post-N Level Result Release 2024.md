@@ -11,7 +11,7 @@ variant: tiptap
 Normal (Academic)-[N(A)] and Normal (Technical)-[N(T)] Level Examinations
 will be released on <strong>Monday, 16 December 2024, 2.00pm.</strong> Arrangements
 have been made for your child/ward to receive his/her results in school.
-Please ensure he/she <strong>reports to the school hall by 1.45pm.</strong> 
+Please ensure he/she <strong>reports to the school hall by 1.45pm.</strong>
 </p>
 <p>We encourage all students to return to their schools to collect their
 results. However, <strong>students who are unwell should seek medical attention and not return to school to collect their results</strong>.
