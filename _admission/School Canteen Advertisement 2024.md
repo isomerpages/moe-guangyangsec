@@ -31,7 +31,7 @@ description: ""
 <p>Muslim Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Dec 2024</p>
+<p>Available</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal Cuisine (Rice/Noodle), e.g. Nasi Padang, Nasi Lemak, Mee Rebus,
