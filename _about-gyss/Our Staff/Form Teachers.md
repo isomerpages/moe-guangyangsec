@@ -150,7 +150,7 @@ variant: tiptap
 </div>
 </details>
 </div>
-<h5>Sec 2 Year head : Mr Sivaganesh</h5>
+<h5>Sec 2 Year head : Mrs Eugenia Fam-Loh</h5>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Sec 2 Form Teachers</strong>
@@ -164,98 +164,98 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2E1</p>
+<p>2-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Jasmine Liew</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2E2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Maizura</p>
+<p>Miss Eleri Lin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2E3</p>
+<p>2-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Janelle Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2E3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Srinivasan</p>
+<p>Mdm Gu Yuehong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2N1</p>
+<p>2-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nicole Lai</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2N1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Somsadeen</p>
+<p>Ms Daphne Wee</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2N2</p>
+<p>2-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nadhirah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2N2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Tai Ngah</p>
+<p>Ms Suvenna Tan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2N3</p>
+<p>2-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Calvin Cheng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2N3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Adaikalasamy</p>
+<p>Ms Grace Teo</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2T1</p>
+<p>2-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angeline Liu</p>
+<p>Ms Cheryl Choo</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2T1</p>
+<p>2-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Wong-Lee Lye Fun</p>
+<p>Mr Justin Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Gervasio Raphael</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ratna Selvadurai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Eunice Low</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nailul Shakhira</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Murtaza</p>
 </td>
 </tr>
 </tbody>
