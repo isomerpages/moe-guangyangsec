@@ -155,7 +155,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sanjef Kumravalu</p>
+<p>Mr Sanjef</p>
 </td>
 </tr>
 </tbody>
