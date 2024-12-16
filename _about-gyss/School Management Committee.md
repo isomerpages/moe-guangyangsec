@@ -104,7 +104,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Humanities (Covering)</p>
+<p>HOD Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wong Jiao Mei</p>
