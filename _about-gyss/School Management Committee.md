@@ -72,7 +72,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Student Management (Covering)</p>
+<p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lim Wan Nah</p>
@@ -88,7 +88,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Year Head</p>
+<p>HOD Year Head (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Fam-Loh Mei Ting Eugenia</p>
@@ -104,7 +104,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Humanities (Covering)</p>
+<p>HOD Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wong Jiao Mei</p>
@@ -182,7 +182,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Discipline</p>
+<p>SH Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Azlan Bin Azri</p>
@@ -190,18 +190,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Nutrition and Food Science</p>
+<p>SH Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ang Hui Leng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Malay Language/ Tamil Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Haniza Bte Abdul Manan</p>
+<p>Mr Trevor Teo Yoke Link</p>
 </td>
 </tr>
 <tr>
@@ -222,14 +214,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Sharrel Chia</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH CCE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -238,18 +222,58 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Mathematics (Covering)</p>
+<p>SH ICT (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Sam Yiying Michelle</p>
+<p>Mr Tan Bing Quan Justin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Student Leadership</p>
+<p>SH English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Trevor Teo Yoke Link</p>
+<p>Mr Lan Yingjie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Malay Language/ Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Haniza Bte Abdul Manan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sharrel Chia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yusmawati Bte Abdul Rahman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH PE&amp;CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Yun Yun Cassandra</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Food and Consumer Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ang Hui Leng</p>
 </td>
 </tr>
 </tbody>
