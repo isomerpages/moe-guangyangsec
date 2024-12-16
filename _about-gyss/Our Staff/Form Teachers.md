@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<h5>Sec 1 Year head : Mrs Eugenia Fam-Loh</h5>
+<h5>Sec 1 Year head : Mr Alvis Chin</h5>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Sec 1 Form Teachers</strong>
@@ -22,7 +22,7 @@ variant: tiptap
 <p>1-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Eleri Lin</p>
+<p>Mr Daryl Chong</p>
 </td>
 </tr>
 <tr>
@@ -30,7 +30,7 @@ variant: tiptap
 <p>1-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Gu Yuehong</p>
+<p>Mdm Srinivasan Suganthi</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ variant: tiptap
 <p>1-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Suvenna Tan</p>
+<p>Mr Calvin Cheng</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ variant: tiptap
 <p>1-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Daphne Wee</p>
+<p>Miss Michelle Sam</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ variant: tiptap
 <p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Grace Teo</p>
+<p>Miss Chuang Chea Chee</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@ variant: tiptap
 <p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheryl Choo</p>
+<p>Mr Lan Yingjie</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ variant: tiptap
 <p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Justin Tan</p>
+<p>Ms Zhao Xiaomeng</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ variant: tiptap
 <p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Raphael</p>
+<p>Mdm Haniza</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ variant: tiptap
 <p>1-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ratna</p>
+<p>Miss Jasmine Liew</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ variant: tiptap
 <p>1-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Eunice Low</p>
+<p>Mr Mohamed Somsadeen</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ variant: tiptap
 <p>1-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shakhira</p>
+<p>Miss Lily Lim</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +110,39 @@ variant: tiptap
 <p>1-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Murtaza</p>
+<p>Miss Ang Hui Leng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss S Sasirega</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Andrew Yeo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nicole Lai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Loh-Teo Siew Khim Kim</p>
 </td>
 </tr>
 </tbody>
