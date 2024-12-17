@@ -1,6 +1,6 @@
 ---
-title: School Canteen Advertisement 2024
-permalink: /canteen-vacancy-2024-for-guangyang-secondary-school/
+title: School Canteen Advertisement 2025
+permalink: /canteen-vacancy-2025-for-guangyang-secondary-school/
 variant: tiptap
 description: ""
 ---
