@@ -41,6 +41,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway - MOE</a>
+<br><a href="https://www.youtube.com/embed/tW9jwyuovOo" rel="noopener nofollow" target="_blank">Getting Started Video for Parent's Onboarding</a>
 </p>
 </td>
 </tr>
