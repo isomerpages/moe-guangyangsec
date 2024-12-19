@@ -1,5 +1,5 @@
 ---
-title: Parents Gateway guide
+title: Parents Gateway Guide
 date: 2024-12-19
 layout: link
 description: ""
