@@ -4,7 +4,11 @@ permalink: /staff/links/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -152,7 +156,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://relief.edmension.com/" rel="noopener noreferrer nofollow" target="_blank">https://relief.edmension.com/</a>
+<p><a href="https://roster.diveanalytics.com/" rel="noopener noreferrer nofollow" target="_blank">https://roster.diveanalytics.com/</a>
 </p>
 </td>
 </tr>
