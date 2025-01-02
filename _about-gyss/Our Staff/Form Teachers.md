@@ -62,7 +62,7 @@ variant: tiptap
 <p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lan Yingjie</p>
+<p>Mrs Loh- Teo Siew Khim Kim</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ variant: tiptap
 <p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zhao Xiaomeng</p>
+<p>Ms S Sasirega</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ variant: tiptap
 <p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Haniza</p>
+<p>Mr Andrew Yeo</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ variant: tiptap
 <p>1-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lily Lim</p>
+<p>Ms Nicole Lai</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@ variant: tiptap
 <p>1-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ang Hui Leng</p>
+<p>Miss Lily Lim</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ variant: tiptap
 <p>1-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss S Sasirega</p>
+<p>Mr Tan Kok Siang</p>
 </td>
 </tr>
 <tr>
@@ -126,23 +126,7 @@ variant: tiptap
 <p>1-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andrew Yeo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1-8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nicole Lai</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1-8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Loh-Teo Siew Khim Kim</p>
+<p>Ms Zhao Xiaomeng</p>
 </td>
 </tr>
 </tbody>
@@ -384,7 +368,7 @@ variant: tiptap
 <p>3T1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Wong-Lee Lye Fun</p>
+<p>Mrs Lee Lye Fun</p>
 </td>
 </tr>
 </tbody>
@@ -417,7 +401,7 @@ variant: tiptap
 <p>4E1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharrel Chia</p>
+<p>Mrs Sharrel Chew</p>
 </td>
 </tr>
 <tr>
