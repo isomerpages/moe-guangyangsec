@@ -368,7 +368,7 @@ variant: tiptap
 <p>3T1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Wong-Lee Lye Fun</p>
+<p>Mrs Lee Lye Fun</p>
 </td>
 </tr>
 </tbody>
@@ -401,7 +401,7 @@ variant: tiptap
 <p>4E1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharrel Chia</p>
+<p>Mrs Sharrel Chew</p>
 </td>
 </tr>
 <tr>
