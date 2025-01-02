@@ -3,8 +3,7 @@ collections:
     output: true
     order:
       - 2025 Booklist.md
-      - 2024 Semestral Plan.md
-      - 2024 Class Timetable.md
+      - 2025 Class Timetable.md
       - GYSS Library.md
       - Student links.md
       - Self Reset Password.md
