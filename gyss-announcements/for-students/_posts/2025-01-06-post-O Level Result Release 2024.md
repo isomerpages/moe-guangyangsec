@@ -13,4 +13,4 @@ are to ensure that your grooming is proper e.g. appropriate hairstyle and
 turnout.</p>
 <p>If you are unable to collect your result personally and wants to appoint
 a proxy for collection, please direct your query to <a rel="noopener noreferrer nofollow" target="_blank">gyss@moe.edu.sg</a>.
-Thank you.”</p>
+Thank you.</p>
