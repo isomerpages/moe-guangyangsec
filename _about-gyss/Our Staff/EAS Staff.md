@@ -190,6 +190,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>STEM (Workshop Inst)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Vengadesh Naidu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>STEM (Lab Tech)</p>
 </td>
 <td rowspan="1" colspan="1">
