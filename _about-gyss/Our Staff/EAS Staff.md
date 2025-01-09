@@ -84,7 +84,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Khairul Salleh</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -100,7 +99,7 @@ variant: tiptap
 <p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Kuan Siew</p>
+<p>Mdm Alice Ong</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +107,15 @@ variant: tiptap
 <p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Alice Ong</p>
+<p>Mdm Vivien Wong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Kuan Siew</p>
 </td>
 </tr>
 <tr>
@@ -186,6 +193,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chng Kian Hu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEM (Workshop Inst)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Vengadesh Naidu</p>
 </td>
 </tr>
 <tr>
