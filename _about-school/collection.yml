@@ -2,10 +2,10 @@ collections:
   about-school:
     output: true
     order:
-      - GYSS/Our School Crest and Anthem.md
-      - GYSS/Our Vision & Mission.md
-      - GYSS/Our History.md
       - GYSS/.keep
+      - GYSS/Our History.md
+      - GYSS/Our Vision & Mission.md
+      - GYSS/Our School Crest and Anthem.md
       - Our Staff/.keep
       - Our Staff/Form Teachers.md
       - Our Staff/EAS Staff.md
