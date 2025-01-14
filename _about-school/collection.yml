@@ -1,5 +1,5 @@
 collections:
-  about-gyss:
+  about-school:
     output: true
     order:
       - Our Staff/.keep
