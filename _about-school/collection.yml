@@ -2,7 +2,6 @@ collections:
   about-school:
     output: true
     order:
-      - GYSS.md
       - Our Staff/.keep
       - Our Staff/Form Teachers.md
       - Our Staff/EAS Staff.md
