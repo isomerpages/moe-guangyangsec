@@ -1,4 +1,5 @@
 collections:
   gyss-experience:
     output: true
-    order: []
+    order:
+      - Our Curriculum/.keep
