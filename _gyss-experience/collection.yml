@@ -2,5 +2,5 @@ collections:
   gyss-experience:
     output: true
     order:
-      - Our Curriculum/Full Subject Based Banding (FSBB).md
+      - Our Curriculum/FSBB.md
       - Our Curriculum/.keep
