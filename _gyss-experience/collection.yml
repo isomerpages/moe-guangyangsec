@@ -2,6 +2,7 @@ collections:
   gyss-experience:
     output: true
     order:
+      - Our Curriculum/Mother Tongue.md
       - Our Curriculum/English & Literature.md
       - Our Curriculum/Full Subject Based Banding.md
       - Our Curriculum/.keep
