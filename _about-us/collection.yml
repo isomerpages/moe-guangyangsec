@@ -1,5 +1,5 @@
 collections:
-  about-school:
+  about-us:
     output: true
     order:
       - GYSS/.keep
