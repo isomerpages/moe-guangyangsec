@@ -2,6 +2,7 @@ collections:
   gyss-experience:
     output: true
     order:
+      - Our Curriculum/Computing.md
       - Our Curriculum/Mathematics.md
       - Our Curriculum/Mother Tongue.md
       - Our Curriculum/English & Literature.md
