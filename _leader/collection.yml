@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA/.keep
-      - CCA/International Dance.md
       - CCA/Infocomm Technology.md
       - CCA/NPCC.md
       - CCA/NCC (Land).md
