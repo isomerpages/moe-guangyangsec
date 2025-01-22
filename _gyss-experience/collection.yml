@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - Applied Learning Programme.md
-      - Our Curriculum/Physical Education.md
-      - Our Curriculum/Science.md
-      - Our Curriculum/Learning for Life Programme.md
-      - Our Curriculum/Humanities.md
-      - Our Curriculum/Craft and Technology.md
+      - Our Curriculum/.keep
       - Our Curriculum/Computing.md
+      - Our Curriculum/Craft and Technology.md
+      - Our Curriculum/English & Literature.md
+      - Our Curriculum/Humanities.md
+      - Our Curriculum/Learning for Life Programme.md
       - Our Curriculum/Mathematics.md
       - Our Curriculum/Mother Tongue.md
-      - Our Curriculum/English & Literature.md
+      - Our Curriculum/Physical Education.md
+      - Our Curriculum/Science.md
       - Our Curriculum/Full Subject Based Banding.md
-      - Our Curriculum/.keep
