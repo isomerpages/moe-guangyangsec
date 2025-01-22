@@ -2,6 +2,7 @@ collections:
   gyss-experience:
     output: true
     order:
+      - Applied Learning Programme.md
       - Our Curriculum/Physical Education.md
       - Our Curriculum/Science.md
       - Our Curriculum/Learning for Life Programme.md
