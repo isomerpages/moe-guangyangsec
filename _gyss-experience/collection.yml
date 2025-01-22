@@ -2,6 +2,7 @@ collections:
   gyss-experience:
     output: true
     order:
+      - CO CURRICULUM/.keep
       - Applied Learning Programme.md
       - Full Subject Based Banding.md
       - Learning for Life Programme.md
