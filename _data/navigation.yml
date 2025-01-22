@@ -1,11 +1,9 @@
 logo: /images/GYSSNEWLOGO.png
 links:
-  - title: About School
-    collection: about-school
-  - title: Leader
-    collection: leader
-  - title: Thinker
-    collection: thinker
+  - title: About Us
+    collection: about-us
+  - title: GYSS EXPERIENCE
+    collection: gyss-experience
   - title: Advocate
     collection: advocate
   - title: Parents

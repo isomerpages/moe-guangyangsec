@@ -1,0 +1,36 @@
+collections:
+  gyss-experience:
+    output: true
+    order:
+      - Key Cohort Activities.md
+      - Applied Learning Programme.md
+      - Full Subject Based Banding.md
+      - Our Curriculum/.keep
+      - Our Curriculum/Computing.md
+      - Our Curriculum/Craft and Technology.md
+      - Our Curriculum/English & Literature.md
+      - Our Curriculum/Humanities.md
+      - Our Curriculum/Mathematics.md
+      - Our Curriculum/Mother Tongue.md
+      - Our Curriculum/Physical Education.md
+      - Our Curriculum/Science.md
+      - Our Co Curriculum/.keep
+      - Our Co Curriculum/Learning for Life Programme.md
+      - Our Co Curriculum/AV Club.md
+      - Our Co Curriculum/Band.md
+      - Our Co Curriculum/Basketball Boys.md
+      - Our Co Curriculum/Basketball Girls.md
+      - Our Co Curriculum/Badminton Boys.md
+      - Our Co Curriculum/Badminton Girls.md
+      - Our Co Curriculum/Choir.md
+      - Our Co Curriculum/Cross Country.md
+      - Our Co Curriculum/Drama Club.md
+      - Our Co Curriculum/Environmental Science.md
+      - Our Co Curriculum/Football.md
+      - Our Co Curriculum/Girl's Brigade.md
+      - Our Co Curriculum/International Dance.md
+      - Our Co Curriculum/Infocomm Technology.md
+      - Our Co Curriculum/NCC (Land).md
+      - Our Co Curriculum/NPCC.md
+      - Our Co Curriculum/Red Cross.md
+      - Our Co Curriculum/Rock Climbing.md
