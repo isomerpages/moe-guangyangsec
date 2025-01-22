@@ -2,6 +2,7 @@ collections:
   gyss-experience:
     output: true
     order:
+      - Our Curriculum/Learning for Life Programme.md
       - Our Curriculum/Humanities.md
       - Our Curriculum/Commerce.md
       - Our Curriculum/Craft and Technology.md
