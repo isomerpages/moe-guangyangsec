@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - CCA/.keep
-      - CCA/Red Cross.md
       - CCA/Rock Climbing.md
