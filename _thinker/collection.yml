@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Applied Learning Programme.md
-      - Humanities.md
       - Learning for Life Programme.md
       - Physical Education.md
       - Science.md
