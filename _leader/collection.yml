@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA/.keep
-      - CCA/Environmental Science.md
       - CCA/Football.md
       - CCA/Girl's Brigade.md
       - CCA/International Dance.md
