@@ -2,7 +2,6 @@ collections:
   gyss-experience:
     output: true
     order:
-      - Girl's Brigade.md
       - Environmental Science.md
       - Key Cohort Activities.md
       - Applied Learning Programme.md
