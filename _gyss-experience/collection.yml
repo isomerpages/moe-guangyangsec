@@ -2,7 +2,6 @@ collections:
   gyss-experience:
     output: true
     order:
-      - Our Co Curriculum/.keep
       - Applied Learning Programme.md
       - Full Subject Based Banding.md
       - Learning for Life Programme.md
@@ -15,3 +14,4 @@ collections:
       - Our Curriculum/Mother Tongue.md
       - Our Curriculum/Physical Education.md
       - Our Curriculum/Science.md
+      - Our Co Curriculum/.keep
