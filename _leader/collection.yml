@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA/.keep
-      - CCA/Badminton Girls.md
       - CCA/Choir.md
       - CCA/Cross Country.md
       - CCA/Drama Club.md
