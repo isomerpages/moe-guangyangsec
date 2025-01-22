@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA/.keep
-      - CCA/CCA Schedule 2024.md
       - CCA/AV Club.md
       - CCA/Band.md
       - CCA/Basketball Boys.md
