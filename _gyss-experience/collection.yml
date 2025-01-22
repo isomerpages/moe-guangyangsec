@@ -2,7 +2,6 @@ collections:
   gyss-experience:
     output: true
     order:
-      - Physical Education.md
       - Our Curriculum/Science.md
       - Our Curriculum/Learning for Life Programme.md
       - Our Curriculum/Humanities.md
