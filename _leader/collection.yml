@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA/.keep
-      - CCA/Badminton Boys.md
       - CCA/Badminton Girls.md
       - CCA/Choir.md
       - CCA/Cross Country.md
