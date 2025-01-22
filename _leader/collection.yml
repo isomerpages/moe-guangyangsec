@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA/.keep
-      - CCA/Choir.md
       - CCA/Cross Country.md
       - CCA/Drama Club.md
       - CCA/Environmental Science.md
