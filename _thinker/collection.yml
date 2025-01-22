@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Applied Learning Programme.md
-      - Physical Education.md
       - Science.md
