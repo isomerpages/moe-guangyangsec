@@ -1,5 +1,4 @@
 collections:
   thinker:
     output: true
-    order:
-      - Applied Learning Programme.md
+    order: []
