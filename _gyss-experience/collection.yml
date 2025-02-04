@@ -2,7 +2,6 @@ collections:
   gyss-experience:
     output: true
     order:
-      - Get to know GYSS/.keep
       - Key Cohort Activities.md
       - Applied Learning Programme.md
       - Full Subject Based Banding.md
