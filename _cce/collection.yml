@@ -2,5 +2,6 @@ collections:
   cce:
     output: true
     order:
+      - Character Development Programme.md
       - Cyberwellness.md
       - CCE/.keep
