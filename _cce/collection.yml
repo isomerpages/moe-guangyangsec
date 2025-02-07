@@ -2,4 +2,5 @@ collections:
   cce:
     output: true
     order:
+      - Cyberwellness.md
       - CCE/.keep
