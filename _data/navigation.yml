@@ -13,7 +13,7 @@ links:
   - title: Admission
     collection: admission
   - title: GYSS EXPERIENCE
-    url: /Gyss Experience
+    url: /gyss-experience
     sublinks:
       - title: Get to Know GYSS
         url: https://youtu.be/mYUvSX7R3vw
@@ -24,6 +24,6 @@ links:
       - title: Full Subject Based Banding
         url: /parents/fullsubjectbasedbanding/
       - title: Our Curriculum
-        url: /Our Curriculum
+        url: /our-curriculum
       - title: Learning for Life Programme
-        url: /Our Co Curriculum
+        url: /our-co-curriculum
