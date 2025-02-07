@@ -3,16 +3,6 @@ links:
   - title: About Us
     collection: about-us
   - title: GYSS EXPERIENCE
-    collection: gyss-experience
-  - title: Parents
-    collection: parents
-  - title: Students
-    collection: students
-  - title: Staff
-    collection: staff
-  - title: Admission
-    collection: admission
-  - title: GYSS EXPERIENCE
     url: /gyss-experience
     sublinks:
       - title: Get to Know GYSS
@@ -27,3 +17,11 @@ links:
         url: /our-curriculum
       - title: Learning for Life Programme
         url: /our-co-curriculum
+  - title: Parents
+    collection: parents
+  - title: Students
+    collection: students
+  - title: Staff
+    collection: staff
+  - title: Admission
+    collection: admission
