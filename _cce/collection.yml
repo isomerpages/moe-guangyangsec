@@ -2,8 +2,8 @@ collections:
   cce:
     output: true
     order:
-      - Sexuality Education Programme.md
-      - National Education.md
-      - Education and Career Guidance.md
-      - Character Development Programme.md
       - Cyberwellness.md
+      - Character Development Programme.md
+      - Education and Career Guidance.md
+      - National Education.md
+      - Sexuality Education Programme.md
