@@ -12,3 +12,18 @@ links:
     collection: staff
   - title: Admission
     collection: admission
+  - title: GYSS EXPERIENCE
+    url: /Gyss Experience
+    sublinks:
+      - title: Get to Know GYSS
+        url: https://youtu.be/mYUvSX7R3vw
+      - title: Key Cohort Activities
+        url: /leader/keycohortactivities/
+      - title: Applied Learning Programme
+        url: /thinker/alp/
+      - title: Full Subject Based Banding
+        url: /parents/fullsubjectbasedbanding/
+      - title: Our Curriculum
+        url: /Our Curriculum
+      - title: Learning for Life Programme
+        url: /Our Co Curriculum
