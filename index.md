@@ -14,7 +14,7 @@ sections:
           url: https://www.guangyangsec.moe.edu.sg/contact-us/
         - title: School events
           description: ""
-          url: https://www.guangyangsec.moe.edu.sg/about-gyss/schoolevents/
+          url: https://www.instagram.com/guangyangsec/
         - title: School Bulletin
           description: ""
           url: https://guangyangsec.moe.edu.sg/school-bulletin/
