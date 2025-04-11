@@ -2,7 +2,7 @@
 layout: homepage
 title: Guangyang Secondary School
 description: A Ministry of Education School
-image: /images/GYSSNEWLOGO.png
+image: /images/PLD_Wallpaper__1_.png
 permalink: /
 notification: ""
 sections:
