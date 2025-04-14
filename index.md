@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/guangyang_secondary_school.jpeg
+      background: /images/Guangyang_Secondary_Visual_Identity_Slides_conv_1.png
       key_highlights:
         - title: Contact Us
           description: ""
