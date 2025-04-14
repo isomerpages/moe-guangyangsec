@@ -1,6 +1,6 @@
 title: Guangyang Secondary School
 url: https://guangyangsec.moe.edu.sg
-favicon: /images/GYSS_Logo.png
+favicon: /images/GYSS_Logo_V2.jpg
 colors:
   primary-color: "#3f69f7"
   secondary-color: "#5080e3"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dxojjoilll1lq.amplifyapp.com
 prod: https://master.dxojjoilll1lq.amplifyapp.com
-shareicon: /images/GYSS_Logo.png
+shareicon: /images/GYSS_Logo_V2.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
