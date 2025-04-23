@@ -5,20 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h3>Book Shop Vendor</h3>
-<p><strong>Orange Education Service Trading</strong>
+<p><strong>D Y Education Service Trading</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Address:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10 Jalan Limau Manis
-<br>Singapore 468342</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Bookshop’s Location:</strong>
@@ -27,25 +21,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>School Canteen
 <br>8 Bishan St 12, Singapore 579807</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Email:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:orangeedu12@gmail.com" rel="noreferrer noopener" target="_blank">orangeedu12@gmail.com</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Fax:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6448 4213</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +38,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Janet - 9299 7740</p>
+<p>Vina – 9737 9816</p>
 </td>
 </tr>
 </tbody>
@@ -71,7 +46,11 @@ variant: tiptap
 <h3>School Uniform Vendor</h3>
 <p><strong>Jeep Sing Fashion</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
