@@ -6,44 +6,19 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Webpage_2025_updated_on_2_May_jw_conv_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Webpage_2025_updated_conv_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Webpage_2025_updated_on_2_May_jw_conv_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Webpage_2025_updated_conv_2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Webpage_2025_updated_on_2_May_jw_conv_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Webpage_2025_updated_conv_3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Webpage_2025_updated_on_2_May_jw_conv_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Webpage_2025_updated_conv_4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Webpage_2025_updated_on_2_May_jw_conv_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Webpage_2025_updated_conv_5.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
