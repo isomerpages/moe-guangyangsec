@@ -309,9 +309,3 @@ performance and dedication.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/2025/Join_us_on_Instagram.png">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
