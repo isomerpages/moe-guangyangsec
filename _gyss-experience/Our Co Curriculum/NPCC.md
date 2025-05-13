@@ -25,7 +25,7 @@ and Excellence (E)</p>
 <p><strong>Our People:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/2025/PHOTO_2025_04_03_21_29_45.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/2025/PHOTO_2025_04_03_21_29_45.jpg">
 </div>
 <p>Welcome to Guangyang Secondary School's National Police Cadet Corps (NPCC)
 family! Our vibrant unit of 40 cadets thrives under the mentorship of four
@@ -263,7 +263,6 @@ the Distinction award is the highest possible honour a unit may attain.</p>
 <p>We are pleased to share:</p>
 <p><strong>UOPA 2024:</strong> Distinction</p>
 <p><strong>UOPA 2023:</strong> Distinction</p>
-<p><strong>UOPA 2023:</strong> Distinction</p>
 <p><strong>UOPA 2022</strong>: Distinction</p>
 <p><strong>SPF-NPCC Badge</strong>
 </p>
@@ -285,7 +284,7 @@ performance and dedication.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="1109" width="1440" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4H4OuFiSfCCdWd-1jZDQTMKLa5lbOP3F8lBDyJtvu7PzOdaVEks5GJEJgJFSh53Ife-SYBtcZ3ZMV/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4H4OuFiSfCCdWd-1jZDQTMKLa5lbOP3F8lBDyJtvu7PzOdaVEks5GJEJgJFSh53Ife-SYBtcZ3ZMV/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p><strong>In-school Training Information</strong>
 </p>
@@ -302,7 +301,7 @@ performance and dedication.</p>
 <p><strong>Stay Connected</strong>
 </p>
 <p>Get the latest updates and glimpses into cadet life</p>
-<p>Embed link in picture: <a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/gyssnpcc</a>
+<p><a href="www.instagram.com/gyssnpcc" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/gyssnpcc</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
