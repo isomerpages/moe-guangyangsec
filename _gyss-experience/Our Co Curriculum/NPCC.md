@@ -25,7 +25,7 @@ and Excellence (E)</p>
 <p><strong>Our People:</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2025/PHOTO_2025_04_03_21_29_45.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/2025/PHOTO_2025_04_03_21_29_45.jpg">
 </div>
 <p>Welcome to Guangyang Secondary School's National Police Cadet Corps (NPCC)
 family! Our vibrant unit of 40 cadets thrives under the mentorship of four
