@@ -285,7 +285,7 @@ performance and dedication.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4H4OuFiSfCCdWd-1jZDQTMKLa5lbOP3F8lBDyJtvu7PzOdaVEks5GJEJgJFSh53Ife-SYBtcZ3ZMV/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="1109" width="1440" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4H4OuFiSfCCdWd-1jZDQTMKLa5lbOP3F8lBDyJtvu7PzOdaVEks5GJEJgJFSh53Ife-SYBtcZ3ZMV/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p><strong>In-school Training Information</strong>
 </p>
