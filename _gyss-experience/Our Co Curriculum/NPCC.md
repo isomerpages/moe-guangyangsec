@@ -284,7 +284,7 @@ performance and dedication.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4H4OuFiSfCCdWd-1jZDQTMKLa5lbOP3F8lBDyJtvu7PzOdaVEks5GJEJgJFSh53Ife-SYBtcZ3ZMV/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="700" width="894" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4H4OuFiSfCCdWd-1jZDQTMKLa5lbOP3F8lBDyJtvu7PzOdaVEks5GJEJgJFSh53Ife-SYBtcZ3ZMV/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p><strong>In-school Training Information</strong>
 </p>
@@ -301,7 +301,7 @@ performance and dedication.</p>
 <p><strong>Stay Connected</strong>
 </p>
 <p>Get the latest updates and glimpses into cadet life</p>
-<p><a href="https://www.instagram.com/gyssnpcc" rel="noopener nofollow" target="_blank">www.instagram.com/gyssnpcc </a>
+<p><a href="https://www.instagram.com/gyssnpcc" rel="noopener nofollow" target="_blank">www.instagram.com/gyssnpcc</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
