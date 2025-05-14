@@ -89,7 +89,8 @@ and where lasting friendships are forged.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>H/INSP (NPCC) Eugene Goh <em>Batch of 2004</em>
+<p>H/INSP (NPCC) Eugene Goh</p>
+<p><em>Batch of 2004</em>
 </p>
 </li>
 </ul>
@@ -97,25 +98,8 @@ and where lasting friendships are forged.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>H/INSP (NPCC) Jia Yang <em>Batch of 2017</em>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>CI (NPCC) Qi En <em>Batch of 2022</em>
-</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>CI (NPCC) Hwee Zhen <em>Batch of 2022</em>
+<p>H/INSP (NPCC) Jia Yang</p>
+<p><em>Batch of 2017</em>
 </p>
 </li>
 </ul>
@@ -125,7 +109,28 @@ and where lasting friendships are forged.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>CI (NPCC) Jing Yan <em>Batch of 2023</em>
+<p>CI (NPCC) Qi En</p>
+<p><em>Batch of 2022</em>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>CI (NPCC) Hwee Zhen</p>
+<p><em>Batch of 2022</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>CI (NPCC) Jing Yan</p>
+<p><em>Batch of 2023</em>
 </p>
 </li>
 </ul>
