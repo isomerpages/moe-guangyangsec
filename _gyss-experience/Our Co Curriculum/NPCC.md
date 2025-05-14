@@ -253,7 +253,7 @@ key aspects of cadet development:</p>
 <p>Through these foundational pillars, we bring the curriculum to life with
 diverse activities and experiences.</p>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT1L7PSiyuDhYJ2H8z3NMWJFnrM_NboMC0mBaBDh1v6acE4VzLowmgOu8a6fWSRoVC9fPSHFhapldLL/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="700" width="894" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT1L7PSiyuDhYJ2H8z3NMWJFnrM_NboMC0mBaBDh1v6acE4VzLowmgOu8a6fWSRoVC9fPSHFhapldLL/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p><strong>Our Achievements</strong>
 </p>
@@ -301,7 +301,7 @@ performance and dedication.</p>
 <p><strong>Stay Connected</strong>
 </p>
 <p>Get the latest updates and glimpses into cadet life</p>
-<p><a href="www.instagram.com/gyssnpcc" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/gyssnpcc</a>
+<p><a href="https://www.instagram.com/gyssnpcc" rel="noopener nofollow" target="_blank">www.instagram.com/gyssnpcc </a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
