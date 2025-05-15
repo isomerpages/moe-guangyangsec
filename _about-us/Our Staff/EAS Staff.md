@@ -243,14 +243,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Health Advisor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Xin Wei</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Teacher Aide</p>
 </td>
 <td rowspan="1" colspan="1">
