@@ -30,7 +30,7 @@ variant: tiptap
 <p>1-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Srinivasan Suganthi</p>
+<p>Mr Lan Yingjie</p>
 </td>
 </tr>
 <tr>
@@ -127,6 +127,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zhao Xiaomeng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chinnappa Ponnuswamy Kavitha</p>
 </td>
 </tr>
 </tbody>
@@ -277,6 +285,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3E1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Balielah Al-Khadhra'</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3E2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -369,6 +385,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Lee Lye Fun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3T1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Kia Yeow</p>
 </td>
 </tr>
 </tbody>

@@ -30,14 +30,6 @@ third_nav_title: Our Staff
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Han Wee Fong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice Principal</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Miss Jennifer Wu</p>
 </td>
 </tr>
