@@ -239,7 +239,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Chemistry</p>
+<p>SH Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Sharrel Chia</p>
