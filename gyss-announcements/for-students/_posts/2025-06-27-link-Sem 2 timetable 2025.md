@@ -1,6 +1,6 @@
 ---
-title: Sem 1 timetable 2025
-date: 2025-01-02
+title: Sem 2 timetable 2025
+date: 2025-06-27
 layout: link
 description: ""
 image: ""
