@@ -9,37 +9,44 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Sec 1 Sem 1 (all class)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/School timetable/SEM 1_2025/2025_SEM1_4D_Wk_LEVEL_TT__2Jan_SEC_1.pdf" rel="noopener nofollow" target="_blank">4 day week timetable</a>
+<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_1_1.pdf" rel="noopener nofollow" target="_blank">Sem 2 1-1</a>
 </p>
-<p><a href="/files/School timetable/SEM 1_2025/2025_SEM1_5D_Wk_LEVEL_TT__2Jan_SEC_1.pdf" rel="noopener nofollow" target="_blank">5 day week timetable</a>
+<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_1_2.pdf" rel="noopener nofollow" target="_blank">Sem 2 1-2</a>
+</p>
+<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_1_3.pdf" rel="noopener nofollow" target="_blank">Sem 2 1-3</a>
+</p>
+<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_1_4.pdf" rel="noopener nofollow" target="_blank">Sem 2 1-4</a>
+</p>
+<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_1_5.pdf" rel="noopener nofollow" target="_blank">Sem 2 1-5</a>
+</p>
+<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_1_6.pdf" rel="noopener nofollow" target="_blank">Sem 2 1-6</a>
+</p>
+<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_1_7.pdf" rel="noopener nofollow" target="_blank">Sem 2 1-7</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Sec 2 Sem 1 (all class)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/School timetable/SEM 1_2025/2025_SEM1_4D_Wk_LEVEL_TT__2Jan_SEC_2.pdf" rel="noopener nofollow" target="_blank">4 day week timetable</a>
+<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_2_1.pdf" rel="noopener nofollow" target="_blank">Sem 2 2-1</a>
 </p>
-<p><a href="/files/School timetable/SEM 1_2025/2025_SEM1_5D_Wk_LEVEL_TT__2Jan_SEC_2.pdf" rel="noopener nofollow" target="_blank">5 day week timetable</a>
+<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_2_2.pdf" rel="noopener nofollow" target="_blank">Sem 2 2-2</a>
 </p>
+<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_2_3.pdf" rel="noopener nofollow" target="_blank">Sem 2 2-3</a>
+</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Sec 3 Sem 1 (all class)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/School timetable/SEM 1_2025/2025_SEM1_4D_Wk_LEVEL_TT__2Jan_SEC_3.pdf" rel="noopener nofollow" target="_blank">4 day week timetable</a>
-</p>
-<p><a href="/files/School timetable/SEM 1_2025/2025_SEM1_5D_Wk_LEVEL_TT__2Jan_SEC_3.pdf" rel="noopener nofollow" target="_blank">5 day week timetable</a>
-</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Sec 4 &amp; 5 Sem 1 (all class)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/School timetable/SEM 1_2025/2025_SEM1_4D_Wk_LEVEL_TT__2Jan_SEC_45.pdf" rel="noopener nofollow" target="_blank">4 day week timetable</a>
-</p>
-<p><a href="/files/School timetable/SEM 1_2025/2025_SEM1_5D_Wk_LEVEL_TT__2Jan_SEC_45.pdf" rel="noopener nofollow" target="_blank">5 day week timetable</a>
-</p>
+<p></p>
 </div>
 </details>
 </div>
