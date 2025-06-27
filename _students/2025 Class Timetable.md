@@ -34,7 +34,12 @@ variant: tiptap
 </p>
 <p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_2_3.pdf" rel="noopener nofollow" target="_blank">Sem 2 2-3</a>
 </p>
-<p></p>
+<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_2_4.pdf" rel="noopener nofollow" target="_blank">Sem 2 2-4</a>
+</p>
+<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_2_5.pdf" rel="noopener nofollow" target="_blank">Sem 2 2-5</a>
+</p>
+<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_2_6.pdf" rel="noopener nofollow" target="_blank">Sem 2 2-6</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
