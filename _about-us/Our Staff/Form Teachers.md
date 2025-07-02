@@ -126,15 +126,7 @@ variant: tiptap
 <p>1-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zhao Xiaomeng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1-7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Chinnappa Ponnuswamy Kavitha</p>
+<p>Mdm Haniza</p>
 </td>
 </tr>
 </tbody>
