@@ -140,6 +140,7 @@ variant: tiptap
 <summary><strong>Sec 2 Form Teachers</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -239,7 +240,7 @@ variant: tiptap
 <p>2-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Murtaza</p>
+<p>Mdm Chinnappa Ponnuswamy Kavitha</p>
 </td>
 </tr>
 </tbody>
