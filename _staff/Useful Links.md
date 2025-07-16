@@ -74,7 +74,7 @@ variant: tiptap
 <summary><strong>Students Email &amp; SLS ID (access by teachers only)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a rel="noopener nofollow" target="_blank">Students Email &amp; SLS ID</a>
+<p><a href="\\D3238SMOE01\Dept\5. Departments\ICT\0. NDLP\2025\Students Email Address" rel="noopener nofollow" target="_blank">Students Email &amp; SLS ID</a>
 </p>
 </div>
 </details>
