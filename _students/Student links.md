@@ -50,6 +50,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>GYSS Library System</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://schoolibrary.moe.edu.sg/guangyangsec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">https://schoolibrary.moe.edu.sg/guangyangsec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>My SkillsFuture for students</strong>
 </p>
 </td>
