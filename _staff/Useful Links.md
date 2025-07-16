@@ -4,7 +4,7 @@ permalink: /staff/links/
 description: ""
 variant: tiptap
 ---
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Websites Link</strong>
 </summary>
@@ -37,12 +37,45 @@ variant: tiptap
 </p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>GOV TECH Tools</summary>
+<summary><strong>GOV TECH Tools</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://form.gov.sg/" rel="noopener nofollow" target="_blank">FormSG</a>
+</p>
+<p><a href="https://pair.gov.sg/" rel="noopener nofollow" target="_blank">Pair Chat</a>
+</p>
+<p><a href="https://www.transcribe.gov.sg/login" rel="noopener nofollow" target="_blank">Transcribe</a>
+</p>
+<p><a href="https://for.edu.sg/#/" rel="noopener nofollow" target="_blank">Shorten links and generate QR code</a>
+</p>
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>SBA/SBE accounts</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://go.gov.sg/sbasbe" rel="noopener nofollow" target="_blank">Request for SBA/SBE</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Loan Exam laptop &amp; school owned devices</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="https://forms.moe.edu.sg/forms/eLB7xR" rel="noopener nofollow" target="_blank">Request exam laptop loan</a>
+</p>
+<p><a href="https://go.gov.sg/requesttoloanschoolowneddevices" rel="noopener nofollow" target="_blank">Request school-owned devices for students</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Students Email &amp; SLS ID (access by teachers only)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a rel="noopener nofollow" target="_blank">Students Email &amp; SLS ID</a>
+</p>
 </div>
 </details>
 </div>
