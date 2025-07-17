@@ -23,7 +23,7 @@ As a guide, the annual LOA fee for secondary schools will be at least $60.</p>
 <p>Application</p>
 <p>In order for us to better support your request, please speak to the Form
 Teacher before submitting the LOA application.</p>
-<p>To apply for LOA, please click on this link -&nbsp;<a href="https://form.gov.sg/60b9b3d75cc341001290a535" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/60b9b3d75cc341001290a535</a>
+<p>To apply for LOA, please click on this <a href="https://form.gov.sg/682d4d3ad37a9f1a89df205f" rel="noopener nofollow" target="_blank">link</a>
 </p>
 <p>The school will get in touch with parents on the payment details after
 the LOA is approved.</p>
