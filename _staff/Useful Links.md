@@ -35,6 +35,8 @@ variant: tiptap
 </p>
 <p><a href="https://roster.diveanalytics.com" rel="noopener nofollow" target="_blank">Teacher Relief System</a>
 </p>
+<p><a href="https://www.hrp.gov.sg/" rel="noopener nofollow" target="_blank">HRP</a>
+</p>
 </div>
 </details>
 <details class="isomer-details">
