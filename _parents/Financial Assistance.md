@@ -29,7 +29,7 @@ submit to the school’s General Office with the supporting documents</p>
 be auto granted MOE FAS. There is no need to apply for MOE FAS separately.</p>
 <p>Should students do not quality for MOE FAS, they will automatically be
 considered for School-based FAS.</p>
-<p>For more information regarding MOE FAS, please click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">here.</a> 
+<p>For more information regarding MOE FAS, please click <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <p>For further clarification or enquiries, please contact the school at
 <a href="mailto:gyss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gyss@moe.edu.sg</a>or 6258 9781. Together, we build a supportive environment
