@@ -58,7 +58,7 @@ variant: tiptap
 <summary><strong>SBA/SBE accounts</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="https://go.gov.sg/sbasbe" rel="noopener nofollow" target="_blank">Request for SBA/SBE</a>
+<p><a href="https://forms.moe.edu.sg/forms/vN3QRp" rel="noopener nofollow" target="_blank">Request for SBA/SBE</a>
 </p>
 </div>
 </details>
@@ -68,7 +68,7 @@ variant: tiptap
 <div data-type="detailsContent" class="isomer-details-content">
 <p><a href="https://forms.moe.edu.sg/forms/eLB7xR" rel="noopener nofollow" target="_blank">Request exam laptop loan</a>
 </p>
-<p><a href="https://go.gov.sg/requesttoloanschoolowneddevices" rel="noopener nofollow" target="_blank">Request school-owned devices for students</a>
+<p><a href="https://forms.moe.edu.sg/forms/vGj5Q7" rel="noopener nofollow" target="_blank">Request school-owned devices for students</a>
 </p>
 </div>
 </details>
