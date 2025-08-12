@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Guangyang_Secondary_Visual_Identity_Slides_conv_1.png
+      background: /images/GYSS_Header.png
       key_highlights:
         - title: Contact Us
           description: ""
