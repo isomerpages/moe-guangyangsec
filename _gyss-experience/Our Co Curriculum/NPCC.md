@@ -5,294 +5,104 @@ description: ""
 third_nav_title: Our Co Curriculum
 variant: tiptap
 ---
-<blockquote>
-<p>National Police Cadet Corps (NPCC)</p>
+<h3><strong>National Police Cadet Corps (NPCC)</strong></h3>
+<p>Guangyang Secondary School National Police Cadet Corps (NPCC) is committed
+to developing active citizens and community leaders who work alongside
+the Singapore Police Force to maintain Singapore's safety and security.
+Our unit's consistent achievement of the Unit Overall Proficiency Award
+(UOPA) Distinction (2022-2024) reflects our sustained excellence in cadet
+development and unit management. Through our strong partnership with Bishan
+Neighbourhood Police Centre, our cadets gain authentic exposure to community
+policing and crime prevention, while developing a deep sense of civic responsibility.
+This unique collaboration provides our cadets with firsthand insights into
+law enforcement and community engagement, setting our program apart from
+other uniformed groups.</p>
+<p></p>
+<p>Our unit's strength lies in its holistic development approach, anchored
+by the core values of Resilience, Integrity, Service, and Excellence (RISE).
+Through carefully structured programs, cadets strengthen their leadership
+capabilities and social-emotional competencies while gaining practical
+knowledge in police work and community safety. Our training methodology
+combines physical training with character development, where cadets learn
+to lead with empathy and communicate effectively. Under the guidance of
+dedicated Teacher Officers, Honorrary Officers and Cadet Inspectors, every
+cadet embarks on a transformative journey that prepares them to be future-ready
+leaders who can contribute meaningfully to Singapore's safety and security.</p>
+<div class="instagram-wrapper">
+<blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/DJjit-myslJ/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-captioned="" class="instagram-media">
+<div style="padding: 16px;"><a style="background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" href="https://www.instagram.com/p/DJjit-myslJ/?utm_source=ig_embed&amp;utm_campaign=loading"><div style="display: flex; flex-direction: row; align-items: center;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div><div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg xmlns:xlink="https://www.w3.org/1999/xlink" xmlns="https://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60 60" height="50px" width="50px"><g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none"><g fill="#000000" transform="translate(-511.000000, -20.000000)"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"><div style="color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div><div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div><div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div><div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"><div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div><div style="background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div><div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a>
+<p style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a target="_blank" style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" href="https://www.instagram.com/p/DJjit-myslJ/?utm_source=ig_embed&amp;utm_campaign=loading">A post shared by Guangyang Secondary School NPCC (@gyssnpcc)</a>
+</p>
+</div>
 </blockquote>
+<script src="//www.instagram.com/embed.js" async="true"></script>
+</div>
+<hr>
+<h4><strong>Key Programmes </strong></h4>
+<p><strong><u>Police Youth Ambassador (PYA) Programme</u></strong>
+</p>
+<p>Our Secondary 3 Cadet Leaders embrace their roles as Police Youth Ambassadors
+through a structured learning journey that emphasises student ownership
+and real-world impact. Working as a team, cadets first immerse themselves
+in research about SGSecure initiatives, developing deep understanding of
+terrorism awareness and emergency preparedness. They then collaborate to
+design and plan their own public engagement strategies for community outreach.
+In partnership with Bishan Neighbourhood Police Centre, these young ambassadors
+put their plans into action, conducting ground engagement activities that
+educate the public about SGSecure. This empowering experience not only
+builds their leadership and communication skills but also demonstrates
+our RISE values as they contribute meaningfully to Singapore's safety and
+security.</p>
+<div class="instagram-wrapper">
+<blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/DJQKF7wSfLc/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-captioned="" class="instagram-media">
+<div style="padding: 16px;"><a style="background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" href="https://www.instagram.com/p/DJQKF7wSfLc/?utm_source=ig_embed&amp;utm_campaign=loading"><div style="display: flex; flex-direction: row; align-items: center;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div><div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg xmlns:xlink="https://www.w3.org/1999/xlink" xmlns="https://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60 60" height="50px" width="50px"><g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none"><g fill="#000000" transform="translate(-511.000000, -20.000000)"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"><div style="color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div><div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div><div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div><div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"><div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div><div style="background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div><div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a>
+<p style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a target="_blank" style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" href="https://www.instagram.com/p/DJQKF7wSfLc/?utm_source=ig_embed&amp;utm_campaign=loading">A post shared by Guangyang Secondary School NPCC (@gyssnpcc)</a>
+</p>
+</div>
+</blockquote>
+<script src="//www.instagram.com/embed.js" async="true"></script>
+</div>
+<p><strong><u>Adventure Training Camp</u></strong>
+</p>
+<p>At Camp Resilience on Pulau Ubin, our Secondary 2 cadets embark on a transformative
+three-day outdoor adventure that pushes boundaries and builds character.
+What makes this experience particularly meaningful is its implementation
+by Cadet Inspectors and Honorary Officers from various schools - dedicated
+alumni who have benefited from NPCC training and now volunteer their time
+to nurture the next generation of cadets. This powerful demonstration of
+leadership and service brings together cadets from seven schools - Beatty
+Secondary School, Peirce Secondary School, Whitley Secondary School, Kuo
+Chuan Presbyterian, Raffles Institution, Catholic High, and Guangyang Secondary
+School - creating valuable opportunities for friendship formation and collaborative
+learning.</p>
+<p>Through challenging activities like land expeditions, low ropes courses,
+and essential survival skills training, cadets discover their inner strength
+while learning about the island's rich heritage. The experience of spending
+two nights under canvas, mastering outdoor skills such as fire and water
+acquisition, field cooking, and tent pitching, takes cadets far beyond
+their comfort zones. This immersive experience not only builds physical
+resilience but also fosters meaningful inter-school bonds as cadets support
+and learn from one another, embodying our RISE values in every challenge
+they overcome. The involvement of alumni officers creates a powerful cycle
+of mentorship, where past experiences shape future leaders, ensuring the
+continued strength of our NPCC community.</p>
+<div class="instagram-wrapper">
+<blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/DM5M4KuSfcp/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-captioned="" class="instagram-media">
+<div style="padding: 16px;"><a style="background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" href="https://www.instagram.com/p/DM5M4KuSfcp/?utm_source=ig_embed&amp;utm_campaign=loading"><div style="display: flex; flex-direction: row; align-items: center;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div><div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg xmlns:xlink="https://www.w3.org/1999/xlink" xmlns="https://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60 60" height="50px" width="50px"><g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none"><g fill="#000000" transform="translate(-511.000000, -20.000000)"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"><div style="color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div><div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div><div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div><div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"><div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div><div style="background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div><div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a>
+<p style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a target="_blank" style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" href="https://www.instagram.com/p/DM5M4KuSfcp/?utm_source=ig_embed&amp;utm_campaign=loading">A post shared by Guangyang Secondary School NPCC (@gyssnpcc)</a>
+</p>
+</div>
+</blockquote>
+<script src="//www.instagram.com/embed.js" async="true"></script>
+</div>
+<h4><strong>Student Voices</strong></h4>
 <p><em>"Trust the process, enjoy the journey." These words perfectly capture my 11-year experience with NPCC at Guangyang Secondary School. What began as a path filled with uncertainty gradually unfolded into a journey of growth, discipline, and resilience. Through every challenge and leadership role, I learned to trust that each step, no matter how tough, was part of a bigger picture. It wasn’t just about achieving ranks or awards, but about developing values, building meaningful relationships, and pushing beyond my limits. Looking back, I realize that the true transformation wasn’t just in the skills I gained, but in how the process itself shaped who I am today, teaching me to value the journey just as much as the destination.</em>
 </p>
 <p><em>H/INSP (NPCC) Bong Jia Yang</em>
 </p>
 <p><em>GYSS Alumni, serving since 2017</em>
 </p>
-<p><strong>Our Mission: </strong>To develop our cadets to be active citizens
-and community leaders, by working in partnership with the Singapore Police
-Force to fight crime and keep Singapore safe.</p>
-<p><strong>Our Vision: </strong>To become the best youth organisation in
-Singapore, one that actively helps to make Singapore the safest place in
-the world.</p>
-<p><strong>Our Values: </strong>Resilience (R), Integrity (I), Service (S)
-and Excellence (E)</p>
-<p><strong>Our People:</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/2025/PHOTO_2025_04_03_21_29_45.jpg">
-</div>
-<p>Welcome to Guangyang Secondary School's National Police Cadet Corps (NPCC)
-family! Our vibrant unit of 40 cadets thrives under the mentorship of four
-dedicated Teacher Officers. What makes us unique? We're proudly supported
-by two Honorary Officers and three Cadet Inspectors - all former GYSSians
-who've returned to guide the next generation.</p>
-<p>Since our establishment, we've been shaping tomorrow's leaders through
-a journey of character building and personal growth. Our cadets emerge
-as confident young individuals, armed with strong moral values and the
-resilience to overcome life's challenges. Here at GYSS NPCC, we don't just
-train cadets - we build a community where discipline meets opportunity,
-and where lasting friendships are forged.</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Teachers-in-charge</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>P/INSP (NPCC) Justin Tan (OIC)</p>
-</li>
-<li>
-<p>Ms Sharafina</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>P/INSP (NPCC) Raphael Gervasio (DyOC)</p>
-</li>
-<li>
-<p>Mr Tan Kok Siang</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Instructors</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>H/INSP (NPCC) Eugene Goh</p>
-<p><em>Batch of 2004</em>
-</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>H/INSP (NPCC) Jia Yang</p>
-<p><em>Batch of 2017</em>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>CI (NPCC) Qi En</p>
-<p><em>Batch of 2022</em>
-</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>CI (NPCC) Hwee Zhen</p>
-<p><em>Batch of 2022</em>
-</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>CI (NPCC) Jing Yan</p>
-<p><em>Batch of 2023</em>
-</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Executive Committee</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Chairperson:</strong>&nbsp;</p>
-<p>CPL (NPCC) Adley</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>Vice-Chairperson:</strong>
-</p>
-<p>CPL (NPCC) Afzal</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Campcraft:</strong>
-</p>
-<p>CPL (NPCC) Alvin (IC)</p>
-<p>CPL (NPCC) Skyler (IC)</p>
-<p>CPL (NPCC) Mariam</p>
-<p>CPL (NPCC) Eugene</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>Drills:</strong>
-</p>
-<p>CPL (NPCC) Afzal</p>
-<p>CPL (NPCC) Adley</p>
-<p>CPL (NPCC) Sonika</p>
-<p>CPL (NPCC) Finnaluini</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Logistics:</strong>
-</p>
-<p>CPL (NPCC) Mariam</p>
-<p>CPL (NPCC) Eugene</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>Bonding/ PT:</strong>
-</p>
-<p>CPL (NPCC) Chen Chua</p>
-<p>CPL (NPCC) Christopher</p>
-<p>CPL (NPCC) Aiman</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Squad Leaders:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 1</strong>
-</p>
-<p>CPL (NPCC) Afzal</p>
-<p>CPL (NPCC) Christopher</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>Sec 2</strong>
-</p>
-<p>CPL (NPCC) Sonika</p>
-<p>CPL (NPCC) Skyler</p>
-<p>CPL (NPCC) Aiman</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 3</strong>
-</p>
-<p>CPL (NPCC) Alvin</p>
-<p>CPL (NPCC) Finnaluini</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</details>
-</div>
-<p><strong>What We Do</strong>
-</p>
-<p>Our unit delivers the national NPCC curriculum, which focuses on five
-key aspects of cadet development:</p>
-<p>• Law Enforcement</p>
-<p>• Leadership</p>
-<p>• Resilience</p>
-<p>• National Education</p>
-<p>• Personal Development</p>
-<p>Through these foundational pillars, we bring the curriculum to life with
-diverse activities and experiences.</p>
-<div class="iframe-wrapper">
-<iframe height="700" width="894" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT1L7PSiyuDhYJ2H8z3NMWJFnrM_NboMC0mBaBDh1v6acE4VzLowmgOu8a6fWSRoVC9fPSHFhapldLL/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p><strong>Our Achievements</strong>
-</p>
-<p><strong>Unit Overall Proficiency Award (UOPA) </strong>is awarded to school
-units each year to promote excellence and proficiency at all levels, and
-the Distinction award is the highest possible honour a unit may attain.</p>
-<p>We are pleased to share:</p>
-<p><strong>UOPA 2024:</strong> Distinction</p>
-<p><strong>UOPA 2023:</strong> Distinction</p>
-<p><strong>UOPA 2022</strong>: Distinction</p>
-<p><strong>SPF-NPCC Badge</strong>
-</p>
-<p>The pinnacle achievement for NPCC cadets, recognising outstanding overall
-performance and dedication.</p>
-<p>Our Distinguished Recipients:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>SI (NPCC) Zoleta Simon Franco Atendido (2025)</p>
-</li>
-<li>
-<p>SI (NPCC) Mohamad Qistan Bin Mohamad Rudy (2025)</p>
-</li>
-<li>
-<p>SI (NPCC) Ranaa Zaakiyah (2024)</p>
-</li>
-<li>
-<p>SI (NPCC) Arini Batrisyia (2024)</p>
-</li>
-</ul>
-<div class="iframe-wrapper">
-<iframe height="700" width="894" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4H4OuFiSfCCdWd-1jZDQTMKLa5lbOP3F8lBDyJtvu7PzOdaVEks5GJEJgJFSh53Ife-SYBtcZ3ZMV/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p><strong>In-school Training Information</strong>
-</p>
+<h4><strong>In-school Training Information</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Thursdays: 3.15 – 5.30PM</p>
@@ -303,13 +113,6 @@ performance and dedication.</p>
 </ul>
 <p><em>Note: With effect from 2026, NPCC trainings take place on Fridays.</em>
 </p>
-<p><strong>Stay Connected</strong>
-</p>
-<p>Get the latest updates and glimpses into cadet life</p>
-<p><a href="https://www.instagram.com/gyssnpcc" rel="noopener nofollow" target="_blank">www.instagram.com/gyssnpcc</a>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/2025/Join_us_on_Instagram.png">
-</div>
+<h4><strong>Stay Connected</strong></h4>
+<p>Get the latest updates and glimpses into cadet life</p><a class="isomer-image-wrapper" href="www.instagram.com/gyssnpcc"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CCA/2025/Join_us_on_Instagram.png"></a>
 <p></p>
