@@ -3,12 +3,12 @@ url: https://guangyangsec.moe.edu.sg
 favicon: /images/GYSS_Logo_V2.jpg
 colors:
   primary-color: "#024089"
-  secondary-color: "#fa841a"
+  secondary-color: "#004da9"
   media-colors:
     - title: media-color-one
-      color: "#004da9"
-    - title: media-color-two
       color: "#3f69f7"
+    - title: media-color-two
+      color: "#004da9"
     - title: media-color-three
       color: "#00c9ff"
     - title: media-color-four
