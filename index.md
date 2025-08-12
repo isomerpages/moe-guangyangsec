@@ -24,7 +24,6 @@ sections:
       backgroundColor: gray
   - resources:
       title: Announcements
-      subtitle: LATEST NEWS AND HIGHLIGHTS
       id: resources
       button: VIEW MORE
   - infopic:
