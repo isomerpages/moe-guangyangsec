@@ -23,7 +23,7 @@ sections:
       alignment: left
       backgroundColor: gray
   - resources:
-      title: Announcements
+      title: Announcements & News
       id: resources
       button: VIEW MORE
   - infopic:
