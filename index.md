@@ -36,10 +36,9 @@ sections:
       image: /images/Screenshot_2023_12_21_120257.png
       alt: Image alt text
   - infopic:
-      title: DSA
+      title: Direct School Admission (DSA)
       button: Click Here
       url: https://www.guangyangsec.moe.edu.sg/admission/dsa/
       image: /images/Student Advocate/Bboy03-cropped.jpg
       alt: Image alt text
-      description: Direct School Admission
 ---
