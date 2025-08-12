@@ -38,7 +38,7 @@ leaders who can contribute meaningfully to Singapore's safety and security.</p>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
 <hr>
-<h4><strong>Key Programmes </strong></h4>
+<h4><strong>Key Programmes</strong></h4>
 <p><strong><u>Police Youth Ambassador (PYA) Programme</u></strong>
 </p>
 <p>Our Secondary 3 Cadet Leaders embrace their roles as Police Youth Ambassadors
