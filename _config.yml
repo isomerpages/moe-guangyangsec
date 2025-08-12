@@ -10,11 +10,11 @@ colors:
     - title: media-color-two
       color: "#004da9"
     - title: media-color-three
-      color: "#00c9ff"
+      color: "#004da9"
     - title: media-color-four
-      color: "#fda300"
+      color: "#004da9"
     - title: media-color-five
-      color: "#ffc619"
+      color: "#004da9"
 description: Nurturing students who Lead, Think and Advocate for Self, Community and Nation.
 permalink: none
 baseurl: ""
