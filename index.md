@@ -23,7 +23,7 @@ sections:
       alignment: left
       backgroundColor: gray
   - resources:
-      title: GYSS Announcements
+      title: Announcements
       subtitle: LATEST NEWS AND HIGHLIGHTS
       id: resources
       button: VIEW MORE
