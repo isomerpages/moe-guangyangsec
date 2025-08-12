@@ -1,5 +1,5 @@
 ---
-title: NCC (Land)
+title: National Cadet Corps (NCC Land)
 permalink: /ncc-land/
 variant: tiptap
 description: ""

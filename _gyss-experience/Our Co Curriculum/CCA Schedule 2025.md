@@ -1,5 +1,5 @@
 ---
-title: CCA schedule 2025
+title: CCA Schedule 2025
 permalink: /cca-schedule-2025/
 variant: tiptap
 description: ""

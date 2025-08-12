@@ -1,6 +1,6 @@
 ---
 title: Infocomm Technology
-permalink: /leader/CCA/infocommtech/
+permalink: /leader/cca/infocommtechclub/
 description: ""
 third_nav_title: Our Co Curriculum
 variant: tiptap

@@ -1,13 +1,13 @@
 ---
 layout: homepage
 title: Guangyang Secondary School
-description: A Ministry of Education School
+description: Nurturing students who Lead, Think and Advocate for Self, Community and Nation.
 image: /images/GYSS_Logo_V2.jpg
 permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Guangyang_Secondary_Visual_Identity_Slides_conv_1.png
+      background: /images/Draft_2__1_.jpg
       key_highlights:
         - title: Contact Us
           description: ""
@@ -23,8 +23,7 @@ sections:
       alignment: left
       backgroundColor: gray
   - resources:
-      title: GYSS Announcements
-      subtitle: LATEST NEWS AND HIGHLIGHTS
+      title: Announcements & News
       id: resources
       button: VIEW MORE
   - infopic:
@@ -36,10 +35,9 @@ sections:
       image: /images/Screenshot_2023_12_21_120257.png
       alt: Image alt text
   - infopic:
-      title: DSA
+      title: Direct School Admission (DSA)
       button: Click Here
       url: https://www.guangyangsec.moe.edu.sg/admission/dsa/
       image: /images/Student Advocate/Bboy03-cropped.jpg
       alt: Image alt text
-      description: Direct School Admission
 ---

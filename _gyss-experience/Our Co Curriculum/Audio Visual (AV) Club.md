@@ -1,6 +1,6 @@
 ---
-title: AV Club
-permalink: /leader/CCA/avc/
+title: Audio Visual (AV) Club
+permalink: /leader/cca/avc/
 description: ""
 third_nav_title: Our Co Curriculum
 variant: tiptap
