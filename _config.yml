@@ -3,19 +3,19 @@ url: https://guangyangsec.moe.edu.sg
 favicon: /images/GYSS_Logo_V2.jpg
 colors:
   primary-color: "#024089"
-  secondary-color: "#004da9"
+  secondary-color: "#fa841a"
   media-colors:
     - title: media-color-one
-      color: "#00c9ff"
+      color: "#004da9"
     - title: media-color-two
       color: "#3f69f7"
     - title: media-color-three
-      color: "#fa841a"
+      color: "#00c9ff"
     - title: media-color-four
       color: "#fda300"
     - title: media-color-five
       color: "#ffc619"
-description: A Ministry of Education School
+description: Nurturing students who Lead, Think and Advocate for Self, Community and Nation.
 permalink: none
 baseurl: ""
 exclude:
