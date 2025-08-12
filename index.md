@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Guangyang Secondary School
-description: A Ministry of Education School
+description: Nurturing students who Lead, Think and Advocate for Self, Community and Nation.
 image: /images/GYSS_Logo_V2.jpg
 permalink: /
 notification: ""
