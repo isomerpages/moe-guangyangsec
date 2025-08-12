@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/GYSS_Header.png
+      background: /images/Draft_2__1_.jpg
       key_highlights:
         - title: Contact Us
           description: ""
