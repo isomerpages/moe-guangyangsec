@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Co Curriculum
 variant: tiptap
 ---
-<h3><strong>National Police Cadet Corps (NPCC)</strong></h3>
+<h3></h3>
 <p>Guangyang Secondary School NPCC develops active citizens and community
 leaders who contribute to Singapore's safety and security. Our unit's excellence
 is reflected in our consistent achievement of the Unit Overall Proficiency
@@ -78,10 +78,10 @@ friendships, and exemplifies our RISE values through peer support and mentorship
 <p>Thursdays: 3.15 – 5.30PM</p>
 </li>
 <li>
-<p>Fridays: 2.30 – 5PM</p>
+<p>Fridays: 2 – 5PM</p>
 </li>
 </ul>
-<p><em>Note: With effect from 2026, NPCC trainings take place on Fridays.</em>
+<p><em>Note: With effect from 2026, NPCC trainings take place on Fridays, 2 - 5PM.</em>
 </p>
 <h4><strong>Stay Connected</strong></h4>
 <p>Get the latest updates and glimpses into cadet life by following us on
