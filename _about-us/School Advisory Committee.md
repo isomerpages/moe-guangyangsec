@@ -8,7 +8,7 @@ variant: tiptap
 a conducive environment for our students. It comprised leaders from different
 sectors of the business world. With their skills, expertise and insights,
 the members contribute immensely to the holistic well-being of every Guangyang
-students. Examples of collaboration include Industrial Attachment, career
+student. Examples of collaboration include Industrial Attachment, career
 day talk, sharing sessions with staff and financial assistance etc.</p>
 <table style="minWidth: 50px">
 <colgroup>
