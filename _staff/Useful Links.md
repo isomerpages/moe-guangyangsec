@@ -58,7 +58,7 @@ variant: tiptap
 <summary><strong>SBA/SBE accounts</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="http://go.gov.sg/sbasbe2025" rel="noopener nofollow" target="_blank">Request for SBA/SBE</a>
+<p><a href="go.gov.sg/sbasbe2025" rel="noopener nofollow" target="_blank">Request for SBA/SBE</a>
 </p>
 </div>
 </details>
