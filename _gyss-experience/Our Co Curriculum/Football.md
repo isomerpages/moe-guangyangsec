@@ -44,11 +44,11 @@ representing their school with pride. They develop respect by fostering
 friendship with visiting teams, and hone their resilience by competing
 under pressure while building meaningful community connections.</p>
 <h3><strong>Student Voices</strong></h3>
-<p><em>"Joining the Football CCA has changed me a lot. I've learned so much and grown not just as a player, but as a person too. I'm really thankful for the teachers and teammates who have supported me and made everything fun and memorable. From training to matches, every moment has been special. Football has taught me about teamwork, friendship, and never giving up." </em>
+<p><em>"Joining the Football CCA has changed me a lot. I've learned so much and grown not just as a player, but as a person too. I'm really thankful for the teachers and teammates who have supported me and made everything fun and memorable. From training to matches, every moment has been special. Football has taught me about teamwork, friendship, and never giving up."</em>
 </p>
 <p>B Division Captain Nuh Rifai Dhamiri Bin Abdul Ghani 3T1 (2023-Present)</p>
 <p>
-<br><em>"Football has taught me discipline, resilience, and teamwork, shaping me into a stronger and more determined person. It has also given me confidence and a sense of identity both on and off the field."</em> 
+<br><em>"Football has taught me discipline, resilience, and teamwork, shaping me into a stronger and more determined person. It has also given me confidence and a sense of identity both on and off the field."</em>
 </p>
 <p>B Division Vice-Captain Tham Song Yang, Anders 3E3 (2023-Present)</p>
 <h3><strong>Training Information</strong></h3>
