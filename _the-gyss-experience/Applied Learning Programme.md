@@ -36,6 +36,10 @@ skills.</p>
 </div>
 <p><strong><u>Renewable Energy: Solar Car Design</u></strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Programme_2a.jpg">
+</div>
 <p>In this modular learning experience, Secondary 1 students delve into the
 topic of renewable energy by designing and testing solar-powered cars.
 As part of our Applied Learning Programme in STEM, this module forms one
@@ -47,7 +51,7 @@ and teamwork, while fostering appreciation for sustainable technologies
 and their applications in daily life.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programme_2b.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Programme_2b.jpg">
 </div>
 <h3><strong>Student Voices</strong></h3>
 <p><em>From textbooks to hands-on projects, I now discover joy in learning, building skills and solving problems with purpose.</em>
