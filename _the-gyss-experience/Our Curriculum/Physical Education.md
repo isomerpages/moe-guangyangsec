@@ -50,7 +50,7 @@ and fostering meaningful relationships across different levels.</p>
 <p>These transformative camps&nbsp; provide a variety of authentic contexts
 that enable students to apply their learning in new situations and deal
 with challenges positively. Through various outdoor challenges such as,&nbsp;outdoor
-cooking, shelter building and navigation, Students embrace growth mindset
+cooking, shelter building and navigation, students embrace growth mindset
 as they overcome challenges in unfamiliar environments, while collaborative
 learning flourishes through team-based problem solving and peer support.
 These immersive experiences develop responsibility and integrity as students
