@@ -17,7 +17,7 @@ thinking, creativity, and collaboration. Through these experiences, they
 grow in confidence and global awareness and are ready to become future-ready
 contributors to society.</p>
 <h3><strong>Key Programmes</strong></h3>
-<p><strong><u>Forensic Science Crime Scene Investigation </u></strong>
+<p><strong><u>Forensic Science Crime Scene Investigation</u></strong>
 </p>
 <p>Secondary 2 students take on the role of crime scene investigators to
 solve a fictional case. They analyse evidence through fingerprinting, simulated
@@ -45,11 +45,15 @@ race challenge, students learn about energy conversion, forces and motion.
 This engaging, hands-on project cultivates problem-solving, creativity
 and teamwork, while fostering appreciation for sustainable technologies
 and their applications in daily life.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Programme_2b.jpg">
+</div>
 <h3><strong>Student Voices</strong></h3>
-<p><em>From textbooks to hands-on projects, I now discover joy in learning, building skills and solving problems with purpose. </em>
+<p><em>From textbooks to hands-on projects, I now discover joy in learning, building skills and solving problems with purpose.</em>
 </p>
 <p>Wang Suhan 1-7</p>
-<p><em>ALP was fun and meaningful—I learnt how science helps build a better, greener future for Singapore.  </em>
+<p><em>ALP was fun and meaningful—I learnt how science helps build a better, greener future for Singapore.</em>
 </p>
 <p>Ong Ka Ho Anson 2-4</p>
 <p></p>
