@@ -68,7 +68,7 @@ that promotes sustainable outdoor practices</p>
 <h3><strong>Student Voice</strong></h3>
 <p><em>Through my weekly PE lessons and PE events, I learnt how to communicate and connect better with my teammates through warm up and sports like floorball and frisbee. These activities taught me the importance of teamwork and cooperation while also helping me to build stronger bonds with my classmates. I managed to form closer bonds with some of my classmates through PE lessons. I especially enjoy working together during lessons and playing inter-class games as it is fun and engaging.</em>
 </p>
-<p>Koik Jia En Melody, 3E2</p>
+<p>Koik Jia En Melody</p>
 <p>
 <br>
 </p>
