@@ -71,16 +71,7 @@ friendships, and exemplifies our RISE values through peer support and mentorship
 </p>
 <p>CPL (NPCC) Wang Cheng Sam, Adley</p>
 <h4><strong>In-school Training Information</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Thursdays: 3.15 – 5.30PM</p>
-</li>
-<li>
 <p>Fridays: 2 – 5PM</p>
-</li>
-</ul>
-<p><em>Note: With effect from 2026, NPCC trainings take place on Fridays, 2 - 5PM.</em>
-</p>
 <h4><strong>Stay Connected</strong></h4>
 <p>Get the latest updates and glimpses into cadet life by following us on
 Instagram <a href="https://www.instagram.com/gyssnpcc/" rel="noopener nofollow" target="_blank">@gyssnpcc</a>.</p>
