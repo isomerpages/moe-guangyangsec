@@ -56,9 +56,9 @@ and their applications in daily life.</p>
 <h3><strong>Student Voices</strong></h3>
 <p><em>From textbooks to hands-on projects, I now discover joy in learning, building skills and solving problems with purpose.</em>
 </p>
-<p>Wang Suhan 1-7</p>
+<p>Wang Suhan</p>
 <p><em>ALP was fun and meaningful—I learnt how science helps build a better, greener future for Singapore.</em>
 </p>
-<p>Ong Ka Ho Anson 2-4</p>
+<p>Ong Ka Ho Anson</p>
 <p></p>
 <p></p>
