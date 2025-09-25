@@ -66,12 +66,10 @@ friendships, and exemplifies our RISE values through peer support and mentorship
 <h4><strong>Student Voices</strong></h4>
 <p><em>"Trust the process, enjoy the journey." These words perfectly capture my 11-year experience with NPCC at Guangyang Secondary School. What began as a path filled with uncertainty gradually unfolded into a journey of growth, discipline, and resilience. Through every challenge and leadership role, I learned to trust that each step, no matter how tough, was part of a bigger picture. It wasn’t just about achieving ranks or awards, but about developing values, building meaningful relationships, and pushing beyond my limits. Looking back, I realize that the true transformation wasn’t just in the skills I gained, but in how the process itself shaped who I am today, teaching me to value the journey just as much as the destination.</em>
 </p>
-<p><strong>H/INSP (NPCC) Bong Jia Yang (2016 - Present)</strong>
-</p>
+<p>H/INSP (NPCC) Bong Jia Yang</p>
 <p><em>NPCC has given me challenges that pushed me to grow, teaching me to think on my feet, to lead with confidence, and lead in a way that stays true to me.</em>
 </p>
-<p><strong>CPL (NPCC) Wang Cheng Sam, Adley (2022 - Present)</strong>
-</p>
+<p>CPL (NPCC) Wang Cheng Sam, Adley</p>
 <h4><strong>In-school Training Information</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
