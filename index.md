@@ -9,35 +9,23 @@ sections:
   - hero:
       background: /images/Draft_2__1_.jpg
       key_highlights:
-        - title: Contact Us
-          description: ""
-          url: https://www.guangyangsec.moe.edu.sg/contact-us/
         - title: School events
           description: ""
           url: https://www.instagram.com/guangyangsec/
-        - title: School Bulletin
+        - title: Contact Us
           description: ""
-          url: https://guangyangsec.moe.edu.sg/school-bulletin/
+          url: https://www.guangyangsec.moe.edu.sg/contact-us/
       variant: image
       size: md
       alignment: left
       backgroundColor: gray
-  - resources:
-      title: Announcements & News
-      id: resources
-      button: VIEW MORE
   - infopic:
-      title: Meet Ms Tan Ke-Xin
-      subtitle: Principal of GYSS
+      title: Open House 2025
+      subtitle: Upcoming
       id: infopic
-      button: Read More
-      url: https://www.guangyangsec.moe.edu.sg/PRINCIPALSMESSAGE/
-      image: /images/Screenshot_2023_12_21_120257.png
-      alt: Image alt text
-  - infopic:
-      title: Direct School Admission (DSA)
-      button: Click Here
-      url: https://www.guangyangsec.moe.edu.sg/admission/dsa/
-      image: /images/Student Advocate/Bboy03-cropped.jpg
+      description: Join us on 15 November from 8 to 12.30PM to find out more about the
+        GYSS experience.
+      button: Button Text
+      image: /images/OpenHouse2025.jpg
       alt: Image alt text
 ---
