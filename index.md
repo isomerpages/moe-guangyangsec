@@ -23,9 +23,9 @@ sections:
       alignment: left
       backgroundColor: gray
   - resources:
-      title: Announcements & News
+      title: Bulletin Board
       id: resources
-      button: VIEW MORE
+      button: View more
   - infopic:
       title: Meet Ms Tan Ke-Xin
       subtitle: Principal of GYSS
@@ -33,11 +33,5 @@ sections:
       button: Read More
       url: https://www.guangyangsec.moe.edu.sg/PRINCIPALSMESSAGE/
       image: /images/Screenshot_2023_12_21_120257.png
-      alt: Image alt text
-  - infopic:
-      title: Direct School Admission (DSA)
-      button: Click Here
-      url: https://www.guangyangsec.moe.edu.sg/admission/dsa/
-      image: /images/Student Advocate/Bboy03-cropped.jpg
       alt: Image alt text
 ---
