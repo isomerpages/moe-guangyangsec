@@ -19,16 +19,13 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-  - resources:
-      title: Bulletin Board
-      id: resources
-      button: View more
   - infopic:
-      title: Meet Ms Tan Ke-Xin
-      subtitle: Principal of GYSS
+      title: Open House 2025
+      subtitle: Upcoming
       id: infopic
-      button: Read More
-      url: https://www.guangyangsec.moe.edu.sg/PRINCIPALSMESSAGE/
-      image: /images/Screenshot_2023_12_21_120257.png
+      description: Join us on 15 November from 8 to 12.30PM to find out more about the
+        GYSS experience.
+      button: Button Text
+      image: /images/OpenHouse2025.jpg
       alt: Image alt text
 ---
