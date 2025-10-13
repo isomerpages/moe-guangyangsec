@@ -9,15 +9,12 @@ sections:
   - hero:
       background: /images/Draft_2__1_.jpg
       key_highlights:
-        - title: Contact Us
-          description: ""
-          url: https://www.guangyangsec.moe.edu.sg/contact-us/
         - title: School events
           description: ""
           url: https://www.instagram.com/guangyangsec/
-        - title: School Bulletin
+        - title: Contact Us
           description: ""
-          url: https://guangyangsec.moe.edu.sg/school-bulletin/
+          url: https://www.guangyangsec.moe.edu.sg/contact-us/
       variant: image
       size: md
       alignment: left
