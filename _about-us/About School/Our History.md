@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4>Kong Yiong High School (1948)</h4>
 <div class="isomer-image-wrapper">
-<img style="width:400px;" height="auto" width="100%" src="/images/Homepage/1948%20GYSS.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Homepage/1948%20GYSS.jpg">
 </div>
 <h4>Kong Yiong High School (1986)</h4>
 <p>Guangyang Secondary School has its humble origins in Kong Yiong High School
@@ -22,12 +22,12 @@ be known as "Guangyang" which is the Hanyu pinyin equivalent of "Kong Yong".
 Thus, Guangyang, Secondary, a government English medium school, was set
 up. In its early months, Guangyang Secondary shared the premises of Zhonghua
 Secondary School.</p>
-<h4>Reopen</h4>
-<p>The new school, costing $7 million, is a modern complex with excellent
+<h4>Reopening of Guangyang Secondary School</h4>
+<p>The new school, costing $7 million, was a modern complex with excellent
 facilities. It had 28 classrooms, a library, an audio-visual theatrette,
 six science laboratories, two home economic rooms, an EOA room, four computer
 laboratory, an IT-enabled resource room, two technical workshops, a football
-field, a basketball court and a volleyball court (which has been converted
+field, a basketball court and a volleyball court (which had been converted
 into a street soccer court), and an indoor sports hall (shared with Guangyang
 Primary School). The school was officially opened on 27 June 1990 under
 the helm of her first Principal, Mr Leong Khin See. The school had her
