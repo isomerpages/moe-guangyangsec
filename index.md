@@ -20,12 +20,11 @@ sections:
       alignment: left
       backgroundColor: gray
   - infopic:
-      title: Open House 2025
-      subtitle: Upcoming
+      title: Open House '25
+      subtitle: Upcoming Event
       id: infopic
-      description: Join us on 15 November from 8 to 12.30PM to find out more about the
-        GYSS experience.
-      button: Button Text
-      image: /images/OpenHouse2025.jpg
+      description: Join us on 15 November, Saturday, from 09.00AM to 12.30PM to find
+        out more about the GYSS experience.
+      image: /images/1.jpg
       alt: Image alt text
 ---
