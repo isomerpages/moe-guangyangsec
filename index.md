@@ -23,7 +23,7 @@ sections:
       title: Open House 2025
       subtitle: Upcoming Event
       id: infopic
-      description: "Date: 25 November, Saturday Time: 0900 to 1230"
+      description: Join us on 15 November from 0900 to 1230!
       image: /images/1.jpg
       alt: Image alt text
       button: Click here for more details
