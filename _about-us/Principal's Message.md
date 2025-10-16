@@ -36,7 +36,7 @@ generations, just as my grandmothers’ sacrifices echo in my life and work
 today. Even the naughtiest students today will go on to become someone's
 grandparents one day. Our mission as educators is to help them see that
 potential within themselves.</p>
-<p>I also recognize that the world is changing rapidly. Unlike past generations,
+<p>I also recognise that the world is changing rapidly. Unlike past generations,
 most of us will not stay in a single career or even field for our entire
 lives. This makes lifelong learning, adaptability, and resilience more
 essential than ever. One important aspect of this is learning to cope with
@@ -59,3 +59,8 @@ will support them in the many journeys ahead.</p>
 and I look forward to watching them grow, learn, and contribute to our
 community and beyond.&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Screenshot_2023_12_21_120257.png">
+</div>
+<p></p>
+<p>Ms Tan Ke-Xin, Principal</p>
