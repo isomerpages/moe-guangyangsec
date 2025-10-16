@@ -23,7 +23,8 @@ sections:
       title: Open House 2025
       subtitle: Upcoming Event
       id: infopic
-      description: Join us on 15 November 2025 (Saturday) from 09:00AM to 12:30PM!
+      description: Join us on 15 November 2025 (Saturday) from 09:00AM to 12:30PM to
+        find out about the GYSS experience.
       image: /images/1.jpg
       alt: Image alt text
       button: More details
