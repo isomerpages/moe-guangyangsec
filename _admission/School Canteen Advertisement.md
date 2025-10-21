@@ -28,14 +28,25 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muslim Food Stall</p>
+<p>Others (Halal, Open to Proposal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Available</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Halal Cuisine (Rice/Noodle), e.g. Nasi Padang, Nasi Lemak, Mee Rebus,
-Mee Soto, etc.</p>
+<p>Halal Asian Cuisine (Rice/Noodle), e.g. Nasi Padang, Nasi Lemak, Mee Rebus,
+Mee Soto and Mee Siam, Halal Japanese/Korean cuisine, etc. Non-Western.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Noodle Stall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Available</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E.g. White/Fried Bee Hoon, Kway Teow, La Mian, etc.</p>
 </td>
 </tr>
 </tbody>
