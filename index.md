@@ -18,6 +18,9 @@ sections:
         - title: LATEST HAPPENINGS
           description: Follow us on Instagram!
           url: https://www.instagram.com/guangyangsec/?hl=en
+        - title: 2026 Booklist
+          description: Download here.
+          url: https://www.guangyangsec.moe.edu.sg/students/booklist/
       variant: image
       size: md
       alignment: left
