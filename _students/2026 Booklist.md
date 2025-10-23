@@ -4,22 +4,9 @@ permalink: /students/booklist/
 description: ""
 variant: tiptap
 ---
-<h4>Secondary 1</h4>
-<p><a href="/files/Booklist/GYSS_Booklist_2026___Secondary_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 Booklist</a>
-</p>
-<h4>Secondary 2</h4>
-<p><a href="/files/Booklist/Sec_2_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist</a>
-</p>
-<h4>Secondary 3</h4>
-<p><a href="/files/Booklist/Sec_3_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3 Bo</a>
-<a href="/files/Booklist/GYSS_Booklist_2026___Secondary_3.pdf" rel="noopener nofollow" target="_blank">o</a><a href="/files/Booklist/Sec_3_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">klist</a>
-</p>
-<h4>Secondary 4</h4>
-<p><a href="/files/Booklist/Sec_4_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 Booklist</a>
-</p>
-<h4>Secondary 5</h4>
-<p><a href="/files/Booklist/Sec_5_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Sec 5 Booklist</a>
-</p>
-<p></p>
-<p></p>
+<h3>Secondary One <a href="/files/Booklist/GYSS_Booklist_2026___Secondary_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist</a></h3>
+<h3>Secondary Two <a href="/files/Booklist/GYSS_Booklist_2026___Secondary_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist</a></h3>
+<h3>Secondary Three <a href="/files/Booklist/GYSS_Booklist_2026___Secondary_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist</a></h3>
+<h3>Secondary Four <a href="/files/Booklist/GYSS_Booklist_2026___Secondary_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist</a></h3>
+<h3>Secondary Five <a href="/files/Booklist/GYSS_Booklist_2026___Secondary_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist</a></h3>
 <p></p>
