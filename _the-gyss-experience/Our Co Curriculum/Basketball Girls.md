@@ -25,7 +25,7 @@ demonstrate a "never-say-die" spirit, supporting one another through challenges
 and celebrating collective growth, developing resilience that empowers
 them to navigate academic pressures and future life challenges.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Untitled_design.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/IG_Post__1_.jpg">
 </div>
 <h4><strong><u>Skills Development &amp; Character Building</u></strong></h4>
 <p>Our structured training program combines technical skill development with
@@ -35,6 +35,9 @@ teammates through individual and collective struggles. This comprehensive
 approach builds confidence, leadership abilities, and mental resilience
 that extends beyond basketball, preparing players to excel in academic
 pursuits and future endeavors with determination and integrity.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/IG_Post.jpg">
+</div>
 <h3><strong>Student Voices</strong></h3>
 <p><em>"Basketball helped me become a better version of myself, teaching me to lead with discipline."</em>
 </p>
