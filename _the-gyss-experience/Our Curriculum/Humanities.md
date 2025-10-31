@@ -33,6 +33,9 @@ collaboration, and real-world problem-solving skills, transforming students
 into informed citizens and future contributors to Singapore's continued
 success.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IG_Post__2___2_.jpg">
+</div>
 <p>Creative Assessment for 21st Century Competencies Students demonstrate
 their learning through innovative assessments that build collaboration,
 critical thinking, and adaptive thinking skills. Working in groups, students
@@ -43,6 +46,10 @@ effectively, and think adaptively as they present their findings to diverse
 audiences. Through these varied assessment approaches, students develop
 confidence as communicators while strengthening their ability to work effectively
 in teams and think critically about real-world issues.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IG_Post__5_.jpg">
+</div>
 <h3><strong>Student Voices</strong></h3>
 <p><em>"I like finding out more about history and broadening my knowledge on happenings in the past that shaped the world today. Learning history made me understand the consequences of actions, which made me more mindful in real life. History also taught me that harmony is the key to progress and happiness."</em>
 </p>
