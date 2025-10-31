@@ -15,7 +15,7 @@ and core values such as respect and resilience. Our holistic approach equips
 students with discipline-specific skills in listening, speaking, reading
 and writing, while fostering empathy, adaptability and collaboration to
 thrive in an interconnected world.</p>
-<h3><strong><br>Key Programme</strong></h3>
+<h3><strong>Key Programme</strong></h3>
 <p>The MTL Fortnight and Cultural experience is a signature programme that
 immerses students in the richness of their Mother Tongue languages and
 cultures. Through hands-on activities, performances, and authentic learning
