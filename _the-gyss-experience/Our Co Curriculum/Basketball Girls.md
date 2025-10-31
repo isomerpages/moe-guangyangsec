@@ -24,6 +24,10 @@ pressure, collaborative teamwork, and adaptive problem-solving. Our players
 demonstrate a "never-say-die" spirit, supporting one another through challenges
 and celebrating collective growth, developing resilience that empowers
 them to navigate academic pressures and future life challenges.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Untitled_design.png">
+</div>
 <h4><strong><u>Skills Development &amp; Character Building</u></strong></h4>
 <p>Our structured training program combines technical skill development with
 character formation, emphasizing discipline, teamwork, and continuous improvement.
@@ -33,10 +37,10 @@ approach builds confidence, leadership abilities, and mental resilience
 that extends beyond basketball, preparing players to excel in academic
 pursuits and future endeavors with determination and integrity.</p>
 <h3><strong>Student Voices</strong></h3>
-<p><em>"Basketball helped me become a better version of myself, teaching me to lead with discipline." </em>
+<p><em>"Basketball helped me become a better version of myself, teaching me to lead with discipline."</em>
 </p>
 <p>Cynthia Chin Pui Ling</p>
-<p><em>"Basketball developed my communication and leadership skills, learning to guide and motivate teammates." </em>
+<p><em>"Basketball developed my communication and leadership skills, learning to guide and motivate teammates."</em>
 </p>
 <p>Teoh Yiqing (2-6)</p>
 <h3><strong>Training Information</strong></h3>
