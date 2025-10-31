@@ -2,42 +2,57 @@
 title: Humanities
 permalink: /thinker/humanities/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: Our Curriculum
 ---
-#### Our Department Vision
-
-A dynamic team who have a passion for engaging in life-long learning and who grow our students.
-
-#### Our Department Mission
-
-To equip students with the right values as well as critical thinking and communication skills so as to enable them to become contributory citizens with global perspective.
-
-#### Key Activities
-
-In line with our school’s aim of developing GYSS students to be leaders, thinkers and advocates as well as our department mission of developing our students to become contributory citizens with global perspective, the Humanities department provides our students with different platforms and an enriching learning experience.  Some examples are the Humanities Learning Week, our Historical and Geographical Investigation projects, Issue-Investigation cum VIA project, Overseas Learning Journey and our Talent Development Programme. We believe that through these activities, our students would gain substantial experience, hone their thinking skills, uncover personal aptitude, develop the right values and confidence and be motivated to excel.
-
-![](/images/Student%20Thinker/poster%20for%20open%20house%20(gi%20hi%20%20eos)_page-0001.jpg)
-
-![](/images/Student%20Thinker/poster%20for%20open%20house%20(gi%20hi%20%20eos)_page-0002.jpg)
-
-![](/images/Student%20Thinker/ii%20via%20sch%20website%202023_page-0001.jpg)
-![](/images/Student%20Thinker/ii%20via%20sch%20website%202023_page-0002.jpg)
-![](/images/Student%20Thinker/ii%20via%20sch%20website%202023_page-0003.jpg)
-
-![](/images/Student%20Thinker/the%20history%20challenge%20by%20moe%202023.jpg)
-
-![](/images/Student%20Thinker/humanities%20x%20rhd%20week%20write-up_page-0001.jpg)
-![](/images/Student%20Thinker/humanities%20x%20rhd%20week%20write-up_page-0002.jpg)
-![](/images/Student%20Thinker/humanities%20x%20rhd%20week%20write-up_page-0003.jpg)
-![](/images/Student%20Thinker/humanities%20x%20rhd%20week%20write-up_page-0004.jpg)
-![](/images/Student%20Thinker/humanities%20x%20rhd%20week%20write-up_page-0005.jpg)
-![](/images/Student%20Thinker/humanities%20x%20rhd%20week%20write-up_page-0006.jpg)
-![](/images/Student%20Thinker/humanities%20x%20rhd%20week%20write-up_page-0007.jpg)
-
-![](/images/Student%20Thinker/ethics%20olymplad%202023%20write%20up_page-0001.jpg)
-![](/images/Student%20Thinker/ethics%20olymplad%202023%20write%20up_page-0002.jpg)
-![](/images/Student%20Thinker/ethics%20olymplad%202023%20write%20up_page-0003.jpg)
-![](/images/Student%20Thinker/ethics%20olymplad%202023%20write%20up_page-0004.jpg)
-![](/images/Student%20Thinker/ethics%20olymplad%202023%20write%20up_page-0005.jpg)
-![](/images/Student%20Thinker/ethics%20olymplad%202023%20write%20up_page-0006.jpg)
+<p>The Humanities Department is driven by dynamic and passionate educators
+committed to developing students holistically as critical thinkers and
+effective communicators who love Singapore. Our core mission centers on
+authentic learning that makes the world our classroom, where students engage
+with real-world contexts to deepen their understanding of Geography, History,
+Social Studies, and Commerce. Through innovative teaching approaches and
+varied assessments, we cultivate students' 21st Century Competencies while
+fostering a genuine appreciation for Singapore.</p>
+<p>Our approach emphasises experiential learning, where students develop
+adaptive thinking, collaboration skills, and information literacy through
+hands-on investigations and creative presentations. By connecting academic
+concepts to authentic environments and contemporary issues, we nurture
+confident learners who can analyse complex situations, communicate effectively,
+and contribute meaningfully to Singapore.</p>
+<h3><strong>Key Programmes</strong></h3>
+<p>Our students learn through immersive experiences that connect classroom
+concepts to Singapore's living landscape. Secondary 1 students conduct
+self-directed Geographical Historical Investigations at Labrador Park,
+exploring heritage sites while developing adaptive thinking and information
+skills. Students also engage in Social Studies Issues Investigation, researching
+community challenges to build civic literacy and advocacy capabilities.
+Secondary Three Normal Technical students apply Elements of Business Skills
+through exploration at VivoCity, analysing retail and F&amp;B operations
+firsthand. These authentic learning experiences develop critical thinking,
+collaboration, and real-world problem-solving skills, transforming students
+into informed citizens and future contributors to Singapore's continued
+success.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IG_Post__2___2_.jpg">
+</div>
+<p>Creative Assessment for 21st Century Competencies Students demonstrate
+their learning through innovative assessments that build collaboration,
+critical thinking, and adaptive thinking skills. Working in groups, students
+create infographic presentations and deliver speeches that showcase their
+understanding in creative and engaging ways. These collaborative assessment
+experiences challenge students to synthesise complex information, communicate
+effectively, and think adaptively as they present their findings to diverse
+audiences. Through these varied assessment approaches, students develop
+confidence as communicators while strengthening their ability to work effectively
+in teams and think critically about real-world issues.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IG_Post__5_.jpg">
+</div>
+<h3><strong>Student Voices</strong></h3>
+<p><em>"I like finding out more about history and broadening my knowledge on happenings in the past that shaped the world today. Learning history made me understand the consequences of actions, which made me more mindful in real life. History also taught me that harmony is the key to progress and happiness."</em>
+</p>
+<p>Wang Yue Wei
+<br>
+</p>
