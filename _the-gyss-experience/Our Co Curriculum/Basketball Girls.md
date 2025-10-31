@@ -24,7 +24,6 @@ pressure, collaborative teamwork, and adaptive problem-solving. Our players
 demonstrate a "never-say-die" spirit, supporting one another through challenges
 and celebrating collective growth, developing resilience that empowers
 them to navigate academic pressures and future life challenges.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Untitled_design.png">
 </div>
