@@ -25,8 +25,10 @@ workshop deepens conceptual understanding whilst developing critical problem-sol
 abilities. Students demonstrate our core values of Respect, Responsibility,
 Care, Grit, and Integrity as they collaborate, communicate solutions, and
 discover how STEM knowledge creates meaningful impact in their communities.</p>
-<p>
-<br><strong><u>Science Trail</u></strong>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IG_Post__6_.jpg">
+</div>
+<p><strong><u>Science Trail</u></strong>
 </p>
 <p>Our Science Trail transforms learning through hands-on exploration, where
 students apply scientific concepts to real-world scenarios beyond the classroom.
@@ -34,11 +36,14 @@ Through engaging activities and practical applications, students deepen
 their understanding whilst developing critical thinking skills. This immersive
 experience ignites curiosity and demonstrates how science connects meaningfully
 to everyday life.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IG_Post__1___2_.jpg">
+</div>
 <h3><strong>Student Voices</strong></h3>
-<p><em>"Through Science, we explore the universe, discover new possibilities, and understand life in ways that make learning exciting and meaningful." </em>
+<p><em>"Through Science, we explore the universe, discover new possibilities, and understand life in ways that make learning exciting and meaningful."</em>
 </p>
 <p>Bryan Wang Xihe</p>
-<p><em>"Once a subject of confusion, science now excites me — filling my journey with joy, curiosity, and meaningful discovery." </em>
+<p><em>"Once a subject of confusion, science now excites me — filling my journey with joy, curiosity, and meaningful discovery."</em>
 </p>
 <p>Ng Sze Han</p>
 <p>
