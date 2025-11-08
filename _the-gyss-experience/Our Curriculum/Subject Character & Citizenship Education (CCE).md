@@ -74,10 +74,10 @@ with local and global issues and contribute to a united Singapore.</p>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
 <h3><strong>Student Voices</strong></h3>
-<p><em>"Through school events and Values In Action (VIA), I learn to be more understanding and to play my part in helping the community around me." </em>
+<p><em>"Through school events and Values In Action (VIA), I learn to be more understanding and to play my part in helping the community around me."</em>
 </p>
 <p>Lim Yu Xuan Kathy</p>
-<p><em>"Even during difficult moments, I learn to stay centred and confident." </em>
+<p><em>"Even during difficult moments, I learn to stay centred and confident."</em>
 </p>
 <p>Dina Ma Jing'En
 <br>
