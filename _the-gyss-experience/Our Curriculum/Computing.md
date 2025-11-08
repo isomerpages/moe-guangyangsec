@@ -19,7 +19,7 @@ Design, and Digital Ethics. Our hands-on methodology ensures students master
 technical skills while developing integrity and responsibility, nurturing
 adaptive thinkers who apply computational solutions meaningfully to benefit
 their communities.</p>
-<h3>Key Programmes</h3>
+<h3><strong>Key Programmes</strong></h3>
 <p><strong><u>Collaborative Computing Research Presentations&nbsp;</u></strong>
 </p>
 <p>Through group presentations, students dive deep into computing theory
@@ -42,7 +42,15 @@ develop advanced programming skills, creative problem-solving abilities,
 and confidence to tackle complex computational challenges. Students demonstrate
 perseverance and resilience while collaborating with peers across Singapore,
 building technical expertise and leadership capabilities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2.jpg">
+</div>
+<h3><strong>Student Voice</strong></h3>
+<p>"Creating the game was difficult, but I focused on the objective and kept
+working."</p>
+<p>Wesley Wong</p>
 <p>
+<br>
 <br>
 <br>
 </p>
