@@ -43,10 +43,10 @@ showing how mathematical thinking supports informed choices in daily life.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IG_Post__1___1_.jpg">
 </div>
 <h3><strong>Student Voices</strong></h3>
-<p><em>"This learning journey showed me that maths is everywhere. It taught me leadership as I guided my teammates through their roles for each task, helping us accomplish our goals easily. The experience enhanced not only my mathematical understanding but also values like teamwork, leadership, and responsibility." </em>
+<p><em>"This learning journey showed me that maths is everywhere. It taught me leadership as I guided my teammates through their roles for each task, helping us accomplish our goals easily. The experience enhanced not only my mathematical understanding but also values like teamwork, leadership, and responsibility."</em>
 </p>
 <p>Alric Liang</p>
-<p><em>"What I appreciate most is how encouraging and approachable my maths teachers are. They don't just deliver lessons but take time to check our progress, answer questions patiently, and motivate us through challenges. I feel comfortable discussing maths problems with them like friends, and these conversations have built my confidence. Their guidance has transformed my mindset from seeing maths as rigid and repetitive to viewing it as creative, logical, and full of opportunities for critical thinking. This supportive environment has made me more interested in maths and willing to embrace challenges in both competitions and class." </em>
+<p><em>"What I appreciate most is how encouraging and approachable my maths teachers are. They don't just deliver lessons but take time to check our progress, answer questions patiently, and motivate us through challenges. I feel comfortable discussing maths problems with them like friends, and these conversations have built my confidence. Their guidance has transformed my mindset from seeing maths as rigid and repetitive to viewing it as creative, logical, and full of opportunities for critical thinking. This supportive environment has made me more interested in maths and willing to embrace challenges in both competitions and class."</em>
 </p>
 <p>Wang Zijinxuan</p>
 <p>
