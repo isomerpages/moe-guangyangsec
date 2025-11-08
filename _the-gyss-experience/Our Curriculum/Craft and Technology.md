@@ -39,9 +39,9 @@ foster teamwork, perseverance, and self-expression, showing how creativity,
 empathy, and care transform learning into purposeful, values-driven outcomes
 that nurture cultural awareness.</p>
 <h3><strong>Student Voices</strong></h3>
-<p><em>“In Design &amp; Technology, I learn to think like a problem-solver and not give up easily. Every prototype reminds me that perseverance and empathy can make real change.” </em>
+<p><em>“In Design &amp; Technology, I learn to think like a problem-solver and not give up easily. Every prototype reminds me that perseverance and empathy can make real change.”</em>
 </p>
 <p>Joslyn</p>
-<p><em>"Art and Food and Consumer Education (FCE) lessons taught me how creativity makes learning exciting and builds teamwork confidence."</em> 
+<p><em>"Art and Food and Consumer Education (FCE) lessons taught me how creativity makes learning exciting and builds teamwork confidence."</em>
 </p>
 <p>Diyana</p>
