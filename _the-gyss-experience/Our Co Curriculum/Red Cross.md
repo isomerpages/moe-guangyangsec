@@ -27,10 +27,14 @@ they are trained to evacuate casualties efficiently and administer appropriate
 medical attention within critical timeframes. Through their dedication,
 resilience, and commitment to excellence, our cadets consistently achieve
 commendable results, securing at least bronze or silver awards each year.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IG_Post__14_.jpg">
+</div>
 <h3><strong>Student Voice</strong></h3>
-<p><em>"Red Cross Youth has instilled in me the values of discipline, respect, and teamwork. Serving as the chairperson for 2024/2025 further developed my leadership abilities, boosted my confidence, and gave me the courage to speak up and lead with purpose." </em>
+<p><em>"Red Cross Youth has instilled in me the values of discipline, respect, and teamwork. Serving as the chairperson for 2024/2025 further developed my leadership abilities, boosted my confidence, and gave me the courage to speak up and lead with purpose."</em>
 </p>
 <p>Joya Ng</p>
 <h3><strong>Training Information</strong></h3>
 <p>Fridays, 2.30 - 5.30PM</p>
+<p></p>
 <p></p>
