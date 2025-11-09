@@ -4,8 +4,6 @@ permalink: /about-gyss/gyssalumni/
 description: ""
 variant: tiptap
 ---
-<p><strong>Objectives of the Guangyang Alumni</strong>
-</p>
 <p>The Guangyang Alumni aims to foster a strong sense of community among
 our graduates, both past and present, while maintaining a connection to
 the school. Through various events, we strive to establish and renew friendships,
@@ -24,15 +22,17 @@ the school for additional information.</p>
 <p>To register as an alumni member, please scan the QR code and fill in your
 details. Stay updated by visiting our website or following us on Facebook
 and Instagram for upcoming events and happenings.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:300px;" height="auto" width="100%" src="/images/Homepage/Alumni/Alumni%20QR.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/alumni%201.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/alumni%201.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parents/alumni%202.JPG">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Parents/alumni%202.JPG">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
