@@ -3,28 +3,41 @@ title: Badminton Boys
 permalink: /leader/CCA/badmintonboys/
 description: ""
 third_nav_title: Our Co Curriculum
+variant: tiptap
 ---
-![](/images/Student%20Leader/Physical%20CCA/BadmintonB1.jpg)
-
-Badminton demands excellent fitness: players require aerobic stamina, agility, strength, speed, and precision. It is also a technical sport, requiring good motor coordination and the development of sophisticated racket skills. The game also involves intense mental concentration, continually anticipating and pre-empting opponent's moves. Badminton is a sport that provides a complete overall workout for the body and mind.
-
-The teachers, in collaboration with the coach, strive to build up the character of the players. By committing themselves to the rigorous training, the players are able to build up their mental strength and self-discipline, which in turn will improve their attitude towards their academics.
-
-Our badminton team conducts many activities apart from training, such as VIA, NE Learning Journeys, and overnight camps. Although recreational, the team still takes training seriously and aim to participate in zonal competitions every year.
-
-![](/images/Student%20Leader/Physical%20CCA/BadmintonB2.jpg)
-
-### Key Activities
-
-*   South Zone Inter School Badminton Competition
-*   Training Camp
-*   VIA and Service Learning
-*   Basic First Aid training
-
-![](/images/Student%20Leader/Physical%20CCA/BadmintonB3.jpg)
-
-![](/images/Student%20Leader/Physical%20CCA/BadmintonB4.jpg)
-
-### CCA Schedule
-
-*   Every Mon (3.30 - 6.00pm) and Fri (3.00pm - 5.30pm)
+<p>Badminton demands excellent fitness: players need aerobic stamina, agility,
+strength, speed, and precision. It is also a technical sport, requiring
+strong motor coordination and the development of refined racket skills.
+The game involves intense mental focus, as players must constantly anticipate
+and counter their opponent’s moves. Badminton offers a complete workout
+for both body and mind.</p>
+<p>Our teachers and coach work hard to build the character of each player.
+The sport builds 21st century skills, emotional intelligence, and core
+values through teamwork, reflection, discipline, communication, resilience,
+and ethical play, shaping well-rounded and responsible individuals.</p>
+<h3><strong>Key Programme</strong></h3>
+<p><strong><u>Inter-School Championships &amp; Training Excellence&nbsp;</u></strong>
+</p>
+<p>Our badminton team demonstrates unwavering commitment through year-round
+preparation for inter-school championships in both C and B divisions. Through
+regular practice combining drills, footwork, and agility exercises, our
+students can improve on their technical skills while sharpening reflexes
+and overall performance. This approach builds resilience and perseverance,
+teaching students that consistent effort and dedication leads to personal
+improvement and team success.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IG_Post__8_.jpg">
+</div>
+<h3><strong>Student Voices&nbsp;</strong></h3>
+<p><em>"Badminton tests my reflexes, strategy and physicality, while improving my well-being and my desire to do better."</em>
+</p>
+<p>Ayrton Loh Zhi Hao</p>
+<p><em>"I am passionate about badminton because it helps me hone many skills and makes me a more disciplined person."</em>
+</p>
+<p>Lim Zi Hao Jae</p>
+<h3><strong>Training Information</strong></h3>
+<p>Every Mon (3.30 - 6.00pm) and Fri (2.00pm - 4.30pm)
+<br>
+</p>
+<p></p>
