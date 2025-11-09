@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - About School/.keep
-      - About School/Our History.md
-      - About School/Our Vision & Mission.md
-      - About School/Our School Crest and Anthem.md
+      - About Our School/.keep
+      - About Our School/Our History.md
+      - About Our School/Our Vision & Mission.md
+      - About Our School/Our School Crest and Anthem.md
       - Our Staff/.keep
       - Our Staff/EAS Staff.md
       - Our Staff/Form Teachers.md
