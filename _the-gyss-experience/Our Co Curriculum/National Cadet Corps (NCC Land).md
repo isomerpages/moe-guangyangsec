@@ -5,70 +5,47 @@ variant: tiptap
 description: ""
 third_nav_title: Our Co Curriculum
 ---
-<p></p>
+<p>The National Cadet Corps at Guangyang Secondary School nurtures cadets
+into confident, responsible leaders through military-themed training and
+character-building experiences. Our Central District land unit develops
+physical and mental capabilities while instilling core values of respect,
+resilience, and responsibility through structured activities and meaningful
+challenges.&nbsp;</p>
+<p>Our programme enhances cadets' resourcefulness and loyalty to the country
+while building strong camaraderie and leadership skills. Through adventure-based
+learning and precision training, we create transformative experiences that
+push cadets beyond their comfort zones, developing well-rounded individuals
+ready to serve their community and nation with dedication and integrity.</p>
+<h3><strong>Key Programmes</strong></h3>
+<p><strong><u>Precision Drill Squad and Freestyle Exhibition Drill&nbsp;</u></strong>
+</p>
+<p>These exhibition drill programmes develop coordination, precision, and
+teamwork as cadets choreograph synchronized movements with music. Through
+months of dedicated training for competitions, cadets from different levels
+work together, building strong friendships and camaraderie. The challenging
+journey cultivates perseverance, discipline, and mutual respect while showcasing
+their skills and representing the unit with pride and excellence.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC_1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IG_Post__13_.jpg">
 </div>
-<p><strong>National Cadet Corps (Land)</strong>
+<p><strong><u>One-star Kayaking Course</u></strong>
 </p>
-<p><em>“To Serve with Pride and Dedication” – the NCC motto</em>
+<p>This annual two-day adventure course equips cadets with kayaking skills
+while integrating core values of respect, resilience, and responsibility.
+Cadets step out of their comfort zones to overcome water-based challenges
+that test their physical and mental capabilities. Through this meaningful
+outdoor experience, they gain self-confidence, develop resourcefulness,
+and attain new levels of resilience while building stronger bonds with
+fellow cadets.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IG_Post__1___6_.jpg">
+</div>
+<h3><strong>Student Voices</strong></h3>
+<p><em>"I learned my resilience can be high enough not to give up halfway through the course." </em>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.guangyangsec.moe.edu.sg/nccoverview/" rel="noopener nofollow" target="_blank">Overview</a>
+<p>Alphonsus Liu</p>
+<p><em>"I learned that I am resilient in overcoming challenges to learn new skills."  </em>
 </p>
-</li>
-<li>
-<p><a href="https://www.guangyangsec.moe.edu.sg/about-us/" rel="noopener nofollow" target="_blank">About Us</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.guangyangsec.moe.edu.sg/achievements/" rel="noopener nofollow" target="_blank">Achievements</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.guangyangsec.moe.edu.sg/programmes-activities/" rel="noopener nofollow" target="_blank">Programmes &amp; Activities</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.guangyangsec.moe.edu.sg/highlightssec4pop/" rel="noopener nofollow" target="_blank">Highlights - Sec 4s! (POP)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.guangyangsec.moe.edu.sg/recent-highlights-standard-first-aid-with-cpr-aed-course/" rel="noopener nofollow" target="_blank">Highlights - Standard First AID with CPR_AED Course</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.guangyangsec.moe.edu.sg/highlights-annual-proficiency-camp-2024/" rel="noopener nofollow" target="_blank">Highlights - Annual Proficiency Camp</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.guangyangsec.moe.edu.sg/highlights-ncc-day/" rel="noopener nofollow" target="_blank">Highlights - NCC Day</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.guangyangsec.moe.edu.sg/highlights-total-defence-sessions/" rel="noopener nofollow" target="_blank">Highlights - Total Defence sessions</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.guangyangsec.moe.edu.sg/highlights-central-district-competition/" rel="noopener nofollow" target="_blank">Highlights - PDS/FSD Central District Competition</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.guangyangsec.moe.edu.sg/highlights-current-fsdpds-team/" rel="noopener nofollow" target="_blank">Highlights - Current FSD/PDS team</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.guangyangsec.moe.edu.sg/highlights-changi-naval-base-visit/" rel="noopener nofollow" target="_blank">Highlights - Changi Naval Base Visit</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.guangyangsec.moe.edu.sg/highlights-star-kayaking/" rel="noopener nofollow" target="_blank">Highlights - Star Kayaking</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.guangyangsec.moe.edu.sg/ncc-useful-links/" rel="noopener nofollow" target="_blank">Useful links</a>
-</p>
-</li>
-</ul>
-<p></p>
+<p>Ray Ng Jun Ren</p>
+<h3><strong>Training Information</strong></h3>
+<p>Friday. 2.00 pm to 5.30 pm</p>
