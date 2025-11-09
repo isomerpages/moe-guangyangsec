@@ -3,28 +3,27 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: tiptap
 ---
-<h4><strong>Terms of Use</strong></h4>
-<p>Thank you for visiting Guangyang Secondary School. By accessing and using
-this Web Site, you shall be deemed to have accepted to be legally bound
-by these Terms of Use. If you do not agree to these Terms of Use, please
-do not use this Web Site.</p>
-<h4><strong>General</strong></h4>
-<p>1. These Terms of Use may be changed from time to time. Changes will be
-posted on this page and your use of this Web Site after such changes have
-been posted will constitute your agreement to the modified Terms of Use
-and all of the changes.</p>
-<h4><strong>Proprietary Rights</strong></h4>
-<p>1. This Web Site is maintained by Guangyang Secondary School. It is owned
-by Guangyang Secondary School.</p>
-<p>2. The materials located on this Web Site including the information and
+<h3><strong>Terms of Use</strong></h3>
+<p>Thank you for visiting Guangyang Secondary School website. By accessing
+and using this website, you shall be deemed to have accepted to be legally
+bound by these Terms of Use. If you do not agree to these Terms of Use,
+please do not use this Web Site.</p>
+<h3><strong>General</strong></h3>
+<p>These Terms of Use may be changed from time to time. Changes will be posted
+on this page and your use of this Web Site after such changes have been
+posted will constitute your agreement to the modified Terms of Use and
+all of the changes.</p>
+<h3><strong>Proprietary Rights</strong></h3>
+<p>1. This website is owned and maintained by Guangyang Secondary School.</p>
+<p>2. The materials located on this website including the information and
 software programs (the Contents), are protected by copyright, trademark,
 and other forms of proprietary rights. All rights, title and interest in
 the Contents are owned by, licensed to or controlled by Guangyang Secondary
 School.</p>
-<h4><strong>Privacy Policy</strong></h4>
-<p>1. Click <a href="https://www.guangyangsec.moe.edu.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<h3><strong>Privacy Policy</strong></h3>
+<p>Click <a href="https://www.guangyangsec.moe.edu.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 review this Web Site Privacy Statement.</p>
-<h4><strong>Restrictions on Use of Materials</strong></h4>
+<h3><strong>Restrictions on Use of Materials</strong></h3>
 <p>1. Except as otherwise provided, the Contents of this Web Site shall not
 be reproduced, republished, uploaded, posted, transmitted, or otherwise
 distributed in any way, without the prior written permission of Guangyang
@@ -38,12 +37,12 @@ other purpose will be a violation of Guangyang Secondary School copyright
 and other intellectual property rights. Graphics and images on this Web
 Site are protected by copyright and may not be reproduced or appropriated
 in any manner without written permission of Guangyang Secondary School.</p>
-<h4><strong>Right of Access</strong></h4>
-<p>1. Guangyang Secondary School reserves all rights to deny or restrict
-access to this Web Site to any particular person, or to block access from
-a particular external address to this Web Site, at any time, without ascribing
-any reasons whatsoever.</p>
-<h4><strong>Disclaimer of Warranties and Liability</strong></h4>
+<h3><strong>Right of Access</strong></h3>
+<p>Guangyang Secondary School reserves all rights to deny or restrict access
+to this Web Site to any particular person, or to block access from a particular
+external address to this Web Site, at any time, without ascribing any reasons
+whatsoever.</p>
+<h3><strong>Disclaimer of Warranties and Liability</strong></h3>
 <p>1. The Contents of this Web Site are provided on an "as is" basis without
 warranties of any kind. To the fullest extent permitted by law, Guangyang
 Secondary School does not warrant and hereby disclaims any warranty:</p>
@@ -59,7 +58,7 @@ or loss of any kind caused as a result (direct or indirect) of the use
 of the Web Site, including but not limited to any damage or loss suffered
 as a result of reliance on the Contents contained in or available from
 the Web Site.</p>
-<h4><strong>Links from This Web Site to Other Web Sites</strong></h4>
+<h3><strong>Links from This Web Site to Other Web Sites</strong></h3>
 <p>1. This Web Site contains hyperlinks to web sites which are not maintained
 Guangyang Secondary School. Guangyang Secondary School is not responsible
 for the contents of those web sites and shall not be liable for any damages
@@ -69,7 +68,7 @@ access to such web sites are entirely at your own risk.</p>
 circumstances shall Guangyang Secondary School be considered to be associated
 or affiliated with any trade or service marks, logos, insignia or other
 devices used or appearing on web sites to which this Web Site is linked.</p>
-<h4><strong>Links to This Web Site from Other Web Sites</strong></h4>
+<h3><strong>Links to This Web Site from Other Web Sites</strong></h3>
 <p>1. Except as set forth below, caching and links to, and the framing of
 this Web Site or any of the Contents are prohibited.</p>
 <p>2. You must secure permission from Guangyang Secondary School prior to
@@ -95,6 +94,6 @@ intellectual property, proprietary, privacy or publicity rights.</p>
 links or frames and disclaims any responsibility for the content available
 on any other site reached by links to or from this Web Site or any of the
 Contents.</p>
-<h4><strong>Governing Law</strong></h4>
-<p>1. These Terms of Use shall be governed and construed in accordance with
+<h3><strong>Governing Law</strong></h3>
+<p>These Terms of Use shall be governed and construed in accordance with
 laws of the Republic of Singapore.</p>
