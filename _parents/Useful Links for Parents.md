@@ -38,6 +38,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/positive-use-guide" rel="noopener nofollow" target="_blank">Positive Use Guide on Technology and Social Media</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://file.go.gov.sg/parent-guide-genai.pdf" rel="noopener nofollow" target="_blank">A Parent’s Guide to Generative AI Tools for Learning </a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
