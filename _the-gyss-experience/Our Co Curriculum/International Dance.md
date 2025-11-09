@@ -41,7 +41,7 @@ values of perseverance and teamwork.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1__2_.jpg">
 </div>
 <h3><strong>Student Voice</strong></h3>
-<p><em>"Through dance, I've learned to be more aware of my movements and how to use my body more effectively - like reaching further and controlling my shoulders when turning. I've also discovered the importance of pacing myself, building flexibility, and persevering towards goals such as achieving a smooth backbend. Dance has taught me discipline, resilience, and how to express myself with confidence." </em> 
+<p><em>"Through dance, I've learned to be more aware of my movements and how to use my body more effectively - like reaching further and controlling my shoulders when turning. I've also discovered the importance of pacing myself, building flexibility, and persevering towards goals such as achieving a smooth backbend. Dance has taught me discipline, resilience, and how to express myself with confidence."</em>
 </p>
 <p>Su Wai Linn</p>
 <h3><strong>Training Information</strong></h3>
