@@ -3,11 +3,10 @@ title: Privacy Statement
 permalink: /privacy/
 variant: tiptap
 ---
-<h4><strong>Guangyang Secondary School Privacy Statement</strong></h4>
-<p>1.&nbsp; This is a Guangyang Secondary School website. Thank you for examining
-our privacy statement.&nbsp;</p>
-<p>2&nbsp;&nbsp; If you are only browsing this website, we do not capture
-data that allows us to identify you individually.</p>
+<p>1.&nbsp; This is the official website for Guangyang Secondary School.
+Thank you for examining our privacy statement.&nbsp;</p>
+<p>2.&nbsp;&nbsp;We do not capture browising data that allows us to identify
+you individually.</p>
 <p>3.&nbsp; If you choose to make an application or send us an e-mail for
 which you provide us with personally identifiable data, we may share necessary
 data with other Government agencies, so as to serve you in a most efficient

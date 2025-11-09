@@ -27,7 +27,7 @@ considered for School-based FAS.</p>
 <p>For more information regarding MOE FAS, please click&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <p>For further clarification or enquiries, please contact the school at&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">gyss@moe.edu</a><a href="mailto:gyss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">.sg</a>or 6258 9781. Together, we build a
-supportive environment where Guangyang students can develop their potential
+<a rel="noopener noreferrer nofollow" target="_blank">gyss@moe.edu</a><a href="mailto:gyss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">.sg </a>or 6258 9781. Together, we build
+a supportive environment where Guangyang students can develop their potential
 with confidence and resilience.</p>
 <p>&nbsp;</p>

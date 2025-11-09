@@ -8,7 +8,7 @@ variant: tiptap
 </p>
 <p>Students in Guangyang Secondary School are covered by Income Insurance
 Limited Group Personal Accident Insurance.</p>
-<p>Please click&nbsp;download&nbsp;for the product factsheet.</p>
+<p>Please click&nbsp;the following link&nbsp;for the insurance factsheet.</p>
 <p><a href="/files/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Insurance Fact Sheet</a>
 </p>
 <p>With effect from 2022, student accident insurance claims submission are

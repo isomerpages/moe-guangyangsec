@@ -2,6 +2,7 @@
 title: Parents Support Group
 permalink: /parents/psg/
 description: ""
+variant: markdown
 ---
 GYSS Parents’ Support Group (GYSS PSG) strives to promote and strengthen collaboration with the school and community for the GYSS family. We are an active body of parent volunteers who embrace the school vision to provide a caring environment in nurturing the students.
 

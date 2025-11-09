@@ -17,7 +17,7 @@ and respond to social issues through drama. This comprehensive approach
 develops artistic expression alongside essential life competencies, fostering
 appreciation and understanding of dramatic arts.</p>
 <h3><strong>Key Programmes</strong></h3>
-<h4><strong><u>Singapore Youth Festival (SYF)&nbsp;</u></strong></h4>
+<p><strong><u>Singapore Youth Festival (SYF)</u></strong>&nbsp;</p>
 <p>The Drama Arts Production SYF is a national platform where students showcase
 theatrical talents while exploring meaningful themes that resonate with
 audiences. Through this transformative experience, students foster creativity,
@@ -29,7 +29,8 @@ to bring stories to life through performing arts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IG_Post__2___1_.jpg">
 </div>
-<h4><strong><u>Biennial Drama Production</u></strong></h4>
+<p><strong><u>Biennial Drama Production</u></strong>
+</p>
 <p>Our Drama Club presents biennial productions showcasing students' diverse
 talents both on stage and behind the scenes. Each show explores meaningful
 social issues relevant to Singapore's context, encouraging critical reflection

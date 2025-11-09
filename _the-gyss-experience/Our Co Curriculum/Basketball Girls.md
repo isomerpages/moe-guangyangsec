@@ -16,7 +16,8 @@ core values of resilience, integrity, and excellence. Our holistic approach
 ensures every player grows as a well-rounded individual prepared for life's
 challenges beyond basketball.</p>
 <h3><strong>Key Programmes</strong></h3>
-<h4><strong><u>National School Games (NSG)</u></strong></h4>
+<p><strong><u>National School Games (NSG)</u></strong>
+</p>
 <p>Through comprehensive NSG preparation, players embark on a transformative
 journey building resilience, determination, and perseverance through rigorous
 training. The competitive environment teaches effective communication under
@@ -27,7 +28,8 @@ them to navigate academic pressures and future life challenges.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/IG_Post__1_.jpg">
 </div>
-<h4><strong><u>Skills Development &amp; Character Building</u></strong></h4>
+<p><strong><u>Skills Development &amp; Character Building</u></strong>
+</p>
 <p>Our structured training program combines technical skill development with
 character formation, emphasizing discipline, teamwork, and continuous improvement.
 Players learn to embrace challenges as growth opportunities while supporting
