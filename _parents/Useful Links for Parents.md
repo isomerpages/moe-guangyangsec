@@ -11,7 +11,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Useful links for Parents</p>
+<h3><strong>Useful links for Parents</strong></h3>
 </th>
 </tr>
 <tr>
@@ -46,7 +46,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://file.go.gov.sg/parent-guide-genai.pdf" rel="noopener nofollow" target="_blank">A Parent’s Guide to Generative AI Tools for Learning </a>
+<p><a href="https://file.go.gov.sg/parent-guide-genai.pdf" rel="noopener nofollow" target="_blank">A Parent’s Guide to Generative AI Tools for Learning</a>
 </p>
 </td>
 </tr>
