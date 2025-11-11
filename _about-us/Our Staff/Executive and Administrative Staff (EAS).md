@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Administration Staff</strong>
+<summary><strong>Administration </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -69,7 +69,7 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Operations Staff</strong>
+<summary><strong>Operations </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -131,7 +131,7 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>ICT Staff</strong>
+<summary><strong>Information &amp; Communication Technology </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
@@ -146,7 +146,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hanafi</p>
+<p>Mr Hanafi Razali</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lam Man Chin</p>
+<p>Mr Muhammad Nasir Bin Nazarudin</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +162,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sanjef</p>
+<p>Mr Kahmesh Kumaar</p>
 </td>
 </tr>
 </tbody>
@@ -216,7 +216,7 @@ variant: tiptap
 <p>STEM (Lab Tech)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chan_Ng Ai Khim</p>
+<p>Mrs Chan Ng Ai Khim</p>
 </td>
 </tr>
 </tbody>
@@ -247,6 +247,52 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Alicia Mok</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Case Management Team (CMT)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lead Special Education Needs Officer (LSENO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jeyaram Kadivan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior School Counsellor (SSC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Delina Williams</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior School Counsellor (SSC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Mashrufah Abdul Ghani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Welfare Officer (SWO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jai Saraswathy Pagisamy</p>
 </td>
 </tr>
 </tbody>
