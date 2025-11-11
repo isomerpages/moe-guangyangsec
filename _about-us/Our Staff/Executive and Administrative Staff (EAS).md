@@ -1,15 +1,11 @@
 ---
-title: EAS Staff
-permalink: /about-gyss/Our-Staff/eas/
+title: Executive and Administrative Staff (EAS)
+permalink: /about-gyss/our-staff/eas/
 description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Administration Staff</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h3><strong>Administration</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -66,12 +62,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Operations Staff</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h3><strong>Operations</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -128,12 +119,65 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>ICT Staff</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h3><strong>Case Management Team (CMT)</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lead Special Education Needs Officer (LSENO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jeyaram Kadivan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior School Counsellor (SSC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Delina Williams</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior School Counsellor (SSC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Mashrufah Abdul Ghani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Welfare Officer (SWO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jai Saraswathy Pagisamy</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Education &amp; Career Guidance (ECG) </strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ECG Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Colin Tan Thian Hock</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Information &amp; Communications Technology (ICT)</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -143,18 +187,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hanafi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lam Man Chin</p>
+<p>Mr Hanafi Razali</p>
 </td>
 </tr>
 <tr>
@@ -162,17 +197,20 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sanjef</p>
+<p>Mr Muhammad Nasir Bin Nazarudin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kahmesh Kumaar</p>
 </td>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>STEM Instructor Staff</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h3><strong>Science, Technology, Engineering, and Mathematics (STEM) Instructor Staff</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -216,17 +254,12 @@ variant: tiptap
 <p>STEM (Lab Tech)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chan_Ng Ai Khim</p>
+<p>Mrs Chan Ng Ai Khim</p>
 </td>
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Other Staff</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h3><strong>Other Staff</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -251,7 +284,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-</div>
-</details>
-</div>
+<p></p>
 <p></p>

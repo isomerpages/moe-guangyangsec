@@ -1,5 +1,5 @@
 ---
-title: Personalised Learning Device Programme (PLD)
+title: National Digital Learning Programme (NDLP)
 permalink: /students/ndlp/
 description: ""
 variant: tiptap
@@ -165,7 +165,7 @@ jack port</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>Warranty &amp; Insurance Information:</strong></h3>
+<h3><strong>Warranty &amp; Insurance Information</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -237,9 +237,65 @@ Centre</p>
 </tr>
 </tbody>
 </table>
-<h5><strong>PDLP Information for Parents</strong>:</h5>
-<p>Please refer to the parent’s letter&nbsp;in&nbsp;<strong>Parent’s Gateway</strong>&nbsp;for
-the details on the National Digital Literacy Programme (NDLP) and the purchase
-of the PLD for your child/ward. If you are not onboard Parent’s Gateway,
-your child/ward will receive the hard copy letter from his/her Form Teacher.
-Please take some time to read through it and respond accordingly.</p>
+<h3><strong>Resources for Parents</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Digital Wellness &amp; Safety</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener nofollow" target="_blank">Parent Kit - Raising a Digitally Smart Child</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/positive-use-guide" rel="noopener nofollow" target="_blank">Positive Use Guide on Technology and Social Media</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener nofollow" target="_blank">MOE Cyber Wellness Webpage</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Learning Support &amp; Tools</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://file.go.gov.sg/parent-guide-genai.pdf" rel="noopener nofollow" target="_blank">A Parent's Guide to Generative AI Tools for Learning</a>
+</p>
+</li>
+<li>
+<p><a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) for Learning with PLD</a>
+</p>
+</li>
+<li>
+<p><a href="/files/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) for Learning with PLD</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
