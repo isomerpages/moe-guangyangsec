@@ -84,7 +84,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gyss-ecg</a>
+<p><a href="https://go.gov.sg/gyss-ecg" rel="noopener nofollow" target="_blank">https://go.gov.sg/gyss-ecg</a>
 </p>
 </td>
 </tr>
