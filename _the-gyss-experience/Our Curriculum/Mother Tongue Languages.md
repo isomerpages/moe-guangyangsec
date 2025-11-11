@@ -1,5 +1,5 @@
 ---
-title: Mother Tongue
+title: Mother Tongue Languages
 permalink: /mother-tongue2/
 variant: tiptap
 description: ""
