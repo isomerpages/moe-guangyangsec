@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<h3><strong>Secondary One </strong></h3>
+<h3><strong>Secondary One</strong></h3>
 <p>The GYSS journey starts with laying of the foundation. Our students identify
 their purpose in secondary school and develop a grounded understanding
 of the principles that will guide them and their sense of duty. Through
@@ -49,7 +49,7 @@ learning, where they learn to look beyond Singapore, to the world.</p>
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
-<h3><strong>Secondary Four </strong></h3>
+<h3><strong>Secondary Four</strong></h3>
 <p>As the seniors of the school, our Sec 4 students role model excellence
 for their juniors. Capping their Guangyang experience with our signature
 GRIT Walk, alongside professional skills training and etiquette workshops,
