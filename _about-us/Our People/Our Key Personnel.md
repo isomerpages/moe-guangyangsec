@@ -131,7 +131,7 @@ third_nav_title: Our People
 <p>Mr Pung Chin Ee Ronald</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department PE &amp; CCA (Cov)</p>
+<p>Head of Department PE &amp; CCA (Cov) &amp; Assistant Year Head (Sec 1)</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +147,7 @@ third_nav_title: Our People
 <p>Mrs Fam-Loh Mei Ting Eugenia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/ Year Head</p>
+<p>Head of Department/ Year Head (Sec 3)</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ third_nav_title: Our People
 <p>Mr S B Sivaganesh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/ Year Head</p>
+<p>Head of Department/ Year Head (Sec 4)</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +171,7 @@ third_nav_title: Our People
 <p>Mr Chin Wei Chiat Alvis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Assistant Year Head (Sec 2)</p>
 </td>
 </tr>
 <tr>
@@ -219,7 +219,7 @@ third_nav_title: Our People
 <p>Mdm Haniza Bte Abdul Manan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ Malay Language, Tamil Language</p>
+<p>Subject Head/ Malay Language &amp;Tamil Language</p>
 </td>
 </tr>
 <tr>
@@ -277,6 +277,71 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Information Communication Technology Manager</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Lead Teacher/ Senior Teacher</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sarifah Noor Aini Bte S Mahmood</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher/ Social Studies</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tew Li Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/ Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Shu Wen Suvenna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/ Design &amp; Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Juma Bee Bte Abdul Rashid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/ Nutrition &amp; Food Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tengku Rashida Bte T Salleh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/ Principles of Accounts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Loh-Teo Siew Khim Kim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/ Physics</p>
 </td>
 </tr>
 </tbody>
