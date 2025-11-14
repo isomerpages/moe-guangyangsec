@@ -15,12 +15,12 @@ sections:
         - title: REGISTER FOR OPEN HOUSE '25
           description: 15 Nov (Sat), 09:00 - 12:30PM
           url: https://form.gov.sg/68eed83821643506f9cc8bcc
-        - title: LATEST HAPPENINGS
-          description: Follow us on Instagram!
-          url: https://www.instagram.com/guangyangsec/?hl=en
         - title: 2026 Booklist
           description: Download here.
           url: https://www.guangyangsec.moe.edu.sg/students/booklist/
+        - title: LATEST HAPPENINGS
+          description: Follow us on Instagram!
+          url: https://www.instagram.com/guangyangsec/?hl=en
       variant: image
       size: md
       alignment: left
