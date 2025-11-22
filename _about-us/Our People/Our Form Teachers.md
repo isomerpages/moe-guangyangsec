@@ -1,8 +1,8 @@
 ---
-title: Form Teachers
-permalink: /about-gyss/Our-Staff/formteachers/
+title: Our Form Teachers
+permalink: /about-gyss/ourstaff/formteachers/
 description: ""
-third_nav_title: Our Staff
+third_nav_title: Our People
 variant: tiptap
 ---
 <h5>Sec 1 Year head : Mr Alvis Chin</h5>

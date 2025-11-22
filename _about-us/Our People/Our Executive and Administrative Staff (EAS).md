@@ -1,8 +1,8 @@
 ---
-title: Executive and Administrative Staff (EAS)
+title: Our Executive and Administrative Staff (EAS)
 permalink: /about-gyss/our-staff/eas/
 description: ""
-third_nav_title: Our Staff
+third_nav_title: Our People
 variant: tiptap
 ---
 <h3><strong>Administration</strong></h3>
