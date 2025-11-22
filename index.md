@@ -26,13 +26,11 @@ sections:
       alignment: left
       backgroundColor: gray
   - infopic:
-      title: Open House '25
+      title: Virtual Open House
       subtitle: Upcoming Event
       id: infopic
-      description: Join us on 15 November 2025 (Saturday) from 09:00AM to 12:30PM to
-        find out about the GYSS experience.
+      description: 27 Nov (Thu) 2025, 6.00 - 7.00 pm. The meeting link and details
+        will be made available soon. We look forward to seeing you!
       image: /images/1.jpg
       alt: Image alt text
-      button: More details
-      url: https://sites.google.com/moe.edu.sg/guangyangopenhouse
 ---
