@@ -104,7 +104,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Devi D/o Lokanathan</p>
+<p>Ms Tan Lay Koon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department/ Information Communication Technology</p>
@@ -124,14 +124,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department/ Mother Tongue Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Pung Chin Ee Ronald</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department PE &amp; CCA (Cov) &amp; Assistant Year Head (Sec 1)</p>
 </td>
 </tr>
 <tr>
@@ -164,6 +156,14 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department/ Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Pung Chin Ee Ronald</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Sec 1)</p>
 </td>
 </tr>
 <tr>
@@ -211,7 +211,7 @@ third_nav_title: Our People
 <p>Mr Tan Bing Quan Justin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ Information Communication Technology</p>
+<p>Subject Head/ Information Communication Technology (Cov)</p>
 </td>
 </tr>
 <tr>
