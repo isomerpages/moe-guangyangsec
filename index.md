@@ -12,9 +12,9 @@ sections:
         - title: Principal's Welcome
           description: Ms Tan Ke-Xin
           url: https://www.guangyangsec.moe.edu.sg/PRINCIPALSMESSAGE/
-        - title: REGISTER FOR OPEN HOUSE '25
-          description: 15 Nov (Sat), 09:00 - 12:30PM
-          url: https://form.gov.sg/68eed83821643506f9cc8bcc
+        - title: VIRTUAL OPEN HOUSE '25
+          description: 27 Nov (Thu) 6.00 pm - 7.00 pm
+          url: https://form.gov.sg/68eef87821643506f9d327ff
         - title: 2026 Booklist
           description: Download here.
           url: https://www.guangyangsec.moe.edu.sg/students/booklist/
