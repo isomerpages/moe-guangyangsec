@@ -12,25 +12,34 @@ sections:
         - title: Principal's Welcome
           description: Ms Tan Ke-Xin
           url: https://www.guangyangsec.moe.edu.sg/PRINCIPALSMESSAGE/
-        - title: VIRTUAL OPEN HOUSE '25
-          description: 27 Nov (Thu) 6.00 pm - 7.00 pm
-          url: https://form.gov.sg/68eef87821643506f9d327ff
+        - title: Latest Happenings
+          description: Follow us on Instagram!
+          url: https://www.instagram.com/guangyangsec/?hl=en
         - title: 2026 Booklist
           description: Download here.
           url: https://www.guangyangsec.moe.edu.sg/students/booklist/
-        - title: LATEST HAPPENINGS
-          description: Follow us on Instagram!
-          url: https://www.instagram.com/guangyangsec/?hl=en
       variant: image
       size: md
       alignment: left
       backgroundColor: gray
   - infopic:
+      title: School Tours
+      subtitle: Upcoming Event
+      id: infopic
+      description: Join us to experience GYSS's vibrant environment! Meet passionate
+        teachers, explore facilities & discover student life in GYSS. No sign
+        ups required. See you!
+      button: Details of Tour timings
+      url: https://www.instagram.com/p/DRT_aGFk16n/
+      image: /images/WhatsApp_Image_2025_11_22_at_12_37_53_PM__1_.jpg
+      alt: Image alt text
+  - infopic:
       title: Virtual Open House
       subtitle: Upcoming Event
       id: infopic
-      description: 27 Nov (Thu) 2025, 6.00 - 7.00 pm. The meeting link and details
-        will be made available soon. We look forward to seeing you!
-      image: /images/1.jpg
+      description: You're invited to our Virtual Open House! Tune in, be inspired, and
+        start your journey with us! Meeting details will be posted on our
+        website & IG. See you!
+      image: /images/WhatsApp_Image_2025_11_22_at_12_37_53_PM.jpg
       alt: Image alt text
 ---
