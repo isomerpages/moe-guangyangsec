@@ -317,7 +317,7 @@ third_nav_title: Our People
 <p>Ms Tan Shu Wen Suvenna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/ Design &amp; Technology</p>
+<p>Senior Teacher/ Design &amp; Technology (Cov)</p>
 </td>
 </tr>
 <tr>
