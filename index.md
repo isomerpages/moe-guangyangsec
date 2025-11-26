@@ -42,5 +42,5 @@ sections:
       image: /images/Virtual_GYSS.jpg
       alt: Image alt text
       url: https://go.gov.sg/gy27nov6-7pm
-      button: https://go.gov.sg/gy27nov6-7pm
+      button: Click here to enter
 ---
