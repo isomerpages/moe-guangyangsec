@@ -38,8 +38,9 @@ sections:
       subtitle: Upcoming Event
       id: infopic
       description: You're invited to our Virtual Open House! Tune in, be inspired, and
-        start your journey with us! Meeting details will be posted on our
-        website & IG. See you!
-      image: /images/WhatsApp_Image_2025_11_22_at_12_37_53_PM.jpg
+        start your journey with us!
+      image: /images/Virtual_GYSS.jpg
       alt: Image alt text
+      url: https://go.gov.sg/gy27nov6-7pm
+      button: https://go.gov.sg/gy27nov6-7pm
 ---
