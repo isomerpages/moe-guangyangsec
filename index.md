@@ -23,24 +23,12 @@ sections:
       alignment: left
       backgroundColor: gray
   - infopic:
-      title: School Tours
-      subtitle: Upcoming Event
-      id: infopic
-      description: Join us to experience GYSS's vibrant environment! Meet passionate
-        teachers, explore facilities & discover student life in GYSS. No sign
-        ups required. See you!
-      button: Details of Tour timings
-      url: https://www.instagram.com/p/DRT_aGFk16n/
-      image: /images/WhatsApp_Image_2025_11_22_at_12_37_53_PM__1_.jpg
-      alt: Image alt text
-  - infopic:
       title: Virtual Open House
-      subtitle: Upcoming Event
+      subtitle: Missed our Open House?
       id: infopic
-      description: You're invited to our Virtual Open House! Tune in, be inspired, and
-        start your journey with us!
+      description: Thank you for your interest in GYSS! Don't forget to submit school
+        choices on S1 Posting website by 4.30PM on 1 December 2025.
       image: /images/Virtual_GYSS.jpg
-      alt: Image alt text
-      url: https://go.gov.sg/gy27nov6-7pm
-      button: Click here to enter
+      url: https://youtu.be/NRpOGs70cek
+      button: WATCH VIRTUAL OPEN HOUSE HERE
 ---
