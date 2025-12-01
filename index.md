@@ -26,8 +26,9 @@ sections:
       title: Virtual Open House
       subtitle: Missed our Open House?
       id: infopic
-      description: Thank you for your interest in GYSS! Don't forget to submit school
-        choices on S1 Posting website by 4.30PM on 1 December 2025.
+      description: Thank you for your interest in GYSS! Check out our recording of our
+        virtual open house to find out more on why GYSS is the school for your
+        child.
       image: /images/WhatsApp_Image_2025_11_22_at_12_37_53_PM.jpg
       url: https://youtu.be/NRpOGs70cek
       button: WATCH VIRTUAL OPEN HOUSE HERE
