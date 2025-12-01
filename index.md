@@ -32,4 +32,5 @@ sections:
       image: /images/WhatsApp_Image_2025_11_22_at_12_37_53_PM.jpg
       url: https://youtu.be/NRpOGs70cek
       button: WATCH VIRTUAL OPEN HOUSE HERE
+      alt: WATCH VIRTUAL OPEN HOUSE HERE
 ---
