@@ -24,7 +24,6 @@ about your child's transition to secondary school.</p>
 </p>
 <hr>
 <h3><strong>More Information for Parents</strong></h3>
-<p>Select a topic below to find out more:</p>
 <p><strong>First Week of School</strong>
 <br>What to expect, what to bring, and the schedule for your child's first
 week</p>
@@ -35,7 +34,8 @@ CCAs, academics and more</p>
 <br>Regular school hours, reporting times, and what to do if your child is
 absent.</p>
 <p><strong>Getting to School (Drop off and Gates)</strong>
-</p>
-<p>Drop-off points, safety, main gate and side gate information.
+<br>Drop-off points, safety, main gate and side gate information.</p>
+<p></p>
+<p>
 <br>
 </p>
