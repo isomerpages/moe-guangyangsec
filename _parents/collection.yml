@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - First Week Schedule/Sec 1 Reporting Information 2026.md
       - First Week Schedule/.keep
       - Bookshop And Uniform.md
       - Financial Assistance.md
