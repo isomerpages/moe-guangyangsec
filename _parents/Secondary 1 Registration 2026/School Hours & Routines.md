@@ -26,6 +26,10 @@ third_nav_title: Secondary 1 Registration 2026
 <p>Friday: 12.30pm</p>
 </li>
 </ul>
-<p><strong>Absence from School:</strong>
-<br>If your child is unable to attend school, please contact the school General
-Office at <strong>6258 9781</strong> in the morning.</p>
+<h3><strong>Reporting Absence from School</strong></h3>
+<p><strong>Important:</strong> If your child is unable to attend school, parents
+must call the school General Office on the morning of absence to inform
+the school.</p>
+<p><strong>School General Office</strong>
+<br><strong>Operating Hours: </strong>8.00am - 5.00pm
+<br><strong>Tel:</strong> 6258 9781</p>
