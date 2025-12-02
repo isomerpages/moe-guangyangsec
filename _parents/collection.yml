@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Sec 1 Reporting Information 2026.md
       - Bookshop And Uniform.md
       - Financial Assistance.md
       - Group Personal Accident Insurance.md
