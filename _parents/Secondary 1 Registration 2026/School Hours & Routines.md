@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Secondary 1 Registration 2026
 ---
-<h3><strong>Regular School Hours (From Week 2)</strong></h3>
+<h3><strong>School Hours for Semester 1 (From Term 1 Week 2)</strong></h3>
 <p><strong>Morning Assembly:</strong>
 </p>
 <ul data-tight="true" class="tight">
