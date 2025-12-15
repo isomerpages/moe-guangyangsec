@@ -25,7 +25,7 @@ guide students)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Full school uniform</p>
+<p>School uniform</p>
 </li>
 <li>
 <p>White canvas shoes or plain-coloured track shoes (black or dark-coloured)</p>
@@ -38,10 +38,10 @@ guide students)</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Boys: Hair must be sloped at the sides and back</p>
+<p>Boys: Hair must be sloped at the sides and back.</p>
 </li>
 <li>
-<p>Girls: Hair must be neatly tied</p>
+<p>Girls: Long hair must be neatly tied.</p>
 </li>
 </ul>
 <p><strong>What to Bring:</strong>
@@ -54,7 +54,7 @@ guide students)</p>
 <p>Writing materials</p>
 </li>
 <li>
-<p>A story book</p>
+<p>A storybook</p>
 </li>
 </ul>
 <h3><strong>First Week Schedule</strong></h3>
@@ -108,7 +108,7 @@ guide students)</p>
 <p>12.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School tour, class bonding, school dance &amp; cheer, talks</p>
+<p>School tour, class bonding, school dance &amp; cheer, talks etc.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Uniform</p>
@@ -162,7 +162,7 @@ guide students)</p>
 <p>Wed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>7.30am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4.30pm</p>
@@ -182,7 +182,7 @@ guide students)</p>
 <p>Thu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>7.30am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30pm</p>
@@ -202,7 +202,7 @@ guide students)</p>
 <p>Fri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>7.30am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4.30pm</p>
