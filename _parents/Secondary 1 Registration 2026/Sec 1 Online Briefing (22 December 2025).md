@@ -7,7 +7,7 @@ third_nav_title: Secondary 1 Registration 2026
 ---
 <p>Congratulations on your posting to our school!</p>
 <p>We look forward to welcoming your child to our school community.</p>
-<h3><strong>Online Briefing for Parents</strong></h3>
+<h3><strong>Setting the Foundation: Sec 1 Online Administrative Briefing for Parents and Students</strong></h3>
 <p><strong>Date:</strong> 22 December 2025
 <br><strong>Time:</strong> 9.00am to 10.00am
 <br><strong>Link:</strong>  <a href="https://go.gov.sg/gysec12026" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/gysec12026</u></a>
@@ -28,7 +28,7 @@ about your child's transition to secondary school.</p>
 first week.</p>
 <p><strong><a href="https://guangyangsec.moe.edu.sg/getting-to-school/" rel="noopener nofollow" target="_blank">Getting to School (Drop off and Gates)</a></strong>
 <br>Drop-off points, safety, main gate and side gate information.</p>
-<p><strong><a href="https://guangyangsec.moe.edu.sg/parents-talk/" rel="noopener nofollow" target="_blank">Parents Talk (7 January)</a></strong>
+<p><strong><a href="https://guangyangsec.moe.edu.sg/parents-talk/" rel="noopener nofollow" target="_blank">Building a Strong Foundation Together: Sec 1 Parent Talk (7 January)</a></strong>
 <br>Join us for an important face-to-face session covering student welfare,
 CCAs, academics and more.</p>
 <p><strong><a href="https://guangyangsec.moe.edu.sg/school-hours-attendance/" rel="noopener nofollow" target="_blank">School Hours &amp; Attendance</a></strong>
