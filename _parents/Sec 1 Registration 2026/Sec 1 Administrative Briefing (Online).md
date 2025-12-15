@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Sec 1 Registration 2026
 ---
-<p>Congratulations on your posting to our school!</p>
+<p>Congratulations on your child's posting to Guangyang Secondary School!</p>
 <p>We look forward to welcoming your child to our school community.</p>
 <h3><strong>Setting the Foundation: Sec 1 Online Administrative Briefing for Parents and Students</strong></h3>
 <p><strong>Date:</strong> 22 December 2025
@@ -30,13 +30,14 @@ first week.</p>
 <br>Bus routes, walking directions, driving drop-off/pick-up points, and gate
 information.</p>
 <p><strong><a href="https://guangyangsec.moe.edu.sg/parents-talk/" rel="noopener nofollow" target="_blank">Building a Strong Foundation Together: Sec 1 Parent Talk (7 January 2026)</a></strong>
-<br>Join us for an important face-to-face session covering student welfare,
+<br>Join us for an important face-to-face session covering student well-being,
 CCAs, academics and more.</p>
 <p><strong><a href="https://guangyangsec.moe.edu.sg/school-hours-attendance/" rel="noopener nofollow" target="_blank">School Hours &amp; Attendance</a></strong>
 <br>Regular school hours, reporting times, and what to do if your child/ ward
 is absent.</p>
 <p><strong><a href="https://www.guangyangsec.moe.edu.sg/parents/uniform/" rel="noopener nofollow" target="_blank">Bookshop &amp; Uniform Purchase</a></strong>
-<br>Details on where and how to purchase books and uniforms for your child.</p>
+<br>Details on where and how to purchase books and uniforms for your child/
+ward.</p>
 <p><strong><a href="https://www.guangyangsec.moe.edu.sg/files/Booklist/GYSS_Booklist_2026___Secondary_1.pdf" rel="noopener nofollow" target="_blank">Booklist 2026</a></strong>
 <br>To download a copy of Sec 1 booklist for 2026.</p>
 <p><strong><a href="https://www.guangyangsec.moe.edu.sg/parents/fas/" rel="noopener nofollow" target="_blank">Financial Assistance </a></strong>
