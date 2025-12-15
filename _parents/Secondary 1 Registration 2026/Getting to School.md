@@ -80,14 +80,14 @@ third_nav_title: Secondary 1 Registration 2026
 </div>
 <h4><strong>By Driving</strong></h4>
 <p>If you are driving or have arranged private transport for your child,
-please use the designated drop-off point at the front gate. Students will
-enter through the smaller gate from there. Vehicles are not permitted to
-enter the school compound.</p>
+please use the designated drop-off/ pick-up points at the front gate. Students
+will enter through the smaller gate from there. Vehicles are not permitted
+to enter the school compound.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drop_off_1.png">
 </div>
-<p>For safety, please refrain from dropping off your child/ ward on the opposite
-side of the road.</p>
+<p>For safety, please refrain from dropping off/ picking up your child/ ward
+on the opposite side of the road.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drop_off_2.png">
 </div>
