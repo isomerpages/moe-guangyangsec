@@ -39,6 +39,14 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Quek Wee Siong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Anbalagan Thangarajah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -224,7 +232,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Lee Yun Yun Cassandraw</p>
+<p>Miss Lee Yun Yun Cassandra</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/ PE &amp; CCA</p>
