@@ -119,5 +119,6 @@ when purchasing your child's uniforms online.</p>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.692784666673!2d103.85375107664777!3d1.3609773986261444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da170332192abb%3A0x220f2ddc96764b2a!2sJeep%20Sing%20Fashion!5e0!3m2!1sen!2ssg!4v1765787131058!5m2!1sen!2ssg"></iframe>
 </div>
-<p></p>
+<p>For information on available financial assistance schemes, please refer
+to this <a href="https://www.guangyangsec.moe.edu.sg/parents/fas/" rel="noopener nofollow" target="_blank">page</a>.</p>
 <p></p>
