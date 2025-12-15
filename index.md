@@ -30,7 +30,7 @@ sections:
         22/12/25), first day details, Parent Talk, getting to school and school
         hours."
       button: VIEW MORE DETAILS
-      url: https://guangyangsec.moe.edu.sg/sec-1-briefing-online/
+      url: https://guangyangsec.moe.edu.sg/sec-1-adminbrief-online/
       image: /images/Sec_1_2026_Information__1080_x_1080_px_.png
       alt: Image alt text
 ---
