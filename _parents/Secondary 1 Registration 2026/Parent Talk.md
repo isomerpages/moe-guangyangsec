@@ -5,13 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Secondary 1 Registration 2026
 ---
-<h3><strong>Parents Talk (Face-to-Face)</strong></h3>
+<h3><strong>Building a Strong Foundation Together: Sec 1 Parent Talk (Face-to-Face)</strong></h3>
 <p><strong>Date:</strong> Wednesday, 7 January 2026
 <br><strong>Time:</strong> 1.00pm to 2.00pm</p>
 <p>Parents are warmly invited to attend this important session. Topics covered
 will include:</p>
-<p>Student Welfare Team (Counselling &amp; Special Educational Needs)</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Student Well-Being (Counselling &amp; Special Educational Needs)</p>
+</li>
 <li>
 <p>Co-Curricular Activities (CCA)</p>
 </li>
