@@ -68,7 +68,7 @@ titles and editions. All sales are final (no cash refunds).</p>
 <p><strong>Enquiries:</strong> 97379816 or 91061391 (Mon-Fri, 9am-4pm)</p>
 <hr>
 <p></p>
-<h3><strong>School Uniform Vendor: </strong></h3>
+<h3><strong>School Uniform Vendor:</strong></h3>
 <h3><strong>Jeep Sing Fashion</strong></h3>
 <h4><strong>For Secondary 1 2026 Students &amp; Existing Students:</strong></h4>
 <p>Walk-in uniform purchase is available at the school site. We strongly
