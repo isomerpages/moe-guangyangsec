@@ -27,7 +27,8 @@ about your child's transition to secondary school.</p>
 <br>What to expect, what to bring, and the schedule for your child/ ward's
 first week.</p>
 <p><strong><a href="https://guangyangsec.moe.edu.sg/getting-to-school/" rel="noopener nofollow" target="_blank">Getting to School</a></strong>
-<br>Drop-off points, safety, main gate and side gate information.</p>
+<br>Bus routes, walking directions, driving drop-off/pick-up points, and gate
+information.</p>
 <p><strong><a href="https://guangyangsec.moe.edu.sg/parents-talk/" rel="noopener nofollow" target="_blank">Building a Strong Foundation Together: Sec 1 Parent Talk (7 January 2026)</a></strong>
 <br>Join us for an important face-to-face session covering student welfare,
 CCAs, academics and more.</p>
