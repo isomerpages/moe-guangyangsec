@@ -28,7 +28,7 @@ guide students)</p>
 <p>Full school uniform</p>
 </li>
 <li>
-<p>White canvas shoes or plain-coloured track shoes</p>
+<p>White canvas shoes or plain-coloured track shoes (black or dark-coloured)</p>
 </li>
 <li>
 <p>Plain white socks (visible socks must be plain white only)</p>
