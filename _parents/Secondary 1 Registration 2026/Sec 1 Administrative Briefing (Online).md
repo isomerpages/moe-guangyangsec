@@ -37,7 +37,7 @@ CCAs, academics and more.</p>
 is absent.</p>
 <p><strong><a href="https://www.guangyangsec.moe.edu.sg/parents/uniform/" rel="noopener nofollow" target="_blank">Bookshop &amp; Canteen Vendor</a></strong>
 <br>Bookshop and canteen vendor information for book and uniform purchases.</p>
-<p><strong><a href="https://www.guangyangsec.moe.edu.sg/students/booklist/" rel="noopener nofollow" target="_blank">Booklists 2026</a></strong>
+<p><strong><a href="https://www.guangyangsec.moe.edu.sg/files/Booklist/GYSS_Booklist_2026___Secondary_1.pdf" rel="noopener nofollow" target="_blank">Booklist 2026</a></strong>
 <br>To download a copy of Sec 1 booklist for 2026.</p>
 <p><strong><a href="https://www.guangyangsec.moe.edu.sg/parents/fas/" rel="noopener nofollow" target="_blank">Financial Assistance </a></strong>
 <br>For more information on application of MOE-FAS available to support you
