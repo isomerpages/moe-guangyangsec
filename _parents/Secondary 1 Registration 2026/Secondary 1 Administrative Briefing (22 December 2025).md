@@ -28,7 +28,7 @@ about your child's transition to secondary school.</p>
 first week.</p>
 <p><strong><a href="https://guangyangsec.moe.edu.sg/getting-to-school/" rel="noopener nofollow" target="_blank">Getting to School (Drop off and Gates)</a></strong>
 <br>Drop-off points, safety, main gate and side gate information.</p>
-<p><strong><a href="https://guangyangsec.moe.edu.sg/parents-talk/" rel="noopener nofollow" target="_blank">Building a Strong Foundation Together: Sec 1 Parent Talk (7 January)</a></strong>
+<p><strong><a href="https://guangyangsec.moe.edu.sg/parents-talk/" rel="noopener nofollow" target="_blank">Building a Strong Foundation Together: Sec 1 Parent Talk (7 January 2026)</a></strong>
 <br>Join us for an important face-to-face session covering student welfare,
 CCAs, academics and more.</p>
 <p><strong><a href="https://guangyangsec.moe.edu.sg/school-hours-attendance/" rel="noopener nofollow" target="_blank">School Hours &amp; Attendance</a></strong>
@@ -41,7 +41,3 @@ is absent.</p>
 <p><strong><a href="https://www.guangyangsec.moe.edu.sg/parents/fas/" rel="noopener nofollow" target="_blank">Financial Assistance </a></strong>
 <br>For more information on application of MOE-FAS available to support you
 and your child/ ward.</p>
-<p></p>
-<p>
-<br>
-</p>
