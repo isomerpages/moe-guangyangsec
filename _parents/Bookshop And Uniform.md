@@ -4,9 +4,7 @@ permalink: /parents/uniform/
 description: ""
 variant: tiptap
 ---
-<h3>Book Shop Vendor</h3>
-<p><strong>D Y Education Service Trading</strong>
-</p>
+<h3><strong>Book Shop Vendor: D Y Education Service Trading</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -43,56 +41,45 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>School Uniform Vendor</h3>
-<p><strong>Jeep Sing Fashion</strong>
+<h4><strong>For Secondary 1 2026 Students &amp; Existing Students:</strong></h4>
+<p>Purchase books online at <a href="https://dyeducation.net" rel="noopener noreferrer nofollow" target="_blank"><u>https://dyeducation.net</u></a> (Password:
+668833) and to opt for home delivery at a nominal fee of $12. Alternatively,
+you may walk in at the school bookshop.</p>
+<p><strong>Walk-in Purchase Guidelines</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Address:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Blk 4012 Ang Mo Kio Avenue 10
-<br>#01-08/09
-<br>Techplace 1 Singapore 569628</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Website to purchase uniform:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://jeepsinguniform.com/collections/guangyang-secondary-school" rel="noreferrer noopener" target="_blank">Link</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Tel:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>64563198
-<br>Monday to Friday 10 am to 6 pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Opening Hours:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sat 10 am to 2 pm
-<br>Closed on Sunday and Public Holiday</p>
-</td>
-</tr>
-</tbody>
-</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tick required items on your booklist before approaching staff.</p>
+</li>
+<li>
+<p>One parent should accompany the student.</p>
+</li>
+<li>
+<p>Check items before leaving the counter.</p>
+</li>
+<li>
+<p>Keep your booklist as receipt.</p>
+</li>
+</ul>
+<p><strong>Payment:</strong> Cash, NETS, PayNow, NTUC Back to School Voucher,
+CDAC Voucher</p>
+<p><strong>Important:</strong> Purchase from the school bookshop for correct
+titles and editions. All sales are final (no cash refunds).</p>
+<p><strong>Enquiries:</strong> 97379816 or 91061391 (Mon-Fri, 9am-4pm)</p>
+<hr>
+<p></p>
+<h3><strong>School Uniform Vendor: </strong></h3>
+<h3><strong>Jeep Sing Fashion</strong></h3>
+<h4><strong>For Secondary 1 2026 Students &amp; Existing Students:</strong></h4>
+<p>Walk-in uniform purchase is available at the school site. We strongly
+encourage parents to visit the school on the allocated dates to avoid peak-season
+crowds and ensure accurate sizing and availability.</p>
+<p>Please refer to the table below for dates, time, and venue.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Uniform_Purchase.png">
+</div>
+<p><strong>Please bring:</strong> Your best-fitted garment for size comparison</p>
+<p><strong>Payment:</strong> Cash, PayNow, or PayLah!</p>
+<p><strong>Note:</strong> Students may wear the polo-tee with uniform bottoms
+daily except Wednesdays (full uniform required).</p>
 <p></p>
