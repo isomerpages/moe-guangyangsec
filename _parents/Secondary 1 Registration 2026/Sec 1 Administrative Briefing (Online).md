@@ -35,8 +35,8 @@ CCAs, academics and more.</p>
 <p><strong><a href="https://guangyangsec.moe.edu.sg/school-hours-attendance/" rel="noopener nofollow" target="_blank">School Hours &amp; Attendance</a></strong>
 <br>Regular school hours, reporting times, and what to do if your child/ ward
 is absent.</p>
-<p><strong><a href="https://www.guangyangsec.moe.edu.sg/parents/uniform/" rel="noopener nofollow" target="_blank">Bookshop &amp; Canteen Vendor</a></strong>
-<br>Bookshop and canteen vendor information for book and uniform purchases.</p>
+<p><strong><a href="https://www.guangyangsec.moe.edu.sg/parents/uniform/" rel="noopener nofollow" target="_blank">Bookshop &amp; Uniform Purchase</a></strong>
+<br>Details on where and how to purchase books and uniforms for your child.</p>
 <p><strong><a href="https://www.guangyangsec.moe.edu.sg/files/Booklist/GYSS_Booklist_2026___Secondary_1.pdf" rel="noopener nofollow" target="_blank">Booklist 2026</a></strong>
 <br>To download a copy of Sec 1 booklist for 2026.</p>
 <p><strong><a href="https://www.guangyangsec.moe.edu.sg/parents/fas/" rel="noopener nofollow" target="_blank">Financial Assistance </a></strong>
