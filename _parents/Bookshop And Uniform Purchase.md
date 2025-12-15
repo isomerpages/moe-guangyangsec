@@ -46,7 +46,7 @@ variant: tiptap
 </table>
 <p><strong>Walk-in Purchase Guidelines</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>Tick required items on your booklist before approaching staff.</p>
 </li>
@@ -59,7 +59,7 @@ variant: tiptap
 <li>
 <p>Keep your booklist as receipt.</p>
 </li>
-</ul>
+</ol>
 <p><strong>Payment:</strong> Cash, NETS, PayNow, NTUC Back to School Voucher,
 CDAC Voucher</p>
 <p><strong>Important:</strong> Purchase from the school bookshop for correct
