@@ -36,6 +36,6 @@ will include:</p>
 <hr>
 <h3><strong>Orientation Finale and Initiation Ceremony</strong></h3>
 <p><strong>Time:</strong> 2.30pm to 4.30pm</p>
-<p>Following the Parents Talk, parents are invited to stay for the Orientation
+<p>Following the Parent Talk, parents are invited to stay for the Orientation
 Finale and Initiation Ceremony, where your child will be officially welcomed
 into the school community.</p>
