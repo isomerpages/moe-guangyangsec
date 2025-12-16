@@ -10,27 +10,46 @@ third_nav_title: Sec 1 Registration 2026
 <br><strong>Time:</strong> 1.00pm to 2.00pm</p>
 <p>Parents are warmly invited to attend this important session. Topics covered
 will include:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Student Support &amp; Well-Being</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Student Well-Being (Counselling &amp; Special Educational Needs)</p>
+<p>Student Well-Being (Including counselling services and SEN matters)</p>
+</li>
+</ul>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Character &amp; Personal Development</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Co-Curricular Activities (CCAs)</p>
 </li>
 <li>
-<p>Co-Curricular Activities (CCA)</p>
+<p>Student Development Experiences (SDEs)</p>
 </li>
 <li>
 <p>Discipline</p>
 </li>
+</ul>
+<ol start="3" data-tight="true" class="tight">
 <li>
-<p>Personal Learning Devices (PLDs)</p>
+<p>Learning &amp; Academic Development</p>
 </li>
-<li>
-<p>Blended Learning</p>
-</li>
+</ol>
+<ul data-tight="true" class="tight">
 <li>
 <p>Academic Matters</p>
 </li>
 <li>
-<p>Student Development Experiences</p>
+<p>EdTech – Personalised Digital Learning Programme (PDLP)</p>
+</li>
+<li>
+<p>Blended Learning</p>
 </li>
 </ul>
 <hr>
