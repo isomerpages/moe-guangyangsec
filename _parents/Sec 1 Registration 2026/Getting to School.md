@@ -74,15 +74,15 @@ third_nav_title: Sec 1 Registration 2026
 </tr>
 </tbody>
 </table>
-<p>The school is about a 12 minute walk from Bishan Interchange.</p>
+<p>The school is about a 12-minute walk from Bishan Interchange.</p>
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3988.7139762200804!2d103.84954022664776!3d1.3481036986391506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x31da17cde91ea65f%3A0xddc737c546b8a3e2!2sBishan%20Street%2013%2C%20Bishan%20Bus%20Interchange%2C%20Singapore!3m2!1d1.3510971999999999!2d103.849937!4m5!1s0x31da176b51a85b3b%3A0xb8a473a25764b8d0!2s8%20Bishan%20Street%2012%2C%20Guangyang%20Secondary%20School%2C%20Singapore%20579807!3m2!1d1.3452267999999998!2d103.85055849999999!5e0!3m2!1sen!2ssg!4v1765772545174!5m2!1sen!2ssg"></iframe>
 </div>
 <h4><strong>By Driving</strong></h4>
-<p>If you are driving or have arranged private transport for your child,
-please use the designated drop-off/ pick-up points at the front gate. Students
-will enter through the smaller gate from there. Vehicles are not permitted
-to enter the school compound.</p>
+<p>If you are driving or have arranged private transport for your child/
+ward, please use the designated drop-off/ pick-up points at the front gate.
+Students will enter through the smaller gate from there. Vehicles are not
+permitted to enter the school compound.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drop_off_1.png">
 </div>
@@ -126,7 +126,7 @@ on the opposite side of the road.</p>
 </table>
 <p>Students arriving from Braddell Road/ Bishan flyover should use the designated
 side gate into the school compound. Please note that this route includes
-an uncovered walkway, so students are advised to bring an umbrella during
+an uncovered walkway. Students are advised to bring an umbrella during
 rainy weather.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Side_Gate2.png">
