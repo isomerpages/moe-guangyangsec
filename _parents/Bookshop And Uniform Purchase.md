@@ -4,9 +4,9 @@ permalink: /parents/uniform/
 description: ""
 variant: tiptap
 ---
-<h3><strong>For All Students (including Secondary 1 2026 Students)</strong></h3>
-<h3><strong>Book Shop Vendor: D Y Education Service Trading</strong></h3>
-<h4>Booklists 2026 can be found in the following <a href="https://www.guangyangsec.moe.edu.sg/students/booklist/" rel="noopener nofollow" target="_blank">link</a>.</h4>
+<h3><strong>For All Students (including 2026 Secondary 1 Students)</strong></h3>
+<h3><strong>Bookshop Vendor: D Y Education Service Trading</strong></h3>
+<h4>Booklists for 2026 can be found at the following <a href="https://www.guangyangsec.moe.edu.sg/students/booklist/" rel="noopener nofollow" target="_blank">link</a>.</h4>
 <h4><strong>In-school Purchase</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -16,7 +16,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Bookshop’s Location:</strong>
+<p><strong>Bookshop Location:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,8 +78,8 @@ $12.</p>
 </p>
 </li>
 <li>
-<p>Filter by your child's level (Secondary 1/ 2/ 3/ 4/ 5) and stream (G1/
-G2/ G3) to view the correct books.</p>
+<p>Filter by your child's level (Secondary 1/ 2/ 3/ 4/ 5) and subject level
+(G1/ G2/ G3) to view the correct books.</p>
 </li>
 <li>
 <p>Add selected books to cart.</p>
