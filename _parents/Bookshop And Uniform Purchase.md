@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3><strong>For All Students (including 2026 Secondary 1 Students)</strong></h3>
 <h4><strong>Purchase of School Uniforms and Textbooks (In School)</strong></h4>
-<h4>Soft copy booklists for 2026 can be found at the following <a href="https://www.guangyangsec.moe.edu.sg/students/booklist/" rel="noopener nofollow" target="_blank">link</a>. Hard copies are also available on site. </h4>
+<h4>Soft copy booklists for 2026 can be found at the following <a href="https://www.guangyangsec.moe.edu.sg/students/booklist/" rel="noopener nofollow" target="_blank">link</a>. Hard copies are also available on site.</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -140,7 +140,7 @@ approach our friendly staff in the General Office.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://dyeducation.net/gyss/?password-protected=login&amp;redirect_to=https%3A%2F%2Fdyeducation.net%2Fgyss%2F" rel="noopener nofollow" target="_blank">Purchase books here</a>
 </p>
-<p>(Enter password: <strong>68833</strong>)</p>
+<p>(Enter password: <strong>668833</strong>)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://jeepsinguniform.com/collections/guangyang-secondary-school" rel="noopener nofollow" target="_blank">Purchase school uniform here</a>
