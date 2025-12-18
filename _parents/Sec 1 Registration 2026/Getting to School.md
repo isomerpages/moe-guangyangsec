@@ -219,7 +219,4 @@ an uncovered walkway.</p>
 <h4><strong>Wet Weather</strong></h4>
 <p>In the event of wet weather, please note that the side gate will be closed.
 For their safety, students are to walk through the sheltered blocks, Block
-135A HDB Bishan (MSCP) and sheltered walk way leading to the main gate.
-<br>
-</p>
-<p></p>
+135A HDB Bishan (MSCP) and sheltered walk way leading to the main gate.</p>
