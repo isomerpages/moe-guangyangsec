@@ -23,14 +23,14 @@ sections:
       alignment: left
       backgroundColor: gray
   - infopic:
-      title: Virtual Open House
-      subtitle: Missed our Open House?
+      title: Welcome to GYSS!
+      subtitle: Important Information
       id: infopic
-      description: Thank you for your interest in GYSS! Check out our recording of our
-        virtual open house to find out more on why GYSS is the school for your
-        child.
-      image: /images/WhatsApp_Image_2025_11_22_at_12_37_53_PM.jpg
-      url: https://youtu.be/NRpOGs70cek
-      button: WATCH VIRTUAL OPEN HOUSE HERE
-      alt: WATCH VIRTUAL OPEN HOUSE HERE
+      description: "For new Sec 1 parents: Sec 1 Administrative Briefing (online,
+        22/12/25), first day details, Parent Talk, getting to school and school
+        hours."
+      button: VIEW MORE DETAILS
+      url: https://guangyangsec.moe.edu.sg/sec-1-adminbrief-online/
+      image: /images/Sec_1_2026_Information__1080_x_1080_px_.png
+      alt: Image alt text
 ---
