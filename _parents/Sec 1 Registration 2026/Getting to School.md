@@ -209,7 +209,7 @@ on the opposite side of the road.</p>
 <p><strong>Note:</strong>
 </p>
 <p>*Mondays are late start days, with morning assembly starting at 8.30 am.</p>
-<p><sup>^</sup>Students end Fridays at 12.30 pm.</p>
+<p><sup>^</sup>Students end lessons on Fridays at 12.30 pm.</p>
 <p>Students arriving from Braddell Road/ Bishan flyover should use the designated
 side gate into the school compound. Please note that this route includes
 an uncovered walkway.</p>
