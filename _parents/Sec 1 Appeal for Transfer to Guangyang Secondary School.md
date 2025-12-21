@@ -47,4 +47,6 @@ unsuccessful if you do not receive an offer from the school by 9 January
 </li>
 </ul>
 <h4><strong>Access the appeal form </strong><a href="https://form.gov.sg/69265d1a3f08ea7a63eea47e" rel="noopener nofollow" target="_blank">here</a><strong>.</strong></h4>
+<p><a href="https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=guangyang-secondary-school" rel="noopener nofollow" target="_blank">SchoolFinder: Guangyang Secondary School</a>
+</p>
 <p></p>

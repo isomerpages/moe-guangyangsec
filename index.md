@@ -23,6 +23,16 @@ sections:
       alignment: left
       backgroundColor: gray
   - infopic:
+      title: "Setting the Foundation: Sec 1 Online Administrative Briefing"
+      subtitle: ONLINE MEETING DETAILS
+      id: infopic
+      description: Please join us for an online briefing where we will share important
+        information about your child's transition to Guangyang Secondary School.
+      button: CLICK TO JOIN MEETING
+      url: https://go.gov.sg/gysec12026
+      image: /images/Sec_1_2026_Information__1080_x_1080_px___1_.png
+      alt: Image alt text
+  - infopic:
       title: Welcome to GYSS!
       subtitle: Important Information
       id: infopic
