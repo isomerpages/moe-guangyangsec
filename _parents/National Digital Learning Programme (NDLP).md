@@ -245,14 +245,6 @@ Centre</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Digital Wellness &amp; Safety</strong>
 </p>
@@ -282,15 +274,33 @@ Centre</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://file.go.gov.sg/parent-guide-genai.pdf" rel="noopener nofollow" target="_blank">A Parent's Guide to Generative AI Tools for Learning</a>
+<p><a href="/files/IP2___Parent_Handbook__I__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbooks (I) on Learning with a Personal Learning Device</a>
 </p>
 </li>
 <li>
-<p><a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I) for Learning with PLD</a>
+<p><a href="/files/IP3___Parent_Handbook__II__2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbooks (II) on Learning with a Personal Learning Device</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>AI Guidelines and Tools</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/knowgets-ai-chatbot" rel="noopener nofollow" target="_blank">“Is AI Chatbot My Friend” Knowgets Video</a>
 </p>
 </li>
 <li>
-<p><a href="/files/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II) for Learning with PLD</a>
+<p><a href="https://go.gov.sg/ai-parent-info" rel="noopener nofollow" target="_blank">AI &amp; Your Child Should parents guide or guard against AI?</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/parent-guide-genai" rel="noopener nofollow" target="_blank">Using GenAI tools for Learning:  A Parent’s Guide</a>
 </p>
 </li>
 </ul>
@@ -298,4 +308,5 @@ Centre</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>You may find more resources from MOE and othe agencies on resources repository
+in Parents Gateway.</p>
