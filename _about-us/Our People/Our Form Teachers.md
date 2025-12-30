@@ -38,7 +38,7 @@ variant: tiptap
 <p>1-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Calvin Cheng</p>
+<p>Miss Tew Li Li</p>
 </td>
 </tr>
 <tr>
@@ -46,7 +46,15 @@ variant: tiptap
 <p>1-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Michelle Sam</p>
+<p>Clarrance Seah Jing Xiong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Meng Hoo</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +62,7 @@ variant: tiptap
 <p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chuang Chea Chee</p>
+<p>Mdm Ratna Selvadurai</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +70,15 @@ variant: tiptap
 <p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Loh- Teo Siew Khim Kim</p>
+<p>Mr Sean Lim Jia Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Terence Ng Kok Chuan</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +86,7 @@ variant: tiptap
 <p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms S Sasirega</p>
+<p>Ms Puvaneswarri D/O Hocoonan</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +94,7 @@ variant: tiptap
 <p>1-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andrew Yeo</p>
+<p>Dr Sanuse Bin Nasir</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +102,7 @@ variant: tiptap
 <p>1-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Jasmine Liew</p>
+<p>Mr Nicholas Ang Chye Huat</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +110,15 @@ variant: tiptap
 <p>1-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Somsadeen</p>
+<p>Ms Wang Yixin Helen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yong Kwong Fui</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +126,7 @@ variant: tiptap
 <p>1-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nicole Lai</p>
+<p>Mr Gervasio Raphael Francisco Escasa</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +134,7 @@ variant: tiptap
 <p>1-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lily Lim</p>
+<p>Ms Mardiana Binte Jamaludin</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +142,7 @@ variant: tiptap
 <p>1-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kok Siang</p>
+<p>Mr Chan Ze Wei</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +150,7 @@ variant: tiptap
 <p>1-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Haniza</p>
+<p>Ms Choo Hui Min Cheryl</p>
 </td>
 </tr>
 </tbody>
