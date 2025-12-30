@@ -27,5 +27,5 @@ sections:
       id: infobar
       description: First Day of School Information
       button: Click here
-      url: www.guangyangsec.moe.edu.sg/first-week-of-school/
+      url: https://www.guangyangsec.moe.edu.sg/first-week-of-school/
 ---
