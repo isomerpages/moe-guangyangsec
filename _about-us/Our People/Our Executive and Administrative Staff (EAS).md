@@ -166,7 +166,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Roseliyana Binte Amin</p>
+<p>Ms Siti Roseliyana Amin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Education Needs Officer (SEN)</p>
