@@ -401,7 +401,7 @@ variant: tiptap
 </div>
 </details>
 </div>
-<h5>Sec 4 Year head : Mr Ronald Pung</h5>
+<h5>Sec 4 Year head : Mr S B Sivaganesh</h5>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Sec 4 Form Teachers</strong>
@@ -418,7 +418,7 @@ variant: tiptap
 <p>4E1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ryan Lim</p>
+<p>Mrs Ling-Seet Soo Huay</p>
 </td>
 </tr>
 <tr>
@@ -426,7 +426,7 @@ variant: tiptap
 <p>4E1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharrel Chew</p>
+<p>Mdm Yusmawati Binte Abdul Rahman</p>
 </td>
 </tr>
 <tr>
@@ -434,7 +434,7 @@ variant: tiptap
 <p>4E2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mavis Lee</p>
+<p>Ms Tan Yue Yun</p>
 </td>
 </tr>
 <tr>
@@ -442,7 +442,7 @@ variant: tiptap
 <p>4E2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Trevor Teo</p>
+<p>Mrs Kamali Balan-Sebina</p>
 </td>
 </tr>
 <tr>
@@ -450,7 +450,7 @@ variant: tiptap
 <p>4E3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nicholas Ang</p>
+<p>Mrs Cheng Peng Koon Emily</p>
 </td>
 </tr>
 <tr>
@@ -458,23 +458,7 @@ variant: tiptap
 <p>4E3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Tew Li Li</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4E4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Loh Zhang Wen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4E4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Puvaneswarri</p>
+<p>Mdm Ong Qiulin</p>
 </td>
 </tr>
 <tr>
@@ -482,7 +466,7 @@ variant: tiptap
 <p>4N1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Wee Yap</p>
+<p>Mdm Adaikalasamy Sagayarani</p>
 </td>
 </tr>
 <tr>
@@ -490,12 +474,60 @@ variant: tiptap
 <p>4N1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shan Qi</p>
+<p>Mrs Chia-Chew Chia Ling Sharrel</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>4N2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tengku Rashida</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4N2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lan Yingjie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4N3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Ee Ling Janelle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4N3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Asnah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4T1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Wong-Lee Lye Fun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4T1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nailul Shakhira</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5N1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kok Woon Poh</p>
@@ -503,58 +535,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4N2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Juma Bee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4N3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Zheng Jie</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4N3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Cinda Wee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4T1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Mardiana</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4T1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ruth Koh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>5N1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Sanuse</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5N1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Vasuki</p>
+<p>Miss Ang Hui Leng</p>
 </td>
 </tr>
 </tbody>
