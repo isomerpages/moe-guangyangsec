@@ -45,14 +45,6 @@ third_nav_title: Our People
 <p>Vice-Principal</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Anbalagan Thangarajah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal (Admin)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3><strong>SSD/HOD/YH/AYH/SH</strong></h3>
