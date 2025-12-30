@@ -158,7 +158,7 @@ variant: tiptap
 </div>
 </details>
 </div>
-<h5>Sec 2 Year head : Mrs Eugenia Fam-Loh</h5>
+<h5>Sec 2 Year head : Mr Chin Wei Chiat, Alvis</h5>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Sec 2 Form Teachers</strong>
@@ -176,7 +176,7 @@ variant: tiptap
 <p>2-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Eleri Lin</p>
+<p>Mr Chong Teck Siong, Daryl</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +184,7 @@ variant: tiptap
 <p>2-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Gu Yuehong</p>
+<p>Ms Tan Shu Wen Suvenna</p>
 </td>
 </tr>
 <tr>
@@ -192,7 +192,7 @@ variant: tiptap
 <p>2-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Daphne Wee</p>
+<p>Mr Cheng Yue Chiang Calvin</p>
 </td>
 </tr>
 <tr>
@@ -200,7 +200,7 @@ variant: tiptap
 <p>2-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Suvenna Tan</p>
+<p>Mr Trevor Teo Yoke Link</p>
 </td>
 </tr>
 <tr>
@@ -208,7 +208,7 @@ variant: tiptap
 <p>2-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Grace Teo</p>
+<p>Miss Chuang Chea Chee</p>
 </td>
 </tr>
 <tr>
@@ -216,7 +216,7 @@ variant: tiptap
 <p>2-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheryl Choo</p>
+<p>Ms Wee Huan Shian Daphne</p>
 </td>
 </tr>
 <tr>
@@ -224,7 +224,7 @@ variant: tiptap
 <p>2-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Justin Tan</p>
+<p>Mr Yeo Yew Hwee, Andrew</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +232,7 @@ variant: tiptap
 <p>2-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gervasio Raphael</p>
+<p>Ms S Sasirega</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +240,7 @@ variant: tiptap
 <p>2-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ratna Selvadurai</p>
+<p>Ms Jasmine Liew Yee Theng</p>
 </td>
 </tr>
 <tr>
@@ -248,7 +248,7 @@ variant: tiptap
 <p>2-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Eunice Low</p>
+<p>Mr Mohamed Somsadeen</p>
 </td>
 </tr>
 <tr>
@@ -256,7 +256,7 @@ variant: tiptap
 <p>2-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nailul Shakhira</p>
+<p>Miss Lily Lim</p>
 </td>
 </tr>
 <tr>
@@ -264,7 +264,23 @@ variant: tiptap
 <p>2-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chinnappa Ponnuswamy Kavitha</p>
+<p>Ms Lai Yu Cheng Nicole</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Haniza Binte Abdul Manan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Vasuki Rengasamy</p>
 </td>
 </tr>
 </tbody>
