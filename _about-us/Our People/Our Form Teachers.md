@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h5>Sec 1 Year head : Mr Alvis Chin</h5>
+<h5>Sec 1 Year head : Mr Pung Chin Ee Ronald</h5>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Sec 1 Form Teachers</strong>
@@ -22,7 +22,7 @@ variant: tiptap
 <p>1-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daryl Chong</p>
+<p>Mrs Loh-Teo Siew Khim Kim</p>
 </td>
 </tr>
 <tr>
@@ -30,7 +30,7 @@ variant: tiptap
 <p>1-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lan Yingjie</p>
+<p>Ms Shan Qi</p>
 </td>
 </tr>
 <tr>
