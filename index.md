@@ -22,15 +22,4 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-  - infopic:
-      title: Welcome to GYSS!
-      subtitle: Important Information
-      id: infopic
-      description: "For new Sec 1 parents: Sec 1 Administrative Briefing (online,
-        22/12/25), first day details, Parent Talk, getting to school and school
-        hours."
-      button: VIEW MORE DETAILS
-      url: https://guangyangsec.moe.edu.sg/sec-1-adminbrief-online/
-      image: /images/Sec_1_2026_Information__1080_x_1080_px_.png
-      alt: Image alt text
 ---
