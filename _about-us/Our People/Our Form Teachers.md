@@ -288,7 +288,7 @@ variant: tiptap
 </div>
 </details>
 </div>
-<h5>Sec 3 Year head : Mr S B Sivaganesh</h5>
+<h5>Sec 3 Year head : Mrs Fam-Loh Mei Ting Eugenia</h5>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Sec 3 Form Teachers</strong>
@@ -302,130 +302,98 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E1</p>
+<p>3-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ling-Seet Soo Huay</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3E1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yusmawati</p>
+<p>Mdm Wee Shung Yhing Cinda</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E1</p>
+<p>3-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Balielah Al-Khadhra'</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3E2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Kamali</p>
+<p>Mr Zheng Jie</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E2</p>
+<p>3-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yue Yun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3E3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ong Qiulin</p>
+<p>Miss Juma Bee Binte Abdul Rashid</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E3</p>
+<p>3-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Emily Cheng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3N1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Adaikalasamy Sagayarani</p>
+<p>Mr Lee Chong Min</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3N1</p>
+<p>3-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Nhor Sharafina</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3N2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Maizura</p>
+<p>Ms Teo Ping Ting Grace</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3N2</p>
+<p>3-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tengku Rashida</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3N3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Asnah</p>
+<p>Mr Koh Wee Yap</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3N3</p>
+<p>3-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Janelle Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3T1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Angeline Liu</p>
+<p>Miss Lin Zhenfang Eleri</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3T1</p>
+<p>3-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Lye Fun</p>
+<p>Ms Liu Jiahao</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3T1</p>
+<p>3-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Kia Yeow</p>
+<p>Mdm Lee Chen Hoon, Mavis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Gu Yuehong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Low Sook Han, Eunice</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chinnappa Ponnuswamy Kavitha</p>
 </td>
 </tr>
 </tbody>
