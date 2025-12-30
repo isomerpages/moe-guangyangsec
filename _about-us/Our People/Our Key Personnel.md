@@ -45,14 +45,6 @@ third_nav_title: Our People
 <p>Vice-Principal</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Anbalagan Thangarajah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal (Admin)</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3><strong>SSD/HOD/YH/AYH/SH</strong></h3>
@@ -112,7 +104,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Lay Koon</p>
+<p>Mdm Devi Lokanathan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department/ Information Communication Technology</p>
@@ -144,6 +136,14 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Pung Chin Ee Ronald</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department / PE&amp;CCA (Cov) &amp; Assistant Year Head (Sec 1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Fam-Loh Mei Ting Eugenia</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -164,14 +164,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department/ Student Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Pung Chin Ee Ronald</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 1)</p>
 </td>
 </tr>
 <tr>
@@ -219,7 +211,7 @@ third_nav_title: Our People
 <p>Mr Tan Bing Quan Justin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ Information Communication Technology (Cov)</p>
+<p>Subject Head/ Information Communication Technology</p>
 </td>
 </tr>
 <tr>
