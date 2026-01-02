@@ -47,21 +47,19 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Sec 3 Sem 2 (all class)</summary>
+<summary>Sec 3 Sem 1 (all class)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_3E1.pdf" rel="noopener nofollow" target="_blank">Sem 2 3E1</a>
+<p><a href="/files/School timetable/SEM 1_2025/2026_Sem1_TT__31Dec_3_1.pdf" rel="noopener nofollow" target="_blank">Sem 1 3-1</a>
 </p>
-<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_3E2.pdf" rel="noopener nofollow" target="_blank">Sem 2 3E2</a>
+<p><a href="/files/School timetable/SEM 1_2025/2026_Sem1_TT__31Dec_3_2.pdf" rel="noopener nofollow" target="_blank">Sem 1 3-2</a>
 </p>
-<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_3E3.pdf" rel="noopener nofollow" target="_blank">Sem 2 3E3</a>
+<p><a href="/files/School timetable/SEM 1_2025/2026_Sem1_TT__31Dec_3_3.pdf" rel="noopener nofollow" target="_blank">Sem 1 3-3</a>
 </p>
-<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_3N1.pdf" rel="noopener nofollow" target="_blank">Sem 2 3N1</a>
+<p><a href="/files/School timetable/SEM 1_2025/2026_Sem1_TT__31Dec_3_4.pdf" rel="noopener nofollow" target="_blank">Sem 1 3-4</a>
 </p>
-<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_3N2.pdf" rel="noopener nofollow" target="_blank">Sem 2 3N2</a>
+<p><a href="/files/School timetable/SEM 1_2025/2026_Sem1_TT__31Dec_3_5.pdf" rel="noopener nofollow" target="_blank">Sem 1 3-5</a>
 </p>
-<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_3N3.pdf" rel="noopener nofollow" target="_blank">Sem 2 3N3</a>
-</p>
-<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_3T1.pdf" rel="noopener nofollow" target="_blank">Sem 2 3T1</a>
+<p><a href="/files/School timetable/SEM 1_2025/2026_Sem1_TT__31Dec_3_6.pdf" rel="noopener nofollow" target="_blank">Sem 1 3-6</a>
 </p>
 </div>
 </details>
