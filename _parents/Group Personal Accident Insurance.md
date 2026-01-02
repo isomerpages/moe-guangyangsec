@@ -12,7 +12,7 @@ Limited Group Personal Accident Insurance.</p>
 <p><a href="/files/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Insurance Fact Sheet</a>
 </p>
 <p>From 2025, all MOE GPA insurance claims must be submitted online at
-<a rel="noopener noreferrer nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>. This online system allows
+<a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener nofollow" target="_blank">https://studentgpa.incomegroupins.com.sg</a>. This online system allows
 you to track your claim status and ensures faster processing by Income
 Insurance Ltd.</p>
 <p>If you are unable to submit your claim online due to special circumstances,
