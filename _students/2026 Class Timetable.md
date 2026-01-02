@@ -64,26 +64,25 @@ variant: tiptap
 </div>
 </details>
 <details class="isomer-details">
-<summary>Sec 4 &amp; 5 Sem 2 (all class)</summary>
+<summary>Sec 4 &amp; 5 Sem 1 (all class)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_4E1.pdf" rel="noopener nofollow" target="_blank">Sem 2 4E1</a>
+<p><a href="/files/School timetable/SEM 1_2025/2026_Sem1_TT__31Dec_4E1.pdf" rel="noopener nofollow" target="_blank">Sem 1 4E1</a>
 </p>
-<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_4E2.pdf" rel="noopener nofollow" target="_blank">Sem 2 4E2</a>
+<p><a href="/files/School timetable/SEM 1_2025/2026_Sem1_TT__31Dec_4E2.pdf" rel="noopener nofollow" target="_blank">Sem 1 4E2</a>
 </p>
-<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_4E3.pdf" rel="noopener nofollow" target="_blank">Sem 2 4E3</a>
+<p><a href="/files/School timetable/SEM 1_2025/2026_Sem1_TT__31Dec_4E3.pdf" rel="noopener nofollow" target="_blank">Sem 1 4E3</a>
 </p>
-<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_4E4.pdf" rel="noopener nofollow" target="_blank">Sem 2 4E4</a>
+<p><a href="/files/School timetable/SEM 1_2025/2026_Sem1_TT__31Dec_4N1.pdf" rel="noopener nofollow" target="_blank">Sem 1 4N1</a>
 </p>
-<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_4N1.pdf" rel="noopener nofollow" target="_blank">Sem 2 4N1</a>
+<p><a href="/files/School timetable/SEM 1_2025/2026_Sem1_TT__31Dec_4N2.pdf" rel="noopener nofollow" target="_blank">Sem 1 4N2</a>
 </p>
-<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_4N2.pdf" rel="noopener nofollow" target="_blank">Sem 2 4N2</a>
+<p><a href="/files/School timetable/SEM 1_2025/2026_Sem1_TT__31Dec_4N3.pdf" rel="noopener nofollow" target="_blank">Sem 1 4N3</a>
 </p>
-<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_4N3.pdf" rel="noopener nofollow" target="_blank">Sem 2 4N3</a>
+<p><a href="/files/School timetable/SEM 1_2025/2026_Sem1_TT__31Dec_4T1.pdf" rel="noopener nofollow" target="_blank">Sem 1 4T1</a>
 </p>
-<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_4T1.pdf" rel="noopener nofollow" target="_blank">Sem 2 4T1</a>
+<p><a href="/files/School timetable/SEM 1_2025/2026_Sem1_TT__31Dec_5N1.pdf" rel="noopener nofollow" target="_blank">Sem 1 5N1</a>
 </p>
-<p><a href="/files/School timetable/SEM 2_2025/2025_Sem2_5D_Wk_Timetable__25Jun_CLASS_5N1.pdf" rel="noopener nofollow" target="_blank">Sem 2 5N1</a>
-</p>
+<p></p>
 </div>
 </details>
 </div>
