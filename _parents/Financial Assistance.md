@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p>At Guangyang Secondary School, we strive to ensure students’ potential
-to lead, think and advocate is nurtured without financial barriers. Singaporean
+to think, lead and advocate is nurtured without financial barriers. Singaporean
 students who need financial assistance may apply for MOE Financial Assistance
 Scheme (FAS) through the school.</p>
 <p><strong>Benefits Under MOE FAS</strong>
@@ -13,11 +13,11 @@ Scheme (FAS) through the school.</p>
 <p>• 100% subsidy of school and miscellaneous fees</p>
 <p>• Free textbooks and school attire</p>
 <p>• School meal subsidy for 10 meals per school week</p>
-<p>• Public transport subsidy of $17 per month (<strong>to be increased to $21 per month from Academic Year 2026</strong>)</p>
+<p>• Public transport subsidy of $17 per month</p>
 <p><strong>Income Criteria</strong>
 </p>
-<p>• The family's gross household income (GHI) does not exceed $3,000 per
-month; or per capita income (PCI) does not exceed $750 per month (<strong>the GHI will be raised to $4,000 per month and PCI to $1,000 per month from Academic Year 2026</strong>)</p>
+<p>• The family's gross household income (GHI) does not exceed $4,000 per
+month; or per capita income (PCI) does not exceed $1000 per month.</p>
 <p><strong>How to Apply</strong>
 </p>
 <p>Parents can submit their applications through online<a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank">&nbsp;e-FAS</a>&nbsp;application
