@@ -28,4 +28,10 @@ sections:
       description: First Day of School Information
       button: Click here
       url: https://www.guangyangsec.moe.edu.sg/first-week-of-school/
+  - infobar:
+      title: Students Timetable
+      id: infobar
+      description: Updated on 6 Jan 2026
+      button: Click here
+      url: https://www.guangyangsec.moe.edu.sg/students/timetable/
 ---
