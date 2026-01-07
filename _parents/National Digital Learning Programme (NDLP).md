@@ -178,7 +178,7 @@ jack port</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 repair and 1 replacement</p>
+<p>2 repair and 1 replacement</p>
 </td>
 </tr>
 <tr>
@@ -300,7 +300,7 @@ Centre</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/parent-guide-genai" rel="noopener nofollow" target="_blank">Using GenAI tools for Learning:  A Parent’s Guide</a>
+<p><a href="https://go.gov.sg/parent-guide-genai" rel="noopener nofollow" target="_blank">Using GenAI tools for Learning: A Parent’s Guide</a>
 </p>
 </li>
 </ul>
