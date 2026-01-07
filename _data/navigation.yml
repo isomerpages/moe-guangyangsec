@@ -3,18 +3,7 @@ links:
   - title: About Us
     collection: about-us
   - title: GYSS EXPERIENCE
-    url: /the-gyss-experience
-    sublinks:
-      - title: Key Cohort Activities
-        url: /leader/keycohortactivities/
-      - title: Applied Learning Programme
-        url: /thinker/alp/
-      - title: Full Subject Based Banding
-        url: /parents/fullsubjectbasedbanding/
-      - title: Our Curriculum
-        url: /thinker/cpa/
-      - title: Our Co-Curriculum
-        url: /thinker/lifelonglearning/
+    collection: the-gyss-experience
   - title: Parents
     collection: parents
   - title: Students
