@@ -4,6 +4,7 @@ permalink: /parents/fas/
 description: ""
 variant: tiptap
 ---
+<h4><strong>MOE Financial Assistance Scheme (FAS)</strong></h4>
 <p><strong>At Guangyang Secondary School</strong>, we strive to ensure students’
 potential to think, lead and advocate is nurtured without financial barriers.
 Singaporean students who need financial assistance may apply for MOE Financial
@@ -31,8 +32,7 @@ considered for School-based FAS.</p>
 a supportive environment where Guangyang students can develop their potential
 with confidence and resilience.</p>
 <p></p>
-<p><strong>The Straits Times School Pocket Money Fund (STSPMF)</strong>
-</p>
+<h4><strong>The Straits Times School Pocket Money Fund (STSPMF)</strong></h4>
 <p>The Straits Times School Pocket Money Fund (STSPMF) is a community project
 initiated by The Straits Times to provide pocket money to children from
 low-income families to help them through school. Secondary school student
@@ -57,9 +57,9 @@ meet other schooling needs.</p>
 </p>
 <p>Application forms are available from the school's General Office or can
 be downloaded in the link below:</p>
-<p><a href="/files/Annex_B___Income_declaration_form.pdf" rel="noopener nofollow" target="_blank">Income Declaration Form</a>
-</p>
 <p><a href="/files/Annex_A___2026_STSPMF_Application_Form_for_schools.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
+</p>
+<p><a href="/files/Annex_B___Income_declaration_form.pdf" rel="noopener nofollow" target="_blank">Income Declaration Form</a>
 </p>
 <p>Please submit completed application forms together with relevant supporting
 documents to the General Office by 13 February 2026.</p>
