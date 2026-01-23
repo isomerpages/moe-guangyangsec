@@ -49,11 +49,11 @@ meet other schooling needs.</p>
 <p>Family gross per capita income of $1,000 per month or less</p>
 </li>
 </ul>
-<p><strong>Application Details: </strong>
+<p><strong>Application Details:</strong>
 </p>
 <p>Applications are now open for newly enrolled Secondary 1 students until
 13 February 2026.</p>
-<p><strong>How to Apply: </strong>
+<p><strong>How to Apply:</strong>
 </p>
 <p>Application forms are available from the school's General Office or can
 be downloaded here.</p>
