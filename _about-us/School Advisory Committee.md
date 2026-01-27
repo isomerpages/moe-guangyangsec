@@ -38,17 +38,20 @@ day talk, sharing sessions with staff and financial assistance etc.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Honorary Treasurer:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Jasmeet Singh Khara</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
 <p></p>
 <p>Committee Members:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chen Yixin Edith</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Jasmeet Singh Khara</p>
 </td>
 </tr>
 <tr>
