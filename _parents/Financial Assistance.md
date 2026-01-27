@@ -48,6 +48,16 @@ meet other schooling needs.</p>
 <li>
 <p>Family gross per capita income of $1,000 per month or less</p>
 </li>
+<li>
+<p>Student must not be concurrently receiving school pocket money fund from
+another disbursing agency</p>
+</li>
+<li>
+<p>Student has not received the maximum 24 months of STSPMF assistance during
+their entire primary to secondary schooling years. For possible extension,
+please approach a social service agency near your residence: <a href="https://www.spmf.org.sg/howtoapply" rel="noopener noreferrer nofollow" target="_blank">https://www.spmf.org.sg/howtoapply</a>
+</p>
+</li>
 </ul>
 <p><strong>Application Details:</strong>
 </p>
