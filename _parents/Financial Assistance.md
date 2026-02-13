@@ -14,7 +14,7 @@ Assistance Scheme (FAS) through the school.</p>
 <p>• 100% subsidy of school and miscellaneous fees</p>
 <p>• Free textbooks and school attire</p>
 <p>• School meal subsidy for 10 meals per school week</p>
-<p>• Public transport subsidy of $17 per month</p>
+<p>• Public transport subsidy of $21 per month</p>
 <p><strong>Income Criteria</strong>
 </p>
 <p>• The family's gross household income (GHI) does not exceed $4,000 per
@@ -23,7 +23,7 @@ month; or per capita income (PCI) does not exceed $1000 per month.</p>
 </p>
 <p>Parents can submit their applications through online<a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank">&nbsp;e-FAS</a>&nbsp;application
 portal (<strong>SingPass required</strong>).</p>
-<p>Should students do not quality for MOE FAS, they will automatically be
+<p>Should students do not qualify for MOE FAS, they will automatically be
 considered for School-based FAS.</p>
 <p>For more information regarding MOE FAS, please click&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
