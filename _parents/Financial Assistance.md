@@ -65,13 +65,6 @@ please approach a social service agency near your residence: <a href="https://ww
 13 February 2026.</p>
 <p><strong>How to Apply:</strong>
 </p>
-<p>Application forms are available from the school's General Office or can
-be downloaded in the link below:</p>
-<p><a href="/files/Annex_A___2026_STSPMF_Application_Form_for_schools.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
-</p>
-<p><a href="/files/Annex_B___Income_declaration_form.pdf" rel="noopener nofollow" target="_blank">Income Declaration Form</a>
-</p>
-<p>Please submit completed application forms together with relevant supporting
-documents to the General Office by 13 February 2026.</p>
+<p>Application for STSPMF through schools is closed.</p>
 <p></p>
 <p>&nbsp;</p>
