@@ -49,6 +49,17 @@ Mee Soto and Mee Siam, Halal Japanese/Korean cuisine, etc. Non-Western.</p>
 <p>E.g. White/Fried Bee Hoon, Kway Teow, La Mian, etc.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Rice Stall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Available</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E.g. mixed vegetable rice, fried rice, omelette rice, curry rice, etc</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>&nbsp;Application Procedure</strong>
