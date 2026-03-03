@@ -39,6 +39,14 @@ day talk, sharing sessions with staff and financial assistance etc.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Honorary Secretary:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Ke-Xin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Honorary Treasurer:</p>
 </td>
 <td rowspan="1" colspan="1">
