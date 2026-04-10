@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 third_nav_title: Our Co Curriculum
 ---
-<h2><strong>Learning for Life Programme</strong></h2>
 <p>Our school's Learn for Life Programme (LLP) is "Guangyang Advocates".
 We aim to nurture students who actively lead positive change in the school
 and wider community by building Emerging 21st Century Competencies (E21CC),
