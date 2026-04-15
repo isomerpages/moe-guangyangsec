@@ -4,21 +4,60 @@ permalink: /admission/dsa/
 description: ""
 variant: tiptap
 ---
+<h4><strong><u>Direct School Admission (DSA) 2026</u></strong></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Webpage_2025_updated_on_7_May_2025_conv_1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Webpage_2025_updated_on_7_May_2025_conv_2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Webpage_2025_updated_on_7_May_2025_conv_3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Webpage_2025_updated_on_7_May_2025_conv_4.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Webpage_2025_updated_on_7_May_2025_conv_5.png">
-</div>
+<blockquote>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong><u>Background</u></strong>
+</p>
+</li>
+</ol>
+</blockquote>
+<p>The Direct School Admission for Secondary Schools (DSA-Sec) Exercise was
+introduced by the Ministry of Education in 2004. It provides a pathway
+for students to gain admission to secondary schools based on their interests,
+aptitudes, and potential, beyond their performance in the Primary School
+Leaving Examination (PSLE).</p>
+<p>Under the DSA-Sec Exercise, participating schools may select selected
+Primary Six (P6) students for admission to Secondary One before the release
+of the PSLE results.</p>
+<blockquote>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong><u>Talent Areas</u></strong>
+</p>
+</li>
+</ol>
+</blockquote>
+<p>Our school’s vision is <em>“Nurturing Thinkers, Inspiring Leaders, Empowering Advocates.”</em> &nbsp;We
+believe that our Co-Curricular Activities (CCAs) provide a valuable platform
+for students to <em>“Challenge Convention and Champion their Passion.”</em>
+</p>
+<p>For DSA 2026, Guangyang Secondary School will offer the following talent
+areas for Primary 6 (P6) students:</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
