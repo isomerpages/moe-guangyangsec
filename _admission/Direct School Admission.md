@@ -36,7 +36,93 @@ for students to <em>“Challenge Convention and Champion their Passion.”</em>
 </p>
 <p>For DSA 2026, Guangyang Secondary School will offer the following talent
 areas for Primary 6 (P6) students:</p>
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>S/N</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>DSA Main category</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>DSA Talent Area</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>01</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sports &amp; Games</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Basketball (Boys &amp; Girls)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>02</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sports &amp; Games</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Badminton (Boys &amp; Girls)Cross Country (Boys &amp; Girls)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>03</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sports &amp; Games</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Cross Country (Boys &amp; Girls)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>04</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Performing Arts</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>English Drama (Boys &amp; Girls)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>05</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Leadership and Uniformed Groups</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Community Youth Leadership</strong>
+</p>
+<p><strong>(Boys &amp; Girls)</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
