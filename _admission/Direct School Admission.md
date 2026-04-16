@@ -377,10 +377,90 @@ experience, communication skills and commitment to community service.</p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p><em>Note:</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em></strong>
+</p>
+</li>
+<li>
+<p><em>No academic ability tests e.g. GAT/ HAST will be conducted during the selection process.</em>
+</p>
+</li>
+<li>
+<p><em>Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
+</p>
+</li>
+</ul>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p><strong><u>Application Procedure</u></strong>
+</p>
+</li>
+</ol>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Important Dates</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Key Event</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 May – 2 June 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DSA Application period. You can go to the MOE DSA-Sec Website to access
+the DSA-Sec Portal</p>
+<p><em>(Note: You can only login via SINGPASS from 6 May)</em>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 June – 28 August 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted Applicants will be invited to attend a Selection Trial cum
+Interview Session at our school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 August - 28 August 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Release of the DSA outcome by school</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 October – 23 October 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Preference Submission by students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Late November 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Notification of DSA-Sec admission result (on the same day of the PSLE
+results release)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
