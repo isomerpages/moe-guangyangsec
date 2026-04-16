@@ -23,11 +23,11 @@ sections:
       alignment: left
       backgroundColor: gray
   - infobar:
-      title: First Week of School
+      title: Direct School Admission
       id: infobar
-      description: First Day of School Information
+      description: Direct School Admission Information
       button: Click here
-      url: https://www.guangyangsec.moe.edu.sg/first-week-of-school/
+      url: www.guangyangsec.moe.edu.sg/admission/dsa/
   - infobar:
       title: Students Timetable
       id: infobar
