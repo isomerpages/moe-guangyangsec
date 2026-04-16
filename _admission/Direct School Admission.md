@@ -34,8 +34,11 @@ of the PSLE results.</p>
 believe that our Co-Curricular Activities (CCAs) provide a valuable platform
 for students to <em>“Challenge Convention and Champion their Passion.”</em>
 </p>
-<p>For DSA 2026, Guangyang Secondary School will offer the following talent
-areas for Primary 6 (P6) students:</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>For DSA 2026, Guangyang Secondary School will offer the following talent
+areas for Primary 6 (P6) students:</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -59,12 +62,10 @@ areas for Primary 6 (P6) students:</p>
 <p>01</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sports &amp; Games</strong>
-</p>
+<p>Sports &amp; Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Basketball (Boys &amp; Girls)</strong>
-</p>
+<p>Basketball (Boys &amp; Girls)</p>
 </td>
 </tr>
 <tr>
@@ -72,12 +73,10 @@ areas for Primary 6 (P6) students:</p>
 <p>02</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sports &amp; Games</strong>
-</p>
+<p>Sports &amp; Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Badminton (Boys &amp; Girls)Cross Country (Boys &amp; Girls)</strong>
-</p>
+<p>Badminton (Boys &amp; Girls)Cross Country (Boys &amp; Girls)</p>
 </td>
 </tr>
 <tr>
@@ -85,12 +84,10 @@ areas for Primary 6 (P6) students:</p>
 <p>03</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sports &amp; Games</strong>
-</p>
+<p>Sports &amp; Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Cross Country (Boys &amp; Girls)</strong>
-</p>
+<p>Cross Country (Boys &amp; Girls)</p>
 </td>
 </tr>
 <tr>
@@ -98,12 +95,10 @@ areas for Primary 6 (P6) students:</p>
 <p>04</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Performing Arts</strong>
-</p>
+<p>Performing Arts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>English Drama (Boys &amp; Girls)</strong>
-</p>
+<p>English Drama (Boys &amp; Girls)</p>
 </td>
 </tr>
 <tr>
@@ -111,7 +106,249 @@ areas for Primary 6 (P6) students:</p>
 <p>05</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Leadership and Uniformed Groups</strong>
+<p>Leadership and Uniformed Groups</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Community Youth Leadership (Boys &amp; Girls)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<blockquote>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong><u>Achievements</u></strong>
+</p>
+</li>
+</ol>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>The table below summarises the achievements of the talent areas for the
+last two years:</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Talent Area</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Year 2024</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Year 2025</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Basketball Boys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3<sup>rd</sup> </strong>in NSG B Division (South Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1<sup>st</sup> </strong>in NSG C Division (League 3)</p>
+<p><strong>4<sup>th</sup> </strong>in NSG B Division (South Zone)</p>
+<p>Top 8 in NSG B Division (National)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Badminton Girls</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>4<sup>th</sup> </strong>in NSG C Division (League 5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Cross Country</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Individual results –</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>18<sup>th</sup></strong> in C Division Boys</p>
+</li>
+<li>
+<p><strong>20<sup>th</sup></strong> in C Division Girls</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Individual results –</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>19<sup>th</sup></strong> in B Division Boys</p>
+</li>
+<li>
+<p><strong>20<sup>th</sup></strong>in B Division Girls</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English Drama</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Non SYF Year</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF): Certificate of Accomplishment</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<blockquote>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p><strong><u>Selection Criteria</u></strong>
+</p>
+</li>
+</ol>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Please refer to the table below for the selection criteria for each DSA
+talent area:</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>DSA Talent Area</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Selection Criteria</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Selection Process</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>01</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Basketball (Boys &amp; Girls)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Relevant participation and achievements in Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted applicants will undergo the following:</p>
+<p>i.&nbsp;&nbsp;&nbsp; A physical assessment to evaluate speed, agility
+and jumping ability.</p>
+<p>ii.&nbsp;&nbsp; A skills assessment to evaluate ball-handling skills,
+teamwork and game awareness.</p>
+<p>iii.&nbsp; A short interview at the end of the trial session.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>02</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Badminton (Boys &amp; Girls)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Relevant participation and achievements in Badminton.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted applicants will undergo the following:</p>
+<p>i.&nbsp;&nbsp;&nbsp; A physical assessment to evaluate speed, footwork
+and jumping ability.</p>
+<p>ii.&nbsp;&nbsp; A skills assessment to evaluate racquet skills and game
+awareness.</p>
+<p>iii.&nbsp; A short interview at the end of the trial session.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>03</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Cross Country</strong>
+</p>
+<p><strong>(Boys &amp; Girls)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Relevant participation and achievements in Cross Country.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted applicants will undergo the following:</p>
+<p>i.&nbsp;&nbsp;&nbsp; A physical assessment to evaluate stamina.</p>
+<p>A short interview at the end of the trial session.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>04</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>English Drama (Boys &amp; Girls)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Relevant participation and achievements in English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted candidates will undergo the following:</p>
+<p>A live audition comprising two monologues (one dramatic and one comedic)
+to assess the i.&nbsp;&nbsp;&nbsp; student’s acting skills and ability
+to convey emotions and character.</p>
+<p>ii.&nbsp;&nbsp; A live singing audition to assess the student’s sense
+of rhythm and melody.</p>
+<p>A short interview at the end of the audition.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>05</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,9 +357,81 @@ areas for Primary 6 (P6) students:</p>
 <p><strong>(Boys &amp; Girls)</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>i.&nbsp;&nbsp;&nbsp; Applicants should be role models who have demonstrated
+excellent leadership skills and potential through their experiences in
+key leadership positions in primary school.</p>
+<p>ii.&nbsp;&nbsp; Applicants should indicate non-school-based achievements
+in their online application in MOE’s DSA Portal.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted candidates will undergo the following:</p>
+<p>i.&nbsp;&nbsp;&nbsp;&nbsp; Submission of a leadership portfolio, including
+a personal leadership statement and relevant leadership experiences.</p>
+<p>ii.&nbsp;&nbsp;&nbsp; An interview to assess the student’s leadership
+experience, communication skills and commitment to community service.</p>
+</td>
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
