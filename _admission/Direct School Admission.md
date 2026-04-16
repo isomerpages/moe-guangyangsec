@@ -461,7 +461,28 @@ results release)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Note:</em>
+</p>
+</li>
+<li>
+<p><em>You will receive notification from the school by 31 July 2026 if your child has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between 17 and 28 Aug 2026.</em>
+</p>
+</li>
+<li>
+<p><em>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</em>
+</p>
+</li>
+<li>
+<p><em>Singpass login can only be used by parents whose children are studying in the MOE mainstream primary schools.</em>
+</p>
+</li>
+<li>
+<p><em>For other applicants not studying in MOE mainstream primary schools, parents will need to apply for a Registration Number via the MOE website before they can access the DSA-Sec Portal.</em>
+</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
