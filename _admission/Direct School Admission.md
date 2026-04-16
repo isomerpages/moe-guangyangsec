@@ -516,73 +516,40 @@ and conducive school environment.”</p>
 </li>
 </ol>
 </blockquote>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>For enquiries, please contact</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Ronald Pung, HOD PE &amp; CCA (Cov) or Miss Cassandra Lee, SH PE &amp;
+CCA</p>
+</li>
+<li>
+<p>Tel: 62589781</p>
+<p>Email: <a href="mailto:pung_chin_ee_ronald@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pung_chin_ee_ronald@schools.gov.sg</a> /
+<a href="mailto:lee_yun_yun_cassandra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yun_yun_cassandra@schools.gov.sg</a>/ <a href="mailto:gyss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gyss@moe.edu.sg</a>&nbsp;</p>
+</li>
+</ul>
+<blockquote>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p><strong><u>Useful Links</u></strong>
+</p>
+</li>
+</ol>
+</blockquote>
+<p>DSA-Sec Main Webpage	<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+</p>
+<p>Instructions on Application (Mainstream students)	<a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
+</p>
+<p>Instructions on Application (Non-Mainstream Students)	<a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+</p>
+<p>Direct to DSA-Sec Portal (Mainstream Students)	<a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec</a>
+</p>
+<p>Direct to DSA-Sec Portal (Non-Mainstream Students)	<a href="https://go.gov.sg/apply-dsa-sec-nms" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/apply-dsa-sec-nms</a>
+</p>
+<p>DSA-Sec iFAQs	<a href="https://go.gov.sg/dsa-secfaqs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secfaqs</a>
+</p>
+<p>DSA-Sec SchoolFinder	<a href="https://go.gov.sg/dsa-secschfinder" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-secschfinder</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
