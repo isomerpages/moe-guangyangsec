@@ -481,11 +481,41 @@ results release)</p>
 <li>
 <p><em>For other applicants not studying in MOE mainstream primary schools, parents will need to apply for a Registration Number via the MOE website before they can access the DSA-Sec Portal.</em>
 </p>
+<p></p>
+<blockquote>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p><strong><u>Reflections from our past DSA students</u></strong>
+</p>
+</li>
+</ol>
+</blockquote>
 </li>
 </ul>
-<p></p>
-<p></p>
-<p></p>
+<p><u>Jun Jie – Sec 1 (2026):</u>
+</p>
+<p>“My seniors have been very welcoming, and I really enjoy the spacious
+and conducive school environment.”</p>
+<p><u>Gwendolyn – Sec 1 (2025):</u>
+</p>
+<p><em>“The school culture is good, and I have made a lot of friends since I joined the school.”</em>
+</p>
+<p><u>Talitha &amp; Kelly – Sec 1 (2023):</u>
+</p>
+<p><em>“The past few months in Guangyang Secondary School helped us realised that we made the right choice. The teachers here are caring and helpful and we love the school environment.”</em>
+</p>
+<p><u>Sriram, Norriyan, Yong Kang &amp; Jayden – Sec 1 (2023):</u>
+</p>
+<p><em>“We are happy to have chosen Guangyang Secondary School as our DSA school as the Basketball programme provides us with the opportunities to develop our passion as basketball players.”</em>
+</p>
+<blockquote>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p><strong><u>Contacts</u></strong>
+</p>
+</li>
+</ol>
+</blockquote>
 <p></p>
 <p></p>
 <p></p>
