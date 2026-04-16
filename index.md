@@ -27,7 +27,7 @@ sections:
       id: infobar
       description: Direct School Admission Information
       button: Click here
-      url: www.guangyangsec.moe.edu.sg/admission/dsa/
+      url: https://www.guangyangsec.moe.edu.sg/admission/dsa/
   - infobar:
       title: Students Timetable
       id: infobar
