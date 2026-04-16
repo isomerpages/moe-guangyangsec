@@ -34,6 +34,10 @@ of the PSLE results.</p>
 believe that our Co-Curricular Activities (CCAs) provide a valuable platform
 for students to <em>“Challenge Convention and Champion their Passion.”</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture1.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>For DSA 2026, Guangyang Secondary School will offer the following talent
@@ -377,6 +381,9 @@ experience, communication skills and commitment to community service.</p>
 </div>
 </details>
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture2.png">
+</div>
 <p><em>Note:</em>
 </p>
 <ul data-tight="true" class="tight">
@@ -481,6 +488,10 @@ results release)</p>
 <li>
 <p><em>For other applicants not studying in MOE mainstream primary schools, parents will need to apply for a Registration Number via the MOE website before they can access the DSA-Sec Portal.</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture3.png">
+</div>
 <p></p>
 <blockquote>
 <ol start="6" data-tight="true" class="tight">
