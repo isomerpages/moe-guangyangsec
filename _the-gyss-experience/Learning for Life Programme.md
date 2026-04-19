@@ -3,7 +3,6 @@ title: Learning for Life Programme
 permalink: /thinker/lifelonglearning/
 description: ""
 variant: tiptap
-third_nav_title: Our Co Curriculum
 ---
 <p>Our school's Learn for Life Programme (LLP) is "Guangyang Advocates".
 We aim to nurture students who actively lead positive change in the school
