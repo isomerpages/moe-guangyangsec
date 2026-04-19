@@ -2,10 +2,10 @@ collections:
   the-gyss-experience:
     output: true
     order:
-      - Learning for Life Programme.md
       - Key Cohort Activities.md
       - Applied Learning Programme.md
       - Full Subject Based Banding.md
+      - Learning for Life Programme.md
       - Our Curriculum/.keep
       - Our Curriculum/Computing.md
       - Our Curriculum/Craft and Technology.md
@@ -17,8 +17,8 @@ collections:
       - Our Curriculum/Science.md
       - Our Curriculum/Character & Citizenship Education (CCE).md
       - Our Curriculum/Information & Communication Technology (ICT).md
-      - Our Co Curriculum/CCA Schedule 2026.md
       - Our Co Curriculum/.keep
+      - Our Co Curriculum/CCA Schedule 2026.md
       - Our Co Curriculum/Infocomm Media Club.md
       - Our Co Curriculum/Band.md
       - Our Co Curriculum/Basketball Boys.md
