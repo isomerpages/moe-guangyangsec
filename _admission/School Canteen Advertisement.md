@@ -91,7 +91,8 @@ email OR to the School’s General Office.</p>
 </ol>
 <p>Address: Guangyang Secondary School, 8 Bishan Street 12, Singapore 579807</p>
 <p>Contact No: 62589781</p>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">Raymond_moo@schools.gov.sg</a>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank"> </a><a href="ong_choon_kong@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_choon_kong@schools.gov.sg</a> or
+<a rel="noopener noreferrer nofollow" target="_blank">Raymond_moo@schools.gov.sg</a>
 </p>
 <p>Contact Person: Mr Ong Choon Kong (OM) / Mr Raymond Moo (AM)</p>
 <p><strong>How to get there?</strong>
@@ -145,5 +146,7 @@ from the Singapore Food Agency (SFA).</p>
 <p>Shortlisted applicants will be notified for an interview and will be required
 to provide food sampling for the School Canteen Committee at the applicant’s
 own expense. Successful applicant will be expected to commence operation
-of the stall asap. Please contact the school’s Administration Manager,
-Mr Raymond Moo at 62589781 (x16) for any clarifications.</p>
+of the stall asap. Please contact the school’s Administration Manager or
+Operation Manager, Mr Raymond Moo or Ong Choon Kong at 62589781 (x16) or
+(x54) for any clarifications.</p>
+<p></p>
