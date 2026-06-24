@@ -49,6 +49,18 @@ Mee Soto and Mee Siam, Halal Japanese/Korean cuisine, etc. Non-Western.</p>
 <p>E.g. mixed vegetable rice, fried rice, omelette rice, curry rice, etc</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asia Cuisine (Non-Halal Japanese/Korean etc)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Available</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Korean and Japanese Cuisine, e.g. Bulgogi Chicken/Pork Rice Bowl, Teriyaki
+Chicken/Pork Don, etc.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>&nbsp;Application Procedure</strong>
@@ -91,7 +103,7 @@ email OR to the School’s General Office.</p>
 </ol>
 <p>Address: Guangyang Secondary School, 8 Bishan Street 12, Singapore 579807</p>
 <p>Contact No: 62589781</p>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank"> </a><a href="ong_choon_kong@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_choon_kong@schools.gov.sg</a> or
+<p>Email: <a href="ong_choon_kong@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_choon_kong@schools.gov.sg</a> or
 <a rel="noopener noreferrer nofollow" target="_blank">Raymond_moo@schools.gov.sg</a>
 </p>
 <p>Contact Person: Mr Ong Choon Kong (OM) / Mr Raymond Moo (AM)</p>
