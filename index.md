@@ -31,7 +31,7 @@ sections:
   - infobar:
       title: Students Timetable
       id: infobar
-      description: Updated on 6 Jan 2026
+      description: Updated on 25 Jun 2026
       button: Click here
       url: https://www.guangyangsec.moe.edu.sg/students/timetable/
 ---
