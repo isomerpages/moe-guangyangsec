@@ -32,7 +32,6 @@ variant: tiptap
 <div data-type="detailsContent" class="isomer-details-content">
 <p><a href="/files/School timetable/SEM 2_2026/2026_Sem2_TT_5Day_Wk__21Jun_Final__CLASSES_SEC4_5.pdf" rel="noopener nofollow" target="_blank">Sec 4&amp;5 (all class)</a>
 </p>
-<p></p>
 </div>
 </details>
 </div>
