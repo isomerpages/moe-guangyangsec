@@ -227,7 +227,7 @@ third_nav_title: Our People
 <p>Mr Tuong Ze Wei Wilson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ Maths</p>
+<p>Subject Head/ Mathematics</p>
 </td>
 </tr>
 <tr>
