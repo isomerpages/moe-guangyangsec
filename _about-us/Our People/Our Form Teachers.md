@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h5>Sec 1 Year head : Mr Pung Chin Ee Ronald</h5>
+<h5>Sec 1 Year head : Ms Wee Jing Yun</h5>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Sec 1 Form Teachers</strong>
