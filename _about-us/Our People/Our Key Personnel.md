@@ -224,6 +224,14 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Tuong Ze Wei Wilson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/ Maths</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Haniza Bte Abdul Manan</p>
 </td>
 <td rowspan="1" colspan="1">
