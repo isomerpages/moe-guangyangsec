@@ -51,14 +51,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1-2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Teo Meng Hoo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1-3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,14 +63,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sean Lim Jia Hui</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1-3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Terence Ng Kok Chuan</p>
 </td>
 </tr>
 <tr>
@@ -134,7 +118,7 @@ variant: tiptap
 <p>1-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mardiana Binte Jamaludin</p>
+<p>Mr Tuong Ze Wei Wilson</p>
 </td>
 </tr>
 <tr>
