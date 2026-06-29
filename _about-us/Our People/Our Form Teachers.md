@@ -176,7 +176,7 @@ variant: tiptap
 <p>2-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Cheng Yue Chiang Calvin</p>
+<p>Mr Chang Hao Hsi David</p>
 </td>
 </tr>
 <tr>
