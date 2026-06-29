@@ -139,7 +139,15 @@ third_nav_title: Our People
 <p>Mr Pung Chin Ee Ronald</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department / PE&amp;CCA (Cov) &amp; Assistant Year Head (Sec 1)</p>
+<p>Head of Department / PE&amp;CCA (Cov)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wee Jing Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Sec 1)</p>
 </td>
 </tr>
 <tr>
