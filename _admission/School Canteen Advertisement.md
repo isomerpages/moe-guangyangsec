@@ -28,29 +28,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Others (Halal, Open to Proposal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Available</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Halal Asian Cuisine (Rice/Noodle), e.g. Nasi Padang, Nasi Lemak, Mee Rebus,
-Mee Soto and Mee Siam, Halal Japanese/Korean cuisine, etc. Non-Western.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Rice Stall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Available</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>E.g. mixed vegetable rice, fried rice, omelette rice, curry rice, etc</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Asia Cuisine (Non-Halal Japanese/Korean etc)</p>
 </td>
 <td rowspan="1" colspan="1">
