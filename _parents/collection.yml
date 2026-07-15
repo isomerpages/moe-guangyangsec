@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Anti Bullying Policy.md
       - Sec 1 Appeal for Transfer to Guangyang Secondary School.md
       - Sec 1 Registration 2026/.keep
       - Sec 1 Registration 2026/First Week of School.md
